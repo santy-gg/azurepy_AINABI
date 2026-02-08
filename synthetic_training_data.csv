@@ -1,0 +1,201 @@
+nombre,area,jerarquia,puntaje,cantidad_proyectos,desempenio,personas_equipo,horas_extra,asistencia_puntualidad,desempenio_futuro
+Empleado 1,administracion,0,86,1,1,11,16,91,2
+Empleado 2,reposicion,2,43,3,1,22,2,67,2
+Empleado 3,ventas,0,83,2,1,29,19,85,2
+Empleado 4,logistica,2,30,1,1,2,3,56,0
+Empleado 5,deposito,1,88,2,1,4,5,91,2
+Empleado 6,caja,1,65,3,0,20,16,97,2
+Empleado 7,logistica,2,64,1,1,4,1,86,1
+Empleado 8,ventas,1,44,3,1,28,12,89,2
+Empleado 9,deposito,2,56,3,1,4,20,63,1
+Empleado 10,reposicion,1,44,4,2,16,0,55,2
+Empleado 11,ventas,0,75,1,0,19,3,95,1
+Empleado 12,atencion al cliente,0,35,1,0,30,20,65,1
+Empleado 13,administracion,0,30,1,1,17,8,53,1
+Empleado 14,atencion al cliente,1,70,5,0,7,5,93,2
+Empleado 15,caja,0,47,3,0,15,5,82,1
+Empleado 16,logistica,2,92,1,1,30,10,95,2
+Empleado 17,reposicion,1,55,1,1,28,5,67,2
+Empleado 18,logistica,0,40,4,1,18,13,79,2
+Empleado 19,ventas,2,65,1,1,4,5,48,0
+Empleado 20,atencion al cliente,0,49,3,1,24,6,100,1
+Empleado 21,ventas,1,87,5,1,21,10,46,2
+Empleado 22,ventas,2,48,4,1,10,4,45,2
+Empleado 23,reposicion,0,73,4,2,4,12,60,1
+Empleado 24,atencion al cliente,0,35,3,1,8,1,45,2
+Empleado 25,deposito,2,57,4,1,23,3,44,2
+Empleado 26,caja,1,45,5,1,24,9,88,2
+Empleado 27,administracion,2,54,4,0,19,13,46,0
+Empleado 28,administracion,2,58,4,2,10,19,51,2
+Empleado 29,administracion,1,97,3,1,17,3,63,2
+Empleado 30,administracion,1,41,4,1,25,11,68,2
+Empleado 31,atencion al cliente,1,42,1,1,30,5,61,0
+Empleado 32,caja,0,57,1,1,10,11,100,2
+Empleado 33,atencion al cliente,2,89,3,1,25,9,85,2
+Empleado 34,administracion,0,78,4,2,14,1,81,1
+Empleado 35,ventas,0,75,2,1,15,2,56,1
+Empleado 36,caja,1,63,3,1,27,10,74,1
+Empleado 37,caja,0,54,3,0,17,7,70,1
+Empleado 38,deposito,0,57,4,2,27,12,76,2
+Empleado 39,atencion al cliente,1,68,1,1,13,13,54,2
+Empleado 40,caja,1,42,3,1,19,8,41,2
+Empleado 41,deposito,2,40,3,2,18,2,59,2
+Empleado 42,deposito,2,56,2,1,26,11,75,1
+Empleado 43,caja,1,42,1,0,30,9,46,0
+Empleado 44,logistica,0,63,2,1,20,18,50,1
+Empleado 45,atencion al cliente,2,33,4,1,5,5,88,2
+Empleado 46,deposito,0,58,3,1,17,1,47,1
+Empleado 47,deposito,1,42,4,1,14,19,48,2
+Empleado 48,administracion,1,55,3,1,5,1,71,1
+Empleado 49,reposicion,0,96,4,1,27,0,71,2
+Empleado 50,caja,0,31,3,1,12,2,59,1
+Empleado 51,caja,2,90,5,1,19,1,100,2
+Empleado 52,caja,2,55,4,1,11,18,79,2
+Empleado 53,atencion al cliente,0,33,3,2,17,13,78,1
+Empleado 54,deposito,0,92,3,1,4,13,54,1
+Empleado 55,ventas,0,77,5,1,28,4,83,1
+Empleado 56,administracion,1,30,5,1,27,9,65,2
+Empleado 57,administracion,0,88,2,0,20,10,75,1
+Empleado 58,ventas,1,63,3,0,26,15,94,2
+Empleado 59,deposito,0,99,4,1,12,1,46,2
+Empleado 60,administracion,2,42,5,0,23,2,62,2
+Empleado 61,reposicion,1,46,5,0,12,7,70,1
+Empleado 62,administracion,2,74,1,1,25,13,96,2
+Empleado 63,reposicion,0,66,1,1,3,9,61,1
+Empleado 64,reposicion,0,37,5,2,9,6,70,1
+Empleado 65,deposito,2,71,4,1,3,11,49,2
+Empleado 66,caja,1,68,3,1,6,17,89,2
+Empleado 67,deposito,1,47,5,2,6,0,51,2
+Empleado 68,reposicion,1,94,1,2,25,20,74,2
+Empleado 69,logistica,2,57,1,1,15,13,61,0
+Empleado 70,administracion,2,56,1,2,12,8,79,1
+Empleado 71,logistica,2,75,1,2,4,13,100,2
+Empleado 72,reposicion,1,81,4,2,13,10,83,2
+Empleado 73,reposicion,1,49,4,1,21,0,73,2
+Empleado 74,atencion al cliente,2,33,1,2,17,0,49,0
+Empleado 75,caja,0,47,1,2,6,12,52,2
+Empleado 76,ventas,2,47,1,1,15,5,47,0
+Empleado 77,logistica,2,47,2,0,13,12,77,1
+Empleado 78,ventas,2,75,4,2,2,9,53,1
+Empleado 79,ventas,1,68,3,1,14,19,72,2
+Empleado 80,logistica,2,45,5,0,4,5,52,1
+Empleado 81,logistica,1,77,3,0,12,4,70,1
+Empleado 82,atencion al cliente,1,84,3,1,12,3,98,2
+Empleado 83,logistica,1,68,3,1,13,8,69,1
+Empleado 84,atencion al cliente,1,51,3,2,30,7,44,1
+Empleado 85,caja,0,66,2,0,29,15,57,1
+Empleado 86,reposicion,2,92,5,2,8,0,73,2
+Empleado 87,reposicion,2,34,5,1,12,1,79,2
+Empleado 88,logistica,1,56,1,2,9,17,73,2
+Empleado 89,administracion,2,34,2,0,2,5,48,0
+Empleado 90,administracion,1,50,5,1,21,20,62,2
+Empleado 91,atencion al cliente,1,91,3,2,14,2,56,2
+Empleado 92,deposito,0,61,1,0,21,14,76,1
+Empleado 93,reposicion,0,71,2,1,7,18,88,0
+Empleado 94,ventas,2,76,5,1,28,3,52,2
+Empleado 95,logistica,0,50,4,1,8,11,52,2
+Empleado 96,deposito,1,31,5,2,16,16,80,2
+Empleado 97,administracion,2,38,1,1,12,11,67,2
+Empleado 98,ventas,2,42,5,0,25,16,85,2
+Empleado 99,caja,1,97,5,1,18,8,95,2
+Empleado 100,atencion al cliente,2,54,1,2,17,7,49,2
+Empleado 101,logistica,2,48,3,1,4,16,45,2
+Empleado 102,caja,0,45,2,2,21,7,53,1
+Empleado 103,reposicion,0,95,2,0,10,18,51,1
+Empleado 104,atencion al cliente,1,76,3,1,16,20,42,2
+Empleado 105,logistica,1,96,3,1,28,11,46,2
+Empleado 106,deposito,1,87,2,0,28,2,97,2
+Empleado 107,administracion,2,33,4,2,29,15,100,2
+Empleado 108,caja,0,51,3,0,16,12,97,1
+Empleado 109,reposicion,2,88,3,2,5,18,97,2
+Empleado 110,atencion al cliente,2,93,4,2,26,1,82,2
+Empleado 111,ventas,0,55,3,2,5,12,59,1
+Empleado 112,reposicion,2,56,3,1,11,13,67,2
+Empleado 113,reposicion,2,97,2,2,22,1,48,2
+Empleado 114,administracion,0,97,5,2,19,14,100,2
+Empleado 115,reposicion,0,73,1,1,7,5,82,1
+Empleado 116,caja,0,91,4,2,2,3,63,2
+Empleado 117,administracion,1,71,4,1,26,18,74,2
+Empleado 118,administracion,0,66,2,1,7,19,59,1
+Empleado 119,caja,1,94,1,1,11,1,89,2
+Empleado 120,ventas,0,37,4,2,11,6,43,2
+Empleado 121,ventas,1,97,5,1,14,5,83,2
+Empleado 122,deposito,1,65,3,2,4,18,81,1
+Empleado 123,administracion,2,72,3,1,18,2,49,2
+Empleado 124,atencion al cliente,0,81,4,1,26,17,89,2
+Empleado 125,caja,1,72,3,0,13,6,98,1
+Empleado 126,deposito,0,41,1,2,13,0,46,0
+Empleado 127,administracion,1,99,3,0,10,4,73,1
+Empleado 128,deposito,1,85,1,1,26,14,65,1
+Empleado 129,administracion,1,56,2,0,26,18,49,1
+Empleado 130,administracion,1,69,3,1,23,15,91,2
+Empleado 131,deposito,0,41,4,2,4,7,62,1
+Empleado 132,deposito,1,81,1,1,13,9,97,2
+Empleado 133,reposicion,1,99,4,1,11,0,58,2
+Empleado 134,reposicion,0,66,3,2,9,5,40,1
+Empleado 135,ventas,1,71,1,1,25,17,92,2
+Empleado 136,atencion al cliente,0,99,5,0,5,17,47,1
+Empleado 137,ventas,2,46,5,0,29,12,60,1
+Empleado 138,administracion,1,53,3,2,29,18,48,2
+Empleado 139,logistica,1,79,3,1,8,17,95,1
+Empleado 140,reposicion,2,84,3,2,7,6,84,2
+Empleado 141,ventas,1,70,2,2,26,5,80,1
+Empleado 142,reposicion,1,60,1,1,7,20,79,2
+Empleado 143,reposicion,2,64,1,2,2,16,63,0
+Empleado 144,administracion,2,85,5,2,8,8,64,2
+Empleado 145,caja,1,43,4,0,19,8,91,2
+Empleado 146,logistica,1,44,2,1,12,4,94,2
+Empleado 147,administracion,2,87,2,2,12,19,63,0
+Empleado 148,logistica,2,90,4,0,20,8,74,2
+Empleado 149,deposito,0,71,3,0,4,13,72,0
+Empleado 150,administracion,0,72,4,1,27,18,73,2
+Empleado 151,atencion al cliente,1,34,2,0,3,0,60,2
+Empleado 152,atencion al cliente,1,73,4,2,7,16,88,0
+Empleado 153,administracion,0,56,1,0,5,18,70,2
+Empleado 154,atencion al cliente,1,71,1,1,12,15,94,2
+Empleado 155,deposito,2,93,4,1,23,7,51,2
+Empleado 156,deposito,0,72,1,2,5,13,51,1
+Empleado 157,atencion al cliente,1,98,1,2,22,0,73,2
+Empleado 158,caja,0,46,4,0,3,20,55,1
+Empleado 159,reposicion,0,41,3,1,27,0,72,1
+Empleado 160,ventas,1,81,2,1,10,18,47,2
+Empleado 161,atencion al cliente,2,58,4,1,24,0,87,2
+Empleado 162,logistica,1,40,2,2,20,4,81,2
+Empleado 163,reposicion,2,72,2,2,13,2,91,2
+Empleado 164,caja,1,93,3,0,21,1,52,1
+Empleado 165,logistica,0,39,2,1,20,0,76,1
+Empleado 166,logistica,2,30,3,1,18,16,49,2
+Empleado 167,administracion,1,80,3,1,25,3,74,1
+Empleado 168,reposicion,0,87,2,0,11,12,81,1
+Empleado 169,administracion,2,34,1,1,24,12,40,2
+Empleado 170,logistica,1,63,5,0,18,12,69,2
+Empleado 171,administracion,2,43,2,1,2,17,94,2
+Empleado 172,caja,2,84,2,0,13,5,82,1
+Empleado 173,logistica,0,67,4,2,14,15,51,2
+Empleado 174,deposito,0,96,1,1,12,5,85,2
+Empleado 175,atencion al cliente,2,60,1,2,9,20,89,2
+Empleado 176,logistica,1,94,5,1,18,17,74,2
+Empleado 177,deposito,0,42,3,1,20,0,84,2
+Empleado 178,logistica,0,30,1,2,2,13,98,0
+Empleado 179,ventas,0,34,5,0,23,15,56,1
+Empleado 180,caja,2,51,3,2,30,6,81,1
+Empleado 181,ventas,2,58,1,1,23,20,85,0
+Empleado 182,administracion,0,41,4,1,11,4,72,2
+Empleado 183,deposito,2,85,1,1,25,12,97,2
+Empleado 184,ventas,0,55,1,1,17,9,65,1
+Empleado 185,caja,1,88,2,1,24,15,48,2
+Empleado 186,deposito,0,54,2,1,21,14,94,2
+Empleado 187,ventas,2,67,2,1,9,12,88,2
+Empleado 188,administracion,0,73,2,2,29,19,43,1
+Empleado 189,reposicion,1,89,1,2,11,13,69,2
+Empleado 190,deposito,2,70,4,0,21,2,60,1
+Empleado 191,reposicion,2,38,5,2,24,12,98,2
+Empleado 192,atencion al cliente,2,38,4,1,3,0,76,2
+Empleado 193,administracion,1,76,1,0,23,10,89,1
+Empleado 194,administracion,2,46,3,0,3,4,67,2
+Empleado 195,reposicion,1,41,1,2,25,16,41,2
+Empleado 196,reposicion,1,43,4,2,11,11,58,1
+Empleado 197,caja,0,77,5,2,8,6,75,1
+Empleado 198,reposicion,1,78,4,2,15,7,51,2
+Empleado 199,reposicion,1,87,5,1,29,13,64,2
+Empleado 200,logistica,1,70,4,1,10,11,98,2

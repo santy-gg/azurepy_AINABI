@@ -1,0 +1,3001 @@
+nombre,area,jerarquia,puntaje,cantidad_proyectos,desempenio,personas_equipo,horas_extra,asistencia_puntualidad,desempenio_futuro
+Empleado 1,deposito,junior,36,3,bajo,14,3,68,0
+Empleado 2,reposicion,trainee,65,3,alto,27,15,74,0
+Empleado 3,ventas,trainee,52,2,medio,18,20,93,0
+Empleado 4,atencion al cliente,trainee,96,5,medio,23,16,62,0
+Empleado 5,logistica,trainee,44,3,bajo,15,12,93,0
+Empleado 6,ventas,junior,42,5,medio,24,7,93,1
+Empleado 7,caja,senior,66,3,medio,7,14,58,1
+Empleado 8,administracion,trainee,33,1,medio,29,16,44,0
+Empleado 9,administracion,junior,98,4,medio,5,11,84,1
+Empleado 10,logistica,junior,98,2,alto,7,1,65,0
+Empleado 11,ventas,junior,39,5,alto,15,18,80,0
+Empleado 12,caja,trainee,33,3,medio,15,2,82,0
+Empleado 13,logistica,trainee,30,3,alto,15,11,89,0
+Empleado 14,caja,junior,73,4,medio,15,3,60,0
+Empleado 15,administracion,senior,72,3,alto,26,0,82,0
+Empleado 16,ventas,junior,76,3,medio,11,16,85,1
+Empleado 17,caja,senior,85,1,bajo,4,13,80,1
+Empleado 18,reposicion,junior,30,4,alto,26,7,100,0
+Empleado 19,caja,junior,91,1,medio,14,1,40,0
+Empleado 20,atencion al cliente,junior,90,1,medio,11,12,45,0
+Empleado 21,caja,junior,50,5,alto,25,4,86,0
+Empleado 22,reposicion,junior,97,1,medio,7,17,56,0
+Empleado 23,logistica,junior,52,4,bajo,12,12,90,1
+Empleado 24,administracion,junior,40,2,medio,8,12,80,1
+Empleado 25,logistica,trainee,34,1,alto,19,0,69,0
+Empleado 26,caja,senior,55,1,bajo,10,16,77,0
+Empleado 27,logistica,senior,32,2,medio,16,14,66,0
+Empleado 28,reposicion,junior,55,3,alto,11,4,79,0
+Empleado 29,deposito,trainee,64,1,alto,6,11,76,0
+Empleado 30,logistica,senior,98,2,medio,24,2,76,0
+Empleado 31,administracion,trainee,73,4,medio,30,12,78,0
+Empleado 32,caja,senior,83,1,alto,23,14,70,0
+Empleado 33,deposito,junior,58,4,medio,9,10,48,0
+Empleado 34,caja,senior,51,5,medio,24,13,54,0
+Empleado 35,ventas,junior,95,3,alto,17,13,76,0
+Empleado 36,reposicion,senior,87,2,alto,20,8,57,2
+Empleado 37,caja,trainee,39,5,bajo,3,5,90,0
+Empleado 38,reposicion,trainee,91,4,bajo,23,14,91,0
+Empleado 39,caja,trainee,33,3,alto,2,3,61,0
+Empleado 40,logistica,junior,67,4,alto,23,5,76,1
+Empleado 41,caja,senior,84,5,alto,5,7,41,1
+Empleado 42,administracion,senior,36,3,medio,23,1,94,0
+Empleado 43,reposicion,junior,50,3,bajo,6,7,97,1
+Empleado 44,caja,trainee,89,4,medio,13,3,66,0
+Empleado 45,deposito,senior,43,3,alto,20,13,96,2
+Empleado 46,ventas,trainee,37,4,bajo,25,18,93,0
+Empleado 47,logistica,junior,93,4,bajo,5,9,68,1
+Empleado 48,reposicion,junior,42,1,bajo,11,17,78,0
+Empleado 49,ventas,senior,59,3,alto,6,18,89,0
+Empleado 50,reposicion,junior,33,1,bajo,16,0,50,0
+Empleado 51,logistica,senior,88,5,alto,3,9,96,2
+Empleado 52,logistica,trainee,48,3,bajo,6,0,85,0
+Empleado 53,ventas,junior,63,1,alto,29,11,55,1
+Empleado 54,deposito,trainee,45,5,medio,20,8,71,0
+Empleado 55,logistica,trainee,45,1,medio,4,12,59,0
+Empleado 56,caja,junior,87,3,medio,18,7,50,0
+Empleado 57,logistica,junior,60,3,medio,18,5,60,1
+Empleado 58,caja,senior,78,4,medio,8,18,57,0
+Empleado 59,administracion,junior,74,4,bajo,5,19,50,1
+Empleado 60,reposicion,senior,34,2,alto,5,11,84,1
+Empleado 61,caja,trainee,51,3,medio,17,16,66,0
+Empleado 62,administracion,senior,91,1,alto,8,12,68,0
+Empleado 63,atencion al cliente,junior,59,2,medio,21,15,92,1
+Empleado 64,administracion,senior,90,5,medio,15,3,53,0
+Empleado 65,logistica,trainee,77,1,alto,11,11,87,1
+Empleado 66,caja,trainee,53,4,medio,6,8,73,0
+Empleado 67,logistica,trainee,78,3,medio,9,4,70,0
+Empleado 68,reposicion,senior,97,5,medio,20,12,99,2
+Empleado 69,caja,junior,34,3,bajo,19,18,92,0
+Empleado 70,caja,senior,91,2,alto,11,16,41,2
+Empleado 71,deposito,senior,91,4,medio,20,17,43,2
+Empleado 72,deposito,senior,64,4,medio,12,11,66,0
+Empleado 73,logistica,trainee,42,3,bajo,2,0,59,0
+Empleado 74,ventas,junior,79,5,medio,26,19,56,0
+Empleado 75,caja,junior,89,5,bajo,19,18,79,2
+Empleado 76,reposicion,trainee,35,5,alto,15,1,75,0
+Empleado 77,ventas,junior,41,2,alto,9,7,49,0
+Empleado 78,atencion al cliente,junior,61,4,medio,23,15,78,1
+Empleado 79,ventas,junior,73,5,bajo,17,7,47,1
+Empleado 80,reposicion,trainee,45,4,alto,20,1,93,0
+Empleado 81,administracion,junior,30,3,medio,26,8,74,0
+Empleado 82,ventas,trainee,64,5,medio,29,15,42,0
+Empleado 83,reposicion,junior,84,2,medio,4,3,62,0
+Empleado 84,logistica,junior,55,5,bajo,14,12,99,0
+Empleado 85,reposicion,junior,95,3,bajo,20,13,70,0
+Empleado 86,caja,junior,60,1,medio,24,4,94,1
+Empleado 87,deposito,senior,41,5,medio,18,0,89,0
+Empleado 88,ventas,senior,72,5,medio,20,18,45,2
+Empleado 89,atencion al cliente,junior,44,3,bajo,2,13,70,0
+Empleado 90,caja,trainee,98,3,medio,16,11,99,2
+Empleado 91,logistica,senior,89,3,medio,16,9,79,2
+Empleado 92,administracion,senior,78,2,bajo,15,19,40,2
+Empleado 93,caja,senior,53,3,medio,12,15,90,0
+Empleado 94,ventas,senior,53,3,alto,28,5,81,0
+Empleado 95,reposicion,senior,43,1,medio,30,1,63,0
+Empleado 96,atencion al cliente,senior,65,2,alto,27,11,94,1
+Empleado 97,caja,trainee,99,2,medio,16,18,40,0
+Empleado 98,administracion,junior,53,3,alto,6,7,85,1
+Empleado 99,atencion al cliente,junior,46,3,alto,12,11,48,0
+Empleado 100,ventas,junior,68,4,bajo,11,19,85,1
+Empleado 101,deposito,junior,60,1,alto,15,3,69,0
+Empleado 102,logistica,junior,57,4,medio,7,3,89,0
+Empleado 103,reposicion,senior,33,1,alto,27,10,90,0
+Empleado 104,deposito,trainee,81,1,alto,18,18,87,0
+Empleado 105,ventas,junior,96,2,medio,15,5,56,0
+Empleado 106,administracion,junior,85,1,alto,21,9,97,1
+Empleado 107,caja,trainee,95,1,bajo,20,6,44,0
+Empleado 108,administracion,senior,83,3,bajo,13,8,70,0
+Empleado 109,deposito,junior,93,5,medio,16,1,90,0
+Empleado 110,atencion al cliente,junior,30,4,medio,17,7,92,1
+Empleado 111,ventas,junior,99,1,bajo,28,20,97,2
+Empleado 112,deposito,junior,35,1,alto,14,10,72,0
+Empleado 113,ventas,senior,56,5,bajo,26,15,93,0
+Empleado 114,administracion,trainee,68,2,medio,30,8,59,0
+Empleado 115,caja,junior,42,2,bajo,9,16,63,0
+Empleado 116,administracion,trainee,67,2,alto,20,0,60,0
+Empleado 117,administracion,trainee,42,2,medio,27,1,96,0
+Empleado 118,atencion al cliente,junior,34,2,medio,15,1,70,0
+Empleado 119,atencion al cliente,trainee,78,2,medio,4,1,48,0
+Empleado 120,caja,junior,76,3,medio,10,5,94,1
+Empleado 121,caja,junior,49,3,medio,4,9,71,0
+Empleado 122,reposicion,senior,63,5,medio,11,3,49,0
+Empleado 123,ventas,trainee,40,2,medio,25,18,87,0
+Empleado 124,caja,senior,61,1,medio,16,0,100,2
+Empleado 125,reposicion,senior,97,3,alto,27,1,85,2
+Empleado 126,logistica,trainee,90,3,alto,5,18,82,0
+Empleado 127,ventas,trainee,33,4,alto,10,6,99,0
+Empleado 128,deposito,junior,69,4,alto,23,18,77,0
+Empleado 129,atencion al cliente,trainee,72,4,alto,8,18,100,0
+Empleado 130,atencion al cliente,junior,96,2,alto,6,12,74,1
+Empleado 131,caja,senior,81,3,alto,14,15,78,0
+Empleado 132,administracion,senior,92,1,medio,24,14,90,2
+Empleado 133,logistica,junior,70,3,alto,29,8,47,1
+Empleado 134,caja,senior,59,4,bajo,25,12,51,0
+Empleado 135,caja,trainee,56,4,medio,20,19,50,0
+Empleado 136,administracion,junior,95,3,medio,2,19,49,0
+Empleado 137,atencion al cliente,senior,42,2,medio,23,14,54,0
+Empleado 138,deposito,junior,87,3,bajo,28,11,69,0
+Empleado 139,reposicion,senior,32,5,medio,26,18,54,0
+Empleado 140,deposito,junior,97,3,medio,5,12,93,1
+Empleado 141,ventas,junior,80,1,medio,4,9,90,1
+Empleado 142,logistica,trainee,64,1,alto,3,9,64,0
+Empleado 143,administracion,trainee,71,1,alto,16,9,51,0
+Empleado 144,administracion,trainee,51,5,bajo,19,8,85,0
+Empleado 145,administracion,junior,61,3,bajo,26,13,75,1
+Empleado 146,deposito,junior,43,5,medio,7,11,73,0
+Empleado 147,reposicion,trainee,85,1,medio,5,20,70,0
+Empleado 148,reposicion,senior,89,2,medio,4,13,80,1
+Empleado 149,administracion,trainee,94,1,bajo,21,4,100,0
+Empleado 150,atencion al cliente,senior,63,5,alto,2,5,41,0
+Empleado 151,caja,senior,66,3,bajo,17,10,98,2
+Empleado 152,deposito,senior,90,5,bajo,7,19,90,2
+Empleado 153,atencion al cliente,junior,46,2,alto,27,4,74,0
+Empleado 154,reposicion,junior,52,1,bajo,16,11,44,0
+Empleado 155,administracion,junior,62,1,medio,21,9,69,1
+Empleado 156,caja,trainee,38,2,medio,9,9,78,0
+Empleado 157,logistica,junior,39,5,medio,9,10,78,0
+Empleado 158,administracion,junior,87,3,alto,16,7,76,0
+Empleado 159,atencion al cliente,senior,88,4,bajo,13,18,66,2
+Empleado 160,deposito,junior,33,1,bajo,27,17,47,0
+Empleado 161,administracion,junior,34,1,medio,18,4,75,0
+Empleado 162,deposito,trainee,86,1,medio,17,2,54,0
+Empleado 163,reposicion,junior,42,5,medio,10,18,81,0
+Empleado 164,deposito,junior,60,1,alto,9,18,94,1
+Empleado 165,reposicion,trainee,93,2,bajo,7,11,65,0
+Empleado 166,logistica,senior,81,1,alto,13,13,81,1
+Empleado 167,administracion,trainee,86,4,medio,7,12,60,0
+Empleado 168,administracion,trainee,60,5,medio,30,1,75,0
+Empleado 169,caja,trainee,36,4,bajo,7,5,62,0
+Empleado 170,logistica,junior,37,4,alto,23,18,75,0
+Empleado 171,caja,junior,70,2,medio,26,15,42,1
+Empleado 172,atencion al cliente,senior,51,3,medio,25,14,53,0
+Empleado 173,caja,junior,51,5,medio,23,18,79,0
+Empleado 174,caja,trainee,65,5,alto,12,20,99,2
+Empleado 175,reposicion,junior,35,4,medio,15,2,59,0
+Empleado 176,reposicion,junior,39,2,medio,7,18,62,0
+Empleado 177,reposicion,junior,85,3,medio,18,1,80,1
+Empleado 178,administracion,trainee,69,5,bajo,21,14,78,0
+Empleado 179,caja,senior,85,3,alto,10,13,59,0
+Empleado 180,atencion al cliente,trainee,38,3,alto,26,3,62,0
+Empleado 181,caja,trainee,35,4,bajo,25,18,85,0
+Empleado 182,ventas,senior,60,3,medio,7,7,62,1
+Empleado 183,ventas,junior,59,2,medio,3,18,62,0
+Empleado 184,administracion,trainee,32,1,medio,28,10,76,0
+Empleado 185,deposito,senior,41,1,bajo,18,3,50,0
+Empleado 186,atencion al cliente,senior,61,3,medio,27,8,51,0
+Empleado 187,administracion,senior,78,3,alto,14,6,62,0
+Empleado 188,deposito,trainee,71,1,alto,12,9,79,0
+Empleado 189,atencion al cliente,senior,48,5,alto,6,12,83,1
+Empleado 190,reposicion,senior,74,4,medio,15,19,85,2
+Empleado 191,deposito,junior,95,3,medio,17,1,48,0
+Empleado 192,caja,junior,31,2,alto,29,10,84,1
+Empleado 193,atencion al cliente,trainee,63,5,bajo,18,19,44,0
+Empleado 194,administracion,trainee,81,1,medio,15,10,45,0
+Empleado 195,ventas,junior,97,1,alto,3,0,49,0
+Empleado 196,atencion al cliente,senior,56,5,medio,2,18,80,0
+Empleado 197,ventas,senior,50,3,medio,15,20,96,2
+Empleado 198,administracion,trainee,95,2,medio,10,11,70,0
+Empleado 199,caja,trainee,32,3,alto,13,20,46,0
+Empleado 200,ventas,junior,63,4,medio,9,15,57,1
+Empleado 201,caja,junior,51,3,bajo,25,13,50,0
+Empleado 202,caja,senior,32,5,medio,26,14,90,0
+Empleado 203,administracion,junior,82,3,alto,6,6,53,1
+Empleado 204,atencion al cliente,trainee,94,2,medio,25,10,72,0
+Empleado 205,atencion al cliente,trainee,43,1,medio,15,15,64,0
+Empleado 206,administracion,senior,60,4,medio,12,13,93,1
+Empleado 207,reposicion,senior,53,2,bajo,16,4,71,0
+Empleado 208,logistica,junior,35,3,medio,12,8,89,1
+Empleado 209,administracion,trainee,66,2,alto,17,16,52,0
+Empleado 210,atencion al cliente,trainee,80,4,medio,19,10,46,0
+Empleado 211,ventas,junior,68,4,medio,11,12,72,1
+Empleado 212,atencion al cliente,junior,90,5,alto,3,7,78,1
+Empleado 213,deposito,trainee,54,1,alto,22,1,74,0
+Empleado 214,atencion al cliente,trainee,82,1,medio,14,16,46,0
+Empleado 215,administracion,junior,32,1,medio,7,15,68,0
+Empleado 216,deposito,junior,91,5,alto,29,8,57,0
+Empleado 217,logistica,senior,91,4,medio,20,3,69,0
+Empleado 218,administracion,senior,50,4,alto,25,12,96,2
+Empleado 219,deposito,senior,59,2,alto,24,3,55,0
+Empleado 220,atencion al cliente,trainee,40,5,alto,9,16,89,0
+Empleado 221,atencion al cliente,junior,64,2,bajo,29,7,83,1
+Empleado 222,reposicion,trainee,82,1,medio,18,6,45,0
+Empleado 223,deposito,trainee,69,4,medio,16,3,64,0
+Empleado 224,deposito,junior,49,1,alto,17,18,75,0
+Empleado 225,deposito,trainee,38,3,medio,13,17,57,0
+Empleado 226,deposito,senior,85,5,medio,13,14,79,0
+Empleado 227,reposicion,senior,99,3,medio,20,6,90,2
+Empleado 228,deposito,junior,75,4,bajo,19,1,59,0
+Empleado 229,atencion al cliente,senior,45,2,bajo,11,20,85,2
+Empleado 230,caja,senior,39,4,medio,21,17,83,2
+Empleado 231,logistica,senior,53,2,alto,30,8,60,0
+Empleado 232,logistica,trainee,38,2,bajo,16,20,72,0
+Empleado 233,reposicion,trainee,76,5,bajo,6,1,44,0
+Empleado 234,ventas,junior,42,2,medio,5,16,67,0
+Empleado 235,caja,junior,78,3,bajo,10,1,91,1
+Empleado 236,logistica,junior,47,3,medio,8,19,53,0
+Empleado 237,ventas,junior,31,2,medio,9,20,88,0
+Empleado 238,logistica,trainee,57,3,medio,26,1,90,0
+Empleado 239,deposito,junior,86,2,medio,16,5,45,0
+Empleado 240,atencion al cliente,trainee,82,5,medio,23,11,67,0
+Empleado 241,deposito,senior,88,4,bajo,7,8,55,0
+Empleado 242,reposicion,junior,33,1,medio,3,18,56,0
+Empleado 243,caja,senior,53,3,alto,23,15,44,0
+Empleado 244,caja,junior,50,3,medio,4,4,91,0
+Empleado 245,reposicion,senior,60,1,medio,10,13,95,1
+Empleado 246,administracion,junior,46,4,bajo,15,4,94,0
+Empleado 247,administracion,senior,77,1,alto,18,3,94,0
+Empleado 248,administracion,junior,63,3,medio,14,9,40,1
+Empleado 249,ventas,trainee,47,1,medio,15,4,97,0
+Empleado 250,deposito,junior,89,4,alto,8,13,74,1
+Empleado 251,atencion al cliente,senior,94,4,alto,28,18,83,2
+Empleado 252,deposito,junior,61,4,alto,20,5,77,1
+Empleado 253,reposicion,senior,56,3,medio,22,10,58,0
+Empleado 254,caja,trainee,92,5,medio,3,16,92,0
+Empleado 255,caja,trainee,61,2,alto,29,19,43,0
+Empleado 256,atencion al cliente,junior,65,3,alto,2,2,68,0
+Empleado 257,administracion,junior,46,3,medio,9,8,55,0
+Empleado 258,caja,senior,52,1,medio,29,2,87,0
+Empleado 259,logistica,junior,88,2,bajo,11,16,93,2
+Empleado 260,deposito,junior,75,5,alto,20,13,59,1
+Empleado 261,logistica,senior,84,4,medio,19,0,67,0
+Empleado 262,reposicion,senior,73,4,medio,3,19,57,0
+Empleado 263,caja,junior,57,3,bajo,11,12,42,0
+Empleado 264,administracion,trainee,72,5,bajo,28,0,95,0
+Empleado 265,reposicion,senior,83,4,bajo,8,14,86,1
+Empleado 266,atencion al cliente,trainee,95,3,alto,22,13,70,0
+Empleado 267,deposito,senior,52,2,medio,25,2,57,0
+Empleado 268,reposicion,senior,99,2,medio,12,0,83,2
+Empleado 269,reposicion,junior,76,4,medio,28,2,55,0
+Empleado 270,administracion,junior,79,1,bajo,11,9,87,1
+Empleado 271,reposicion,trainee,58,5,medio,5,20,45,0
+Empleado 272,reposicion,senior,80,2,medio,22,12,83,1
+Empleado 273,administracion,trainee,36,3,medio,24,15,47,0
+Empleado 274,ventas,trainee,62,2,medio,8,8,66,0
+Empleado 275,ventas,junior,83,4,medio,8,9,99,1
+Empleado 276,logistica,trainee,97,1,alto,15,10,89,0
+Empleado 277,atencion al cliente,junior,78,1,alto,21,6,51,1
+Empleado 278,reposicion,senior,32,5,bajo,5,16,90,0
+Empleado 279,deposito,senior,51,1,alto,21,7,42,0
+Empleado 280,ventas,trainee,82,1,medio,24,2,66,0
+Empleado 281,logistica,senior,46,4,medio,25,11,100,2
+Empleado 282,ventas,senior,97,5,bajo,5,4,86,0
+Empleado 283,caja,junior,68,3,alto,12,0,83,1
+Empleado 284,reposicion,senior,97,4,medio,17,12,95,2
+Empleado 285,ventas,junior,92,1,medio,13,20,68,2
+Empleado 286,caja,junior,54,2,medio,7,15,60,0
+Empleado 287,administracion,trainee,95,3,alto,11,6,93,0
+Empleado 288,administracion,trainee,68,5,medio,7,8,62,0
+Empleado 289,reposicion,junior,32,2,alto,26,5,93,1
+Empleado 290,ventas,trainee,48,5,bajo,19,5,76,0
+Empleado 291,logistica,trainee,32,2,medio,21,18,69,0
+Empleado 292,caja,senior,90,5,bajo,16,8,60,2
+Empleado 293,administracion,junior,44,5,bajo,27,7,42,0
+Empleado 294,caja,senior,91,1,medio,29,20,43,2
+Empleado 295,caja,senior,63,4,medio,3,3,63,0
+Empleado 296,caja,junior,40,1,medio,30,11,67,0
+Empleado 297,caja,trainee,79,3,bajo,15,8,99,0
+Empleado 298,deposito,junior,61,5,medio,15,0,68,0
+Empleado 299,caja,trainee,96,3,bajo,20,18,80,2
+Empleado 300,logistica,trainee,73,3,alto,20,3,66,0
+Empleado 301,administracion,trainee,44,2,alto,7,1,83,0
+Empleado 302,deposito,junior,51,2,medio,4,18,100,0
+Empleado 303,administracion,trainee,41,4,medio,3,4,62,0
+Empleado 304,deposito,junior,81,2,alto,26,9,57,1
+Empleado 305,atencion al cliente,junior,80,3,alto,17,11,59,1
+Empleado 306,logistica,trainee,51,1,alto,15,2,68,0
+Empleado 307,logistica,junior,43,1,alto,18,9,79,0
+Empleado 308,deposito,trainee,89,1,alto,12,5,42,0
+Empleado 309,deposito,trainee,68,4,bajo,16,4,57,0
+Empleado 310,atencion al cliente,junior,46,2,medio,8,13,79,0
+Empleado 311,logistica,senior,60,4,medio,5,12,66,1
+Empleado 312,deposito,senior,45,5,medio,27,17,45,0
+Empleado 313,administracion,junior,38,5,bajo,10,16,82,0
+Empleado 314,deposito,trainee,39,3,alto,28,18,96,0
+Empleado 315,reposicion,junior,93,1,bajo,7,16,79,0
+Empleado 316,atencion al cliente,trainee,61,2,alto,22,16,54,0
+Empleado 317,deposito,senior,32,5,medio,11,18,41,0
+Empleado 318,ventas,trainee,83,4,alto,28,5,97,0
+Empleado 319,atencion al cliente,trainee,60,1,alto,17,14,63,0
+Empleado 320,logistica,junior,97,4,alto,3,16,95,1
+Empleado 321,atencion al cliente,senior,62,4,alto,27,2,45,0
+Empleado 322,atencion al cliente,senior,93,1,medio,28,2,100,2
+Empleado 323,deposito,junior,61,4,bajo,5,10,90,1
+Empleado 324,reposicion,junior,73,4,bajo,19,10,88,1
+Empleado 325,atencion al cliente,senior,34,3,alto,17,20,43,0
+Empleado 326,atencion al cliente,senior,95,1,alto,27,12,41,2
+Empleado 327,ventas,junior,61,2,medio,16,9,79,1
+Empleado 328,reposicion,senior,63,2,bajo,13,17,64,2
+Empleado 329,ventas,trainee,82,5,bajo,18,18,65,0
+Empleado 330,atencion al cliente,trainee,79,3,alto,10,7,69,0
+Empleado 331,ventas,junior,67,3,bajo,29,15,72,1
+Empleado 332,ventas,junior,68,1,bajo,19,9,42,1
+Empleado 333,administracion,senior,99,5,medio,22,6,68,2
+Empleado 334,logistica,junior,66,4,bajo,2,4,81,0
+Empleado 335,reposicion,senior,31,2,medio,16,12,79,0
+Empleado 336,logistica,junior,73,5,alto,18,14,87,1
+Empleado 337,ventas,trainee,87,5,bajo,18,8,73,0
+Empleado 338,logistica,junior,82,3,medio,24,17,62,0
+Empleado 339,ventas,senior,89,1,alto,7,3,44,0
+Empleado 340,administracion,junior,50,1,alto,6,17,90,1
+Empleado 341,atencion al cliente,junior,71,3,medio,8,15,40,1
+Empleado 342,reposicion,junior,34,3,medio,25,9,52,0
+Empleado 343,ventas,trainee,30,4,medio,13,19,84,0
+Empleado 344,reposicion,senior,45,4,bajo,13,19,100,2
+Empleado 345,caja,junior,97,3,medio,24,4,52,0
+Empleado 346,logistica,senior,96,2,medio,10,4,88,2
+Empleado 347,ventas,junior,40,3,medio,12,7,84,1
+Empleado 348,atencion al cliente,senior,65,3,bajo,21,12,75,0
+Empleado 349,atencion al cliente,trainee,59,2,medio,14,20,46,0
+Empleado 350,reposicion,trainee,54,5,bajo,18,3,42,0
+Empleado 351,logistica,trainee,49,3,medio,28,20,52,0
+Empleado 352,logistica,senior,60,5,alto,8,15,44,1
+Empleado 353,ventas,senior,88,3,medio,22,17,86,2
+Empleado 354,ventas,junior,43,5,medio,26,20,61,0
+Empleado 355,reposicion,trainee,41,4,alto,5,11,95,0
+Empleado 356,caja,junior,69,4,bajo,22,15,55,1
+Empleado 357,reposicion,junior,71,4,alto,5,14,83,1
+Empleado 358,atencion al cliente,senior,60,3,bajo,21,5,59,0
+Empleado 359,deposito,senior,56,1,medio,2,19,62,0
+Empleado 360,logistica,trainee,46,4,bajo,30,13,59,0
+Empleado 361,deposito,junior,39,5,medio,10,11,43,0
+Empleado 362,logistica,trainee,99,2,medio,21,14,92,0
+Empleado 363,reposicion,trainee,69,3,medio,16,14,89,1
+Empleado 364,ventas,senior,36,1,medio,6,3,72,0
+Empleado 365,reposicion,trainee,63,1,medio,10,10,87,1
+Empleado 366,reposicion,junior,57,3,alto,17,6,98,0
+Empleado 367,atencion al cliente,junior,66,2,alto,22,18,41,0
+Empleado 368,administracion,junior,52,1,alto,10,13,62,0
+Empleado 369,caja,junior,63,3,bajo,4,8,98,1
+Empleado 370,caja,junior,49,4,bajo,2,0,75,0
+Empleado 371,ventas,junior,34,1,bajo,6,7,62,0
+Empleado 372,logistica,trainee,54,3,alto,17,18,51,0
+Empleado 373,reposicion,junior,47,3,alto,26,20,88,0
+Empleado 374,administracion,trainee,79,4,bajo,21,14,60,0
+Empleado 375,ventas,junior,59,3,alto,30,1,42,0
+Empleado 376,reposicion,trainee,86,3,bajo,10,19,58,0
+Empleado 377,deposito,senior,31,1,alto,7,15,66,0
+Empleado 378,atencion al cliente,junior,83,1,alto,15,16,82,1
+Empleado 379,logistica,trainee,35,1,medio,18,6,71,0
+Empleado 380,atencion al cliente,trainee,58,2,medio,21,20,41,0
+Empleado 381,atencion al cliente,junior,76,3,medio,13,20,63,0
+Empleado 382,administracion,senior,55,5,alto,16,11,91,0
+Empleado 383,reposicion,senior,70,5,medio,6,3,70,0
+Empleado 384,atencion al cliente,trainee,70,5,medio,12,4,75,0
+Empleado 385,atencion al cliente,senior,75,2,alto,19,13,96,2
+Empleado 386,administracion,junior,74,4,medio,14,9,90,1
+Empleado 387,logistica,trainee,82,1,medio,18,6,51,0
+Empleado 388,caja,junior,32,2,alto,12,14,88,1
+Empleado 389,reposicion,trainee,76,1,medio,13,8,92,1
+Empleado 390,caja,junior,95,1,bajo,18,15,93,1
+Empleado 391,reposicion,junior,50,1,alto,4,5,81,1
+Empleado 392,atencion al cliente,junior,51,3,medio,28,3,81,0
+Empleado 393,atencion al cliente,trainee,92,5,medio,22,16,97,2
+Empleado 394,reposicion,junior,51,4,medio,15,11,69,0
+Empleado 395,ventas,trainee,51,3,alto,14,17,99,0
+Empleado 396,deposito,senior,42,5,bajo,23,20,52,0
+Empleado 397,reposicion,trainee,92,1,medio,18,7,51,0
+Empleado 398,reposicion,trainee,97,3,bajo,25,20,50,0
+Empleado 399,deposito,senior,66,2,bajo,8,9,60,1
+Empleado 400,caja,junior,66,5,alto,18,20,45,0
+Empleado 401,ventas,junior,88,1,alto,19,16,60,2
+Empleado 402,caja,junior,50,2,medio,25,4,46,0
+Empleado 403,administracion,senior,92,3,medio,14,10,60,2
+Empleado 404,ventas,trainee,88,1,medio,27,6,92,0
+Empleado 405,administracion,senior,92,4,alto,12,5,64,2
+Empleado 406,reposicion,junior,68,1,medio,27,20,76,0
+Empleado 407,ventas,trainee,33,3,bajo,19,2,59,0
+Empleado 408,deposito,senior,91,5,medio,22,5,56,2
+Empleado 409,logistica,junior,78,4,medio,13,12,92,1
+Empleado 410,administracion,senior,88,5,alto,22,9,51,2
+Empleado 411,atencion al cliente,senior,99,4,alto,25,2,79,0
+Empleado 412,atencion al cliente,trainee,72,3,medio,14,9,81,1
+Empleado 413,caja,junior,65,2,medio,27,16,58,0
+Empleado 414,caja,senior,38,5,medio,28,1,87,0
+Empleado 415,ventas,junior,92,3,bajo,24,9,71,0
+Empleado 416,logistica,trainee,55,3,bajo,5,17,59,0
+Empleado 417,reposicion,junior,96,1,alto,23,16,87,2
+Empleado 418,logistica,junior,72,5,medio,3,10,95,1
+Empleado 419,administracion,trainee,32,1,medio,20,3,98,0
+Empleado 420,deposito,trainee,42,2,medio,29,12,61,0
+Empleado 421,atencion al cliente,junior,85,2,alto,9,4,94,1
+Empleado 422,logistica,junior,71,1,medio,15,9,79,1
+Empleado 423,administracion,junior,88,4,alto,5,0,70,0
+Empleado 424,reposicion,junior,41,4,bajo,24,1,65,0
+Empleado 425,logistica,senior,70,2,bajo,6,0,70,0
+Empleado 426,logistica,junior,34,2,medio,12,18,95,0
+Empleado 427,deposito,junior,37,4,alto,16,20,43,0
+Empleado 428,atencion al cliente,junior,94,3,medio,7,9,49,1
+Empleado 429,ventas,trainee,47,4,medio,28,8,42,0
+Empleado 430,administracion,junior,47,3,medio,6,17,48,0
+Empleado 431,logistica,junior,41,1,bajo,26,1,53,0
+Empleado 432,atencion al cliente,trainee,93,3,medio,14,9,78,0
+Empleado 433,logistica,junior,52,3,bajo,24,0,95,0
+Empleado 434,caja,trainee,98,5,bajo,20,5,49,0
+Empleado 435,deposito,trainee,85,1,medio,29,7,97,0
+Empleado 436,administracion,senior,45,1,alto,23,8,76,0
+Empleado 437,deposito,junior,68,1,bajo,5,7,73,1
+Empleado 438,deposito,trainee,44,1,medio,21,12,41,0
+Empleado 439,logistica,trainee,65,1,bajo,13,12,89,1
+Empleado 440,reposicion,senior,94,1,medio,26,4,60,0
+Empleado 441,deposito,junior,48,2,medio,7,6,78,0
+Empleado 442,reposicion,trainee,87,1,alto,4,13,59,0
+Empleado 443,deposito,junior,85,4,medio,10,13,65,1
+Empleado 444,administracion,junior,55,2,medio,15,18,49,0
+Empleado 445,reposicion,trainee,51,1,bajo,16,12,93,0
+Empleado 446,caja,junior,95,5,medio,5,20,68,0
+Empleado 447,ventas,junior,97,5,medio,28,16,43,2
+Empleado 448,caja,junior,68,1,medio,18,10,65,1
+Empleado 449,atencion al cliente,junior,61,3,alto,20,20,49,0
+Empleado 450,ventas,junior,40,2,medio,4,12,75,0
+Empleado 451,logistica,junior,63,1,bajo,18,5,63,1
+Empleado 452,logistica,junior,91,1,alto,15,12,60,0
+Empleado 453,ventas,senior,74,3,medio,25,5,80,1
+Empleado 454,deposito,senior,81,1,medio,24,10,48,0
+Empleado 455,administracion,junior,67,2,alto,15,17,67,0
+Empleado 456,reposicion,senior,42,1,bajo,22,16,84,2
+Empleado 457,caja,senior,95,3,alto,16,6,54,2
+Empleado 458,atencion al cliente,trainee,61,2,medio,17,14,45,0
+Empleado 459,administracion,trainee,44,4,medio,14,17,92,0
+Empleado 460,reposicion,junior,63,3,bajo,7,0,59,0
+Empleado 461,atencion al cliente,junior,72,3,medio,10,16,66,0
+Empleado 462,atencion al cliente,trainee,73,5,medio,9,11,75,0
+Empleado 463,reposicion,trainee,51,3,medio,26,5,52,0
+Empleado 464,caja,trainee,95,2,medio,13,14,96,2
+Empleado 465,deposito,junior,91,1,medio,20,12,97,2
+Empleado 466,administracion,junior,98,2,medio,7,4,44,0
+Empleado 467,reposicion,junior,40,1,alto,18,8,49,0
+Empleado 468,logistica,junior,36,4,medio,11,7,83,1
+Empleado 469,atencion al cliente,junior,49,1,alto,10,18,66,0
+Empleado 470,administracion,junior,36,4,medio,18,13,65,0
+Empleado 471,caja,senior,50,3,medio,7,20,63,0
+Empleado 472,reposicion,trainee,50,4,bajo,25,13,58,0
+Empleado 473,atencion al cliente,trainee,51,2,medio,8,3,99,0
+Empleado 474,reposicion,senior,94,3,medio,23,17,87,2
+Empleado 475,logistica,senior,88,2,medio,26,15,98,2
+Empleado 476,administracion,senior,72,1,medio,14,3,44,0
+Empleado 477,reposicion,senior,55,4,medio,25,19,79,0
+Empleado 478,atencion al cliente,junior,45,2,alto,28,17,61,0
+Empleado 479,administracion,senior,38,2,medio,5,9,78,0
+Empleado 480,caja,junior,47,5,medio,30,9,84,1
+Empleado 481,administracion,senior,95,1,alto,3,9,90,1
+Empleado 482,logistica,senior,77,5,alto,13,7,47,0
+Empleado 483,logistica,senior,43,2,medio,9,2,100,0
+Empleado 484,reposicion,junior,39,3,bajo,26,4,62,0
+Empleado 485,deposito,junior,90,3,medio,12,17,59,2
+Empleado 486,logistica,junior,81,3,bajo,25,2,80,1
+Empleado 487,atencion al cliente,junior,90,3,medio,22,10,87,1
+Empleado 488,deposito,trainee,39,2,alto,7,13,63,0
+Empleado 489,administracion,senior,56,1,bajo,4,10,79,0
+Empleado 490,ventas,junior,51,2,alto,21,15,78,0
+Empleado 491,atencion al cliente,junior,39,5,medio,16,10,44,0
+Empleado 492,atencion al cliente,senior,38,5,alto,16,19,74,0
+Empleado 493,ventas,trainee,41,3,alto,25,7,84,0
+Empleado 494,caja,senior,45,5,medio,24,15,54,0
+Empleado 495,caja,trainee,54,3,alto,16,8,55,0
+Empleado 496,logistica,senior,79,2,medio,22,5,64,0
+Empleado 497,reposicion,senior,58,2,medio,2,18,93,0
+Empleado 498,reposicion,trainee,81,4,medio,21,13,80,1
+Empleado 499,logistica,trainee,93,2,medio,7,0,46,0
+Empleado 500,atencion al cliente,senior,69,2,alto,19,9,96,2
+Empleado 501,administracion,junior,53,1,medio,12,12,88,1
+Empleado 502,atencion al cliente,senior,30,4,bajo,23,8,47,0
+Empleado 503,atencion al cliente,senior,67,3,alto,15,6,78,0
+Empleado 504,reposicion,trainee,45,4,bajo,21,16,60,0
+Empleado 505,reposicion,junior,61,2,medio,8,10,80,1
+Empleado 506,ventas,senior,91,3,medio,18,8,83,2
+Empleado 507,caja,trainee,93,1,alto,28,13,65,0
+Empleado 508,administracion,trainee,36,1,medio,21,15,51,0
+Empleado 509,administracion,trainee,55,1,medio,20,20,76,0
+Empleado 510,logistica,trainee,97,1,alto,9,11,57,0
+Empleado 511,atencion al cliente,senior,45,3,medio,25,0,51,0
+Empleado 512,reposicion,junior,30,5,alto,8,5,52,0
+Empleado 513,atencion al cliente,junior,58,3,bajo,16,11,88,1
+Empleado 514,logistica,trainee,68,5,alto,25,12,66,0
+Empleado 515,logistica,senior,76,2,medio,23,1,49,0
+Empleado 516,ventas,junior,93,1,medio,23,3,82,0
+Empleado 517,administracion,junior,76,3,medio,8,13,76,1
+Empleado 518,logistica,senior,41,4,alto,6,5,69,0
+Empleado 519,caja,junior,42,5,bajo,9,9,98,0
+Empleado 520,administracion,trainee,77,3,medio,30,1,48,0
+Empleado 521,caja,junior,49,4,medio,15,5,65,0
+Empleado 522,reposicion,senior,97,2,alto,10,6,63,2
+Empleado 523,administracion,trainee,35,2,medio,9,18,68,0
+Empleado 524,atencion al cliente,junior,78,2,medio,6,9,93,1
+Empleado 525,administracion,junior,44,4,medio,17,8,74,0
+Empleado 526,administracion,junior,61,3,medio,5,11,69,1
+Empleado 527,administracion,junior,50,5,bajo,26,8,47,0
+Empleado 528,administracion,junior,58,2,bajo,11,1,75,0
+Empleado 529,caja,senior,90,1,medio,9,0,95,2
+Empleado 530,reposicion,senior,34,1,alto,13,1,99,0
+Empleado 531,administracion,junior,39,2,medio,7,8,65,0
+Empleado 532,administracion,trainee,71,1,medio,14,11,80,1
+Empleado 533,caja,trainee,61,3,alto,2,5,48,0
+Empleado 534,administracion,senior,42,3,medio,21,4,58,0
+Empleado 535,reposicion,junior,78,2,medio,10,14,52,1
+Empleado 536,administracion,trainee,86,5,alto,15,3,93,0
+Empleado 537,atencion al cliente,senior,96,2,medio,26,8,87,2
+Empleado 538,caja,trainee,94,2,medio,24,3,75,0
+Empleado 539,logistica,junior,75,2,medio,28,17,89,1
+Empleado 540,atencion al cliente,junior,39,3,medio,15,12,70,0
+Empleado 541,atencion al cliente,trainee,39,1,alto,8,9,55,0
+Empleado 542,caja,trainee,95,4,medio,14,0,65,0
+Empleado 543,reposicion,junior,47,2,bajo,4,17,88,1
+Empleado 544,ventas,junior,97,5,medio,24,12,90,1
+Empleado 545,atencion al cliente,senior,66,5,medio,24,6,77,0
+Empleado 546,logistica,trainee,36,3,alto,27,6,97,0
+Empleado 547,caja,trainee,47,3,medio,20,8,63,0
+Empleado 548,caja,junior,40,5,medio,22,11,97,0
+Empleado 549,ventas,senior,82,1,medio,10,1,62,0
+Empleado 550,caja,senior,31,2,medio,7,18,94,0
+Empleado 551,caja,junior,94,2,bajo,23,5,58,0
+Empleado 552,ventas,junior,71,3,bajo,30,0,82,1
+Empleado 553,logistica,trainee,61,3,medio,16,15,69,0
+Empleado 554,caja,senior,86,1,medio,2,7,50,0
+Empleado 555,atencion al cliente,junior,52,4,alto,29,8,40,0
+Empleado 556,logistica,senior,30,3,bajo,18,0,95,0
+Empleado 557,ventas,trainee,72,4,alto,12,1,90,0
+Empleado 558,logistica,trainee,49,4,alto,27,17,100,0
+Empleado 559,logistica,junior,69,2,medio,21,10,78,1
+Empleado 560,deposito,trainee,82,1,alto,21,16,60,0
+Empleado 561,administracion,senior,37,2,bajo,24,0,42,0
+Empleado 562,deposito,junior,66,1,alto,28,9,66,1
+Empleado 563,reposicion,junior,61,3,medio,25,0,88,1
+Empleado 564,logistica,trainee,62,1,alto,22,9,74,0
+Empleado 565,caja,junior,99,5,alto,14,2,51,0
+Empleado 566,reposicion,junior,77,3,medio,23,3,59,0
+Empleado 567,deposito,trainee,37,5,medio,30,7,44,0
+Empleado 568,caja,junior,59,5,medio,17,6,88,1
+Empleado 569,caja,junior,62,5,medio,28,1,76,1
+Empleado 570,reposicion,junior,39,1,medio,8,12,66,0
+Empleado 571,reposicion,trainee,85,1,medio,16,5,81,1
+Empleado 572,logistica,junior,70,2,bajo,18,15,51,1
+Empleado 573,administracion,junior,86,1,medio,4,20,43,0
+Empleado 574,ventas,senior,49,1,bajo,5,10,55,0
+Empleado 575,caja,junior,93,4,medio,20,5,51,0
+Empleado 576,administracion,senior,83,3,alto,5,0,48,0
+Empleado 577,ventas,senior,99,3,alto,14,13,47,2
+Empleado 578,caja,junior,37,1,medio,23,0,74,0
+Empleado 579,administracion,trainee,89,4,medio,2,8,97,0
+Empleado 580,administracion,senior,56,2,bajo,24,7,64,0
+Empleado 581,ventas,junior,82,1,bajo,10,11,68,1
+Empleado 582,deposito,trainee,44,4,alto,6,10,85,0
+Empleado 583,caja,senior,68,1,medio,5,15,88,1
+Empleado 584,ventas,junior,75,5,bajo,27,20,49,0
+Empleado 585,logistica,senior,42,5,alto,19,7,99,2
+Empleado 586,logistica,junior,99,3,medio,9,16,95,2
+Empleado 587,logistica,junior,89,3,medio,27,15,63,0
+Empleado 588,ventas,junior,72,4,bajo,3,12,40,1
+Empleado 589,reposicion,senior,41,1,alto,3,15,64,0
+Empleado 590,administracion,senior,69,3,alto,25,14,66,0
+Empleado 591,caja,junior,98,5,bajo,30,2,93,0
+Empleado 592,logistica,senior,75,1,medio,15,15,76,0
+Empleado 593,caja,trainee,96,2,medio,29,7,51,0
+Empleado 594,deposito,trainee,70,4,medio,10,17,47,0
+Empleado 595,atencion al cliente,senior,58,4,bajo,5,7,68,0
+Empleado 596,deposito,junior,31,2,medio,24,7,41,0
+Empleado 597,administracion,senior,89,2,alto,22,20,45,2
+Empleado 598,atencion al cliente,trainee,31,4,bajo,27,20,83,0
+Empleado 599,administracion,senior,99,2,alto,7,17,83,2
+Empleado 600,deposito,senior,76,5,alto,4,19,48,0
+Empleado 601,caja,junior,62,5,medio,20,6,41,1
+Empleado 602,ventas,senior,42,3,alto,7,19,91,0
+Empleado 603,reposicion,senior,53,3,alto,22,17,99,2
+Empleado 604,atencion al cliente,senior,39,2,alto,11,6,86,0
+Empleado 605,administracion,junior,52,5,alto,21,7,87,1
+Empleado 606,deposito,trainee,70,3,bajo,13,3,79,0
+Empleado 607,administracion,junior,99,3,alto,11,8,61,0
+Empleado 608,atencion al cliente,trainee,40,3,alto,6,6,53,0
+Empleado 609,reposicion,trainee,56,2,medio,15,0,83,0
+Empleado 610,logistica,junior,44,5,medio,29,8,62,0
+Empleado 611,reposicion,junior,76,1,medio,21,3,72,0
+Empleado 612,reposicion,senior,30,4,medio,15,3,72,0
+Empleado 613,reposicion,junior,39,4,alto,12,13,72,0
+Empleado 614,atencion al cliente,senior,86,2,alto,15,18,81,2
+Empleado 615,deposito,senior,63,5,medio,9,11,49,0
+Empleado 616,reposicion,senior,54,4,alto,21,14,42,0
+Empleado 617,caja,trainee,55,4,alto,6,8,69,0
+Empleado 618,ventas,junior,78,1,medio,2,4,88,0
+Empleado 619,administracion,senior,53,2,medio,27,16,88,2
+Empleado 620,deposito,senior,84,2,bajo,23,10,98,2
+Empleado 621,logistica,senior,64,3,medio,6,18,100,2
+Empleado 622,ventas,senior,44,4,alto,23,10,70,0
+Empleado 623,atencion al cliente,junior,97,2,alto,12,20,66,2
+Empleado 624,ventas,junior,36,5,medio,3,1,52,0
+Empleado 625,reposicion,senior,44,4,alto,17,4,41,0
+Empleado 626,caja,senior,35,3,medio,30,3,66,0
+Empleado 627,ventas,junior,44,3,alto,5,12,47,0
+Empleado 628,caja,junior,40,5,bajo,4,0,49,0
+Empleado 629,ventas,junior,50,4,bajo,21,8,47,0
+Empleado 630,caja,senior,80,3,medio,27,5,65,0
+Empleado 631,reposicion,trainee,35,3,alto,19,19,67,0
+Empleado 632,reposicion,junior,44,4,alto,12,6,92,1
+Empleado 633,caja,junior,79,3,medio,11,5,78,1
+Empleado 634,administracion,junior,50,3,medio,12,1,59,0
+Empleado 635,deposito,trainee,78,2,medio,28,2,66,0
+Empleado 636,ventas,senior,75,1,medio,8,19,62,0
+Empleado 637,atencion al cliente,junior,96,4,bajo,11,8,89,1
+Empleado 638,logistica,junior,37,2,alto,29,5,89,1
+Empleado 639,atencion al cliente,junior,91,3,medio,14,12,80,1
+Empleado 640,logistica,trainee,34,2,alto,30,3,86,0
+Empleado 641,deposito,senior,56,5,bajo,27,4,100,0
+Empleado 642,deposito,junior,58,4,medio,27,20,74,0
+Empleado 643,reposicion,junior,52,2,bajo,15,11,69,0
+Empleado 644,deposito,junior,74,2,alto,29,19,55,0
+Empleado 645,ventas,junior,70,1,alto,19,0,78,0
+Empleado 646,ventas,junior,57,4,medio,15,17,77,0
+Empleado 647,reposicion,junior,99,5,medio,15,6,90,1
+Empleado 648,administracion,senior,95,5,alto,12,16,68,2
+Empleado 649,deposito,trainee,57,1,bajo,17,1,42,0
+Empleado 650,reposicion,trainee,74,3,medio,9,16,50,0
+Empleado 651,administracion,junior,92,4,bajo,2,2,93,0
+Empleado 652,logistica,trainee,89,2,medio,2,19,87,0
+Empleado 653,administracion,senior,53,2,medio,21,0,43,0
+Empleado 654,atencion al cliente,senior,73,5,medio,8,11,75,1
+Empleado 655,deposito,senior,35,1,medio,13,14,53,0
+Empleado 656,atencion al cliente,junior,83,1,bajo,30,6,55,1
+Empleado 657,logistica,trainee,37,3,bajo,15,15,56,0
+Empleado 658,administracion,senior,46,2,bajo,11,13,81,0
+Empleado 659,logistica,junior,93,1,alto,15,14,42,0
+Empleado 660,caja,trainee,89,3,medio,22,12,41,0
+Empleado 661,deposito,senior,37,2,bajo,14,13,80,0
+Empleado 662,deposito,senior,41,3,bajo,30,18,44,0
+Empleado 663,logistica,senior,52,3,alto,20,3,76,0
+Empleado 664,deposito,senior,68,2,medio,23,19,88,2
+Empleado 665,deposito,junior,90,3,bajo,28,7,84,1
+Empleado 666,deposito,junior,79,4,medio,19,15,46,1
+Empleado 667,ventas,senior,40,1,medio,7,6,52,0
+Empleado 668,reposicion,junior,59,1,bajo,20,12,97,0
+Empleado 669,administracion,senior,91,5,bajo,19,8,57,2
+Empleado 670,deposito,junior,48,3,medio,29,0,95,0
+Empleado 671,ventas,senior,38,2,bajo,3,11,85,1
+Empleado 672,ventas,trainee,70,5,alto,9,11,45,0
+Empleado 673,ventas,senior,97,5,bajo,19,3,72,0
+Empleado 674,logistica,junior,58,1,alto,26,14,81,1
+Empleado 675,deposito,trainee,90,1,medio,26,14,89,0
+Empleado 676,ventas,senior,88,5,alto,22,2,84,2
+Empleado 677,logistica,senior,36,5,alto,27,16,46,0
+Empleado 678,administracion,senior,56,4,bajo,17,11,79,0
+Empleado 679,deposito,senior,73,2,alto,24,19,92,2
+Empleado 680,caja,trainee,58,1,medio,30,2,72,0
+Empleado 681,logistica,senior,97,1,medio,5,13,40,0
+Empleado 682,deposito,trainee,56,2,alto,18,3,99,0
+Empleado 683,atencion al cliente,junior,43,4,medio,25,16,94,0
+Empleado 684,caja,trainee,94,2,medio,21,6,70,0
+Empleado 685,logistica,senior,74,1,medio,6,9,48,1
+Empleado 686,ventas,trainee,41,3,medio,20,4,59,0
+Empleado 687,logistica,junior,43,2,alto,26,11,43,0
+Empleado 688,logistica,trainee,78,5,medio,3,14,85,1
+Empleado 689,atencion al cliente,junior,65,2,alto,7,0,45,0
+Empleado 690,atencion al cliente,junior,83,2,medio,21,5,94,1
+Empleado 691,logistica,senior,49,4,alto,20,5,50,0
+Empleado 692,atencion al cliente,trainee,91,1,alto,17,12,77,0
+Empleado 693,administracion,trainee,87,5,alto,4,8,62,0
+Empleado 694,deposito,trainee,54,1,bajo,15,0,62,0
+Empleado 695,ventas,junior,31,3,medio,28,8,87,1
+Empleado 696,administracion,trainee,52,5,medio,12,14,45,0
+Empleado 697,atencion al cliente,junior,37,4,bajo,30,20,92,0
+Empleado 698,deposito,trainee,47,4,alto,4,10,83,0
+Empleado 699,ventas,junior,30,3,alto,30,2,65,0
+Empleado 700,reposicion,trainee,99,5,alto,19,4,50,0
+Empleado 701,ventas,junior,47,3,bajo,29,13,65,0
+Empleado 702,atencion al cliente,junior,40,2,alto,24,4,44,0
+Empleado 703,reposicion,trainee,96,5,alto,26,8,42,0
+Empleado 704,administracion,junior,64,4,medio,6,14,45,1
+Empleado 705,logistica,senior,75,5,bajo,19,7,42,0
+Empleado 706,caja,trainee,65,4,alto,5,20,68,0
+Empleado 707,reposicion,senior,33,4,alto,10,16,70,0
+Empleado 708,caja,junior,49,1,alto,6,14,49,0
+Empleado 709,reposicion,junior,90,3,medio,27,9,57,0
+Empleado 710,logistica,trainee,38,5,medio,27,20,87,0
+Empleado 711,atencion al cliente,junior,42,4,alto,26,15,79,0
+Empleado 712,caja,trainee,94,3,alto,20,12,40,0
+Empleado 713,ventas,trainee,71,4,alto,6,10,82,1
+Empleado 714,administracion,junior,78,1,medio,20,10,61,1
+Empleado 715,reposicion,senior,89,5,alto,15,1,53,0
+Empleado 716,caja,trainee,43,3,medio,3,8,61,0
+Empleado 717,caja,trainee,57,5,medio,8,13,79,0
+Empleado 718,caja,junior,76,2,alto,13,3,81,1
+Empleado 719,reposicion,trainee,97,4,bajo,3,10,95,1
+Empleado 720,deposito,junior,47,5,medio,16,12,61,0
+Empleado 721,atencion al cliente,senior,94,5,medio,11,20,67,2
+Empleado 722,administracion,junior,78,1,bajo,12,8,97,1
+Empleado 723,administracion,senior,80,5,medio,27,6,41,0
+Empleado 724,deposito,junior,95,1,alto,8,6,52,1
+Empleado 725,ventas,junior,62,3,medio,2,7,88,1
+Empleado 726,administracion,junior,59,1,medio,8,7,89,1
+Empleado 727,reposicion,trainee,35,5,alto,2,2,42,0
+Empleado 728,ventas,trainee,92,3,bajo,19,6,48,0
+Empleado 729,administracion,senior,78,4,medio,14,19,85,2
+Empleado 730,atencion al cliente,junior,85,4,medio,23,13,98,1
+Empleado 731,caja,senior,81,1,medio,22,2,61,0
+Empleado 732,reposicion,junior,40,2,alto,22,3,43,0
+Empleado 733,administracion,trainee,66,5,alto,13,8,56,0
+Empleado 734,deposito,junior,58,4,bajo,28,2,59,0
+Empleado 735,atencion al cliente,trainee,87,1,bajo,25,3,41,0
+Empleado 736,ventas,junior,64,5,medio,26,9,46,1
+Empleado 737,ventas,senior,42,2,medio,5,4,88,0
+Empleado 738,deposito,trainee,80,4,bajo,28,17,65,0
+Empleado 739,reposicion,junior,79,4,bajo,28,20,63,0
+Empleado 740,reposicion,trainee,71,4,medio,26,2,41,0
+Empleado 741,atencion al cliente,trainee,68,2,alto,24,15,95,1
+Empleado 742,atencion al cliente,trainee,51,1,bajo,7,8,57,0
+Empleado 743,atencion al cliente,junior,86,5,medio,26,2,56,0
+Empleado 744,ventas,junior,77,4,medio,27,11,57,1
+Empleado 745,reposicion,trainee,32,2,medio,14,9,56,0
+Empleado 746,logistica,trainee,87,3,alto,28,7,80,0
+Empleado 747,deposito,junior,34,1,bajo,11,20,59,0
+Empleado 748,ventas,senior,81,5,medio,29,16,63,2
+Empleado 749,caja,junior,38,4,alto,11,4,62,0
+Empleado 750,caja,senior,72,2,bajo,10,7,74,0
+Empleado 751,deposito,senior,93,3,medio,25,15,91,2
+Empleado 752,administracion,senior,45,1,medio,9,5,96,2
+Empleado 753,ventas,junior,47,1,medio,20,5,76,0
+Empleado 754,atencion al cliente,junior,95,4,alto,30,11,85,1
+Empleado 755,ventas,junior,83,3,alto,13,6,56,1
+Empleado 756,logistica,trainee,82,1,alto,24,20,92,0
+Empleado 757,administracion,senior,37,4,medio,22,12,90,0
+Empleado 758,administracion,senior,31,5,alto,16,4,53,0
+Empleado 759,administracion,senior,81,2,bajo,24,12,83,1
+Empleado 760,administracion,junior,88,3,alto,26,14,76,0
+Empleado 761,caja,trainee,68,5,alto,16,10,76,0
+Empleado 762,ventas,senior,91,4,alto,6,2,85,0
+Empleado 763,administracion,junior,84,5,alto,15,12,88,1
+Empleado 764,atencion al cliente,junior,91,4,bajo,30,2,83,0
+Empleado 765,ventas,senior,64,5,medio,23,12,60,0
+Empleado 766,deposito,junior,88,4,bajo,20,5,46,0
+Empleado 767,logistica,junior,63,5,medio,30,13,93,1
+Empleado 768,caja,trainee,94,2,bajo,9,11,76,0
+Empleado 769,deposito,senior,73,1,bajo,25,15,72,0
+Empleado 770,logistica,senior,69,5,alto,4,10,76,1
+Empleado 771,administracion,trainee,98,2,alto,21,5,84,0
+Empleado 772,caja,junior,47,2,medio,29,15,43,0
+Empleado 773,atencion al cliente,junior,85,4,alto,10,7,84,1
+Empleado 774,logistica,senior,63,3,bajo,16,6,80,1
+Empleado 775,deposito,junior,71,2,medio,10,8,70,1
+Empleado 776,deposito,senior,62,2,medio,16,6,42,0
+Empleado 777,ventas,trainee,95,3,alto,29,0,93,0
+Empleado 778,reposicion,trainee,55,1,alto,13,4,43,0
+Empleado 779,reposicion,junior,50,2,alto,16,4,87,0
+Empleado 780,administracion,trainee,85,3,bajo,30,1,66,0
+Empleado 781,logistica,junior,68,5,alto,18,12,76,1
+Empleado 782,logistica,trainee,97,4,bajo,13,15,95,0
+Empleado 783,caja,junior,38,4,medio,19,17,48,0
+Empleado 784,atencion al cliente,junior,34,2,medio,29,15,42,0
+Empleado 785,ventas,senior,41,5,medio,4,5,96,0
+Empleado 786,deposito,trainee,75,1,medio,30,3,100,0
+Empleado 787,ventas,junior,77,4,alto,28,6,44,1
+Empleado 788,reposicion,senior,93,4,alto,14,16,81,2
+Empleado 789,reposicion,junior,65,5,medio,14,4,66,0
+Empleado 790,caja,junior,74,5,alto,17,11,76,1
+Empleado 791,deposito,senior,81,1,alto,10,2,70,0
+Empleado 792,atencion al cliente,senior,69,5,alto,6,3,92,1
+Empleado 793,deposito,trainee,68,3,medio,22,2,61,0
+Empleado 794,reposicion,trainee,95,2,alto,26,1,82,0
+Empleado 795,deposito,senior,39,5,alto,22,12,78,0
+Empleado 796,administracion,senior,33,1,medio,3,14,60,0
+Empleado 797,caja,senior,81,5,alto,9,14,54,0
+Empleado 798,logistica,trainee,65,4,bajo,28,17,45,0
+Empleado 799,atencion al cliente,junior,35,3,medio,20,2,44,0
+Empleado 800,atencion al cliente,senior,48,3,alto,7,7,88,1
+Empleado 801,reposicion,junior,85,3,bajo,21,4,53,0
+Empleado 802,deposito,trainee,63,3,bajo,27,20,69,0
+Empleado 803,reposicion,trainee,77,4,medio,21,3,79,0
+Empleado 804,atencion al cliente,junior,58,4,medio,23,4,81,0
+Empleado 805,administracion,senior,33,1,bajo,4,3,44,0
+Empleado 806,caja,junior,50,5,medio,21,8,48,0
+Empleado 807,deposito,junior,63,5,medio,9,6,86,1
+Empleado 808,administracion,junior,35,1,medio,22,16,83,0
+Empleado 809,deposito,senior,43,2,medio,20,20,81,2
+Empleado 810,logistica,junior,57,5,alto,14,11,81,1
+Empleado 811,reposicion,trainee,85,4,medio,18,14,62,0
+Empleado 812,reposicion,trainee,79,1,alto,22,15,91,1
+Empleado 813,ventas,senior,51,5,alto,9,19,43,0
+Empleado 814,logistica,junior,88,4,bajo,24,9,97,2
+Empleado 815,deposito,senior,77,1,bajo,7,10,100,1
+Empleado 816,atencion al cliente,senior,62,2,alto,7,9,67,1
+Empleado 817,caja,junior,57,2,medio,9,19,77,0
+Empleado 818,caja,junior,75,3,medio,16,9,42,1
+Empleado 819,ventas,junior,78,4,medio,20,6,78,1
+Empleado 820,reposicion,senior,85,4,bajo,2,8,71,0
+Empleado 821,deposito,trainee,80,1,bajo,18,6,78,0
+Empleado 822,deposito,trainee,82,3,medio,17,8,64,0
+Empleado 823,reposicion,junior,64,1,medio,28,15,42,1
+Empleado 824,caja,junior,41,1,medio,9,12,75,0
+Empleado 825,logistica,senior,63,4,alto,27,11,82,1
+Empleado 826,atencion al cliente,senior,81,2,medio,18,1,84,0
+Empleado 827,administracion,trainee,97,1,medio,14,0,66,0
+Empleado 828,caja,junior,76,3,alto,21,4,43,0
+Empleado 829,ventas,trainee,37,1,alto,14,16,73,0
+Empleado 830,logistica,junior,47,1,alto,30,13,59,0
+Empleado 831,atencion al cliente,senior,61,4,medio,16,10,40,0
+Empleado 832,atencion al cliente,trainee,49,2,medio,15,13,80,0
+Empleado 833,reposicion,senior,71,1,alto,30,2,50,0
+Empleado 834,atencion al cliente,senior,80,4,bajo,8,13,45,1
+Empleado 835,reposicion,trainee,69,3,medio,12,4,67,0
+Empleado 836,logistica,senior,84,5,alto,7,1,98,0
+Empleado 837,atencion al cliente,senior,52,1,alto,8,7,51,0
+Empleado 838,deposito,senior,46,1,bajo,26,9,94,0
+Empleado 839,atencion al cliente,trainee,99,2,medio,26,7,66,0
+Empleado 840,ventas,senior,38,3,medio,21,15,63,0
+Empleado 841,administracion,trainee,82,4,medio,24,20,45,0
+Empleado 842,atencion al cliente,senior,96,1,medio,9,11,79,2
+Empleado 843,reposicion,junior,73,4,alto,6,11,64,1
+Empleado 844,atencion al cliente,senior,55,2,medio,25,3,52,0
+Empleado 845,deposito,senior,88,1,alto,19,17,51,2
+Empleado 846,deposito,junior,57,3,alto,21,8,50,0
+Empleado 847,logistica,junior,36,1,medio,4,13,73,0
+Empleado 848,logistica,senior,79,2,alto,17,2,74,0
+Empleado 849,deposito,junior,67,5,medio,13,0,66,0
+Empleado 850,ventas,trainee,72,2,alto,9,20,87,0
+Empleado 851,ventas,trainee,69,3,alto,26,14,70,0
+Empleado 852,atencion al cliente,junior,49,2,alto,16,16,68,0
+Empleado 853,reposicion,senior,39,5,alto,11,1,78,0
+Empleado 854,deposito,junior,44,1,medio,26,2,92,0
+Empleado 855,logistica,senior,78,3,bajo,21,15,72,0
+Empleado 856,reposicion,trainee,88,1,medio,26,7,84,0
+Empleado 857,administracion,trainee,41,2,alto,3,20,77,0
+Empleado 858,deposito,junior,93,5,alto,7,18,70,0
+Empleado 859,deposito,trainee,44,4,medio,16,14,76,0
+Empleado 860,caja,junior,94,3,alto,30,17,84,2
+Empleado 861,atencion al cliente,senior,69,2,alto,12,20,55,2
+Empleado 862,caja,senior,77,3,alto,11,3,83,0
+Empleado 863,ventas,senior,71,2,alto,15,1,76,0
+Empleado 864,logistica,junior,96,3,alto,12,8,83,1
+Empleado 865,atencion al cliente,senior,42,1,bajo,24,11,97,2
+Empleado 866,ventas,junior,52,5,medio,4,5,79,0
+Empleado 867,deposito,junior,47,4,medio,9,10,71,0
+Empleado 868,caja,trainee,48,3,alto,12,5,61,0
+Empleado 869,deposito,trainee,84,2,medio,6,8,44,0
+Empleado 870,reposicion,senior,32,4,medio,10,4,98,0
+Empleado 871,administracion,junior,39,3,medio,2,12,61,0
+Empleado 872,caja,junior,43,2,alto,19,15,85,1
+Empleado 873,ventas,junior,32,5,medio,7,20,95,1
+Empleado 874,caja,trainee,67,3,medio,17,15,69,0
+Empleado 875,administracion,junior,64,5,alto,29,15,68,1
+Empleado 876,logistica,senior,76,3,bajo,7,17,46,0
+Empleado 877,atencion al cliente,senior,61,2,bajo,19,5,88,1
+Empleado 878,administracion,junior,42,5,medio,14,3,75,0
+Empleado 879,atencion al cliente,junior,33,3,medio,2,12,83,0
+Empleado 880,administracion,junior,59,2,medio,3,4,93,0
+Empleado 881,reposicion,trainee,45,5,alto,10,19,68,0
+Empleado 882,reposicion,senior,88,5,medio,26,12,64,2
+Empleado 883,logistica,senior,68,3,bajo,3,18,73,0
+Empleado 884,reposicion,senior,39,4,alto,12,19,66,0
+Empleado 885,deposito,trainee,71,2,medio,3,14,49,0
+Empleado 886,logistica,trainee,30,4,bajo,4,16,88,0
+Empleado 887,deposito,junior,90,3,bajo,16,9,82,1
+Empleado 888,atencion al cliente,senior,91,2,medio,7,3,96,2
+Empleado 889,deposito,trainee,83,1,alto,20,3,89,0
+Empleado 890,administracion,trainee,48,3,alto,3,15,86,0
+Empleado 891,ventas,junior,58,1,medio,21,1,46,0
+Empleado 892,logistica,trainee,37,4,alto,3,11,80,0
+Empleado 893,deposito,junior,94,1,bajo,27,11,69,0
+Empleado 894,reposicion,junior,99,1,alto,25,3,62,0
+Empleado 895,deposito,junior,54,3,alto,14,7,81,1
+Empleado 896,reposicion,senior,65,1,medio,6,12,65,1
+Empleado 897,administracion,senior,99,5,alto,12,7,72,2
+Empleado 898,caja,junior,68,2,alto,20,15,56,1
+Empleado 899,ventas,trainee,61,4,medio,14,13,79,0
+Empleado 900,deposito,senior,66,1,medio,19,9,50,0
+Empleado 901,administracion,trainee,57,3,medio,7,12,47,0
+Empleado 902,caja,junior,95,5,medio,13,4,93,0
+Empleado 903,logistica,senior,77,1,medio,10,11,85,1
+Empleado 904,logistica,junior,76,3,medio,26,4,61,0
+Empleado 905,deposito,junior,59,5,alto,24,2,73,0
+Empleado 906,atencion al cliente,senior,68,4,alto,3,8,47,1
+Empleado 907,deposito,senior,65,3,alto,23,3,46,0
+Empleado 908,logistica,senior,94,5,bajo,12,1,55,0
+Empleado 909,caja,senior,99,5,medio,26,17,92,2
+Empleado 910,logistica,trainee,38,2,medio,5,11,93,0
+Empleado 911,reposicion,trainee,82,1,alto,3,5,40,0
+Empleado 912,reposicion,junior,35,2,medio,7,17,73,0
+Empleado 913,atencion al cliente,junior,79,4,medio,12,16,79,0
+Empleado 914,atencion al cliente,junior,51,3,medio,25,14,91,1
+Empleado 915,ventas,trainee,51,4,medio,10,8,85,0
+Empleado 916,administracion,trainee,79,5,bajo,13,10,52,0
+Empleado 917,ventas,junior,45,1,bajo,30,15,54,0
+Empleado 918,atencion al cliente,trainee,96,2,medio,24,14,88,0
+Empleado 919,deposito,junior,36,4,medio,20,13,70,0
+Empleado 920,administracion,senior,42,4,medio,17,10,45,0
+Empleado 921,administracion,senior,34,1,medio,15,14,97,2
+Empleado 922,reposicion,junior,48,3,medio,18,17,59,0
+Empleado 923,logistica,senior,76,1,alto,5,1,73,0
+Empleado 924,caja,trainee,52,1,medio,24,7,92,0
+Empleado 925,logistica,junior,80,3,alto,27,17,59,0
+Empleado 926,reposicion,senior,57,4,medio,27,7,94,0
+Empleado 927,atencion al cliente,junior,96,5,alto,5,20,54,0
+Empleado 928,ventas,trainee,42,3,medio,17,18,66,0
+Empleado 929,caja,trainee,77,5,medio,15,8,61,0
+Empleado 930,reposicion,junior,66,4,medio,11,10,94,1
+Empleado 931,administracion,senior,40,3,alto,6,17,53,0
+Empleado 932,caja,senior,35,3,medio,17,10,53,0
+Empleado 933,administracion,senior,30,5,bajo,22,11,75,0
+Empleado 934,deposito,senior,84,4,medio,25,0,90,0
+Empleado 935,atencion al cliente,senior,40,5,alto,27,2,76,0
+Empleado 936,atencion al cliente,trainee,42,2,alto,17,15,100,0
+Empleado 937,logistica,junior,54,5,medio,15,2,95,0
+Empleado 938,logistica,junior,94,4,medio,11,17,55,2
+Empleado 939,reposicion,trainee,84,1,medio,5,9,51,0
+Empleado 940,reposicion,junior,59,4,medio,10,13,77,0
+Empleado 941,administracion,junior,56,3,medio,14,14,41,0
+Empleado 942,caja,senior,83,2,medio,22,18,86,2
+Empleado 943,atencion al cliente,junior,82,4,alto,24,18,92,1
+Empleado 944,atencion al cliente,senior,50,2,alto,27,16,50,0
+Empleado 945,administracion,trainee,61,3,alto,8,10,77,0
+Empleado 946,ventas,junior,67,4,medio,4,6,75,1
+Empleado 947,atencion al cliente,trainee,88,1,medio,7,2,68,0
+Empleado 948,deposito,junior,84,5,medio,19,17,86,1
+Empleado 949,reposicion,junior,81,5,medio,9,17,40,0
+Empleado 950,ventas,junior,93,1,alto,18,11,86,1
+Empleado 951,caja,senior,36,5,medio,29,3,66,0
+Empleado 952,atencion al cliente,trainee,75,4,bajo,29,11,45,0
+Empleado 953,deposito,junior,37,4,alto,20,3,73,0
+Empleado 954,deposito,senior,84,4,alto,13,8,47,0
+Empleado 955,atencion al cliente,trainee,96,2,medio,4,6,76,0
+Empleado 956,logistica,junior,40,4,bajo,12,16,77,0
+Empleado 957,reposicion,junior,47,4,alto,10,12,86,1
+Empleado 958,reposicion,senior,93,1,bajo,12,4,88,2
+Empleado 959,deposito,junior,44,3,alto,26,12,81,1
+Empleado 960,deposito,trainee,71,5,medio,4,12,88,1
+Empleado 961,deposito,senior,82,1,medio,14,12,62,0
+Empleado 962,administracion,trainee,56,4,alto,2,20,89,0
+Empleado 963,deposito,junior,78,4,medio,10,3,88,1
+Empleado 964,ventas,senior,55,2,bajo,20,13,77,0
+Empleado 965,ventas,junior,57,5,medio,3,10,50,0
+Empleado 966,caja,senior,76,3,alto,4,15,90,1
+Empleado 967,administracion,trainee,70,3,alto,27,18,95,0
+Empleado 968,caja,junior,38,4,medio,5,10,78,0
+Empleado 969,ventas,junior,31,3,medio,6,18,63,0
+Empleado 970,reposicion,junior,78,2,medio,9,11,57,1
+Empleado 971,administracion,trainee,60,1,medio,14,19,69,0
+Empleado 972,reposicion,trainee,62,5,bajo,17,17,76,0
+Empleado 973,ventas,trainee,93,4,alto,8,15,77,0
+Empleado 974,administracion,trainee,39,4,medio,8,16,86,0
+Empleado 975,logistica,trainee,61,3,medio,14,14,94,1
+Empleado 976,caja,senior,77,3,medio,3,0,44,0
+Empleado 977,caja,junior,64,3,bajo,10,18,59,0
+Empleado 978,ventas,junior,39,5,alto,6,17,96,0
+Empleado 979,administracion,trainee,36,1,bajo,11,14,95,0
+Empleado 980,caja,junior,52,4,medio,25,4,62,0
+Empleado 981,ventas,senior,62,3,bajo,16,10,94,1
+Empleado 982,administracion,senior,39,5,alto,6,14,66,0
+Empleado 983,deposito,trainee,67,2,alto,5,1,98,0
+Empleado 984,atencion al cliente,senior,79,5,alto,8,3,80,1
+Empleado 985,administracion,junior,33,5,alto,12,3,70,0
+Empleado 986,deposito,junior,79,1,medio,15,16,61,0
+Empleado 987,administracion,trainee,92,2,bajo,19,5,94,0
+Empleado 988,reposicion,senior,91,1,alto,28,0,85,2
+Empleado 989,deposito,junior,84,5,medio,5,20,47,1
+Empleado 990,reposicion,trainee,72,1,bajo,5,6,54,0
+Empleado 991,logistica,junior,99,3,alto,20,2,81,0
+Empleado 992,administracion,senior,80,2,bajo,20,13,92,1
+Empleado 993,administracion,senior,34,2,medio,24,11,91,0
+Empleado 994,reposicion,junior,92,4,medio,16,4,98,2
+Empleado 995,ventas,trainee,67,3,medio,8,7,83,1
+Empleado 996,deposito,junior,64,1,alto,21,18,63,0
+Empleado 997,logistica,trainee,81,3,medio,5,13,72,0
+Empleado 998,deposito,junior,97,3,medio,15,20,48,2
+Empleado 999,reposicion,trainee,43,3,medio,4,6,95,0
+Empleado 1000,atencion al cliente,senior,54,5,medio,19,19,93,2
+Empleado 1001,administracion,junior,70,5,bajo,2,16,67,0
+Empleado 1002,reposicion,junior,46,3,medio,2,1,92,0
+Empleado 1003,ventas,junior,69,1,medio,19,8,54,1
+Empleado 1004,atencion al cliente,junior,32,4,medio,28,0,40,0
+Empleado 1005,administracion,trainee,75,2,medio,18,17,75,0
+Empleado 1006,deposito,junior,40,1,medio,13,9,96,0
+Empleado 1007,reposicion,trainee,57,3,medio,14,4,58,0
+Empleado 1008,deposito,senior,96,2,medio,17,15,54,2
+Empleado 1009,reposicion,junior,87,4,alto,10,17,67,2
+Empleado 1010,ventas,senior,40,3,alto,14,16,43,0
+Empleado 1011,caja,senior,55,1,alto,11,20,93,2
+Empleado 1012,deposito,senior,35,1,medio,2,18,100,0
+Empleado 1013,caja,junior,69,5,medio,13,17,70,0
+Empleado 1014,reposicion,senior,82,4,medio,2,3,40,0
+Empleado 1015,atencion al cliente,senior,89,4,medio,24,12,58,2
+Empleado 1016,deposito,junior,47,2,alto,23,20,98,2
+Empleado 1017,atencion al cliente,junior,68,1,alto,20,9,54,1
+Empleado 1018,atencion al cliente,trainee,59,5,medio,8,9,54,0
+Empleado 1019,administracion,trainee,48,1,medio,20,14,73,0
+Empleado 1020,administracion,junior,78,2,bajo,11,0,50,0
+Empleado 1021,reposicion,senior,99,3,bajo,14,6,60,2
+Empleado 1022,atencion al cliente,trainee,64,1,medio,15,1,93,0
+Empleado 1023,administracion,senior,50,2,medio,7,19,88,0
+Empleado 1024,deposito,trainee,88,1,medio,25,10,91,0
+Empleado 1025,logistica,senior,95,4,alto,24,8,84,2
+Empleado 1026,administracion,trainee,68,1,medio,18,11,64,0
+Empleado 1027,reposicion,trainee,69,1,bajo,22,15,74,0
+Empleado 1028,logistica,junior,93,4,medio,25,12,53,0
+Empleado 1029,reposicion,senior,99,2,medio,22,0,89,2
+Empleado 1030,administracion,senior,55,4,alto,3,1,50,0
+Empleado 1031,atencion al cliente,junior,72,5,medio,26,5,80,1
+Empleado 1032,ventas,senior,37,1,medio,27,20,43,0
+Empleado 1033,administracion,senior,32,3,bajo,3,11,63,0
+Empleado 1034,atencion al cliente,trainee,55,4,medio,9,18,88,0
+Empleado 1035,caja,junior,71,2,medio,21,20,74,0
+Empleado 1036,caja,senior,98,1,medio,25,15,47,2
+Empleado 1037,logistica,trainee,96,4,alto,23,12,48,0
+Empleado 1038,caja,junior,40,1,alto,20,6,50,0
+Empleado 1039,ventas,senior,82,5,medio,27,7,77,0
+Empleado 1040,logistica,trainee,66,3,medio,19,13,68,0
+Empleado 1041,atencion al cliente,junior,75,1,bajo,17,13,67,1
+Empleado 1042,deposito,senior,39,1,medio,14,1,86,0
+Empleado 1043,atencion al cliente,junior,58,3,medio,15,2,100,0
+Empleado 1044,atencion al cliente,junior,92,5,medio,8,0,81,1
+Empleado 1045,atencion al cliente,senior,76,3,bajo,17,18,86,2
+Empleado 1046,reposicion,senior,97,3,alto,13,7,90,2
+Empleado 1047,reposicion,junior,62,3,bajo,11,17,83,1
+Empleado 1048,administracion,junior,42,5,bajo,8,15,58,0
+Empleado 1049,atencion al cliente,trainee,51,2,medio,17,19,92,0
+Empleado 1050,deposito,junior,38,2,bajo,16,6,41,0
+Empleado 1051,reposicion,trainee,93,5,alto,17,0,57,0
+Empleado 1052,logistica,junior,69,1,medio,23,1,79,0
+Empleado 1053,atencion al cliente,trainee,68,4,medio,15,2,89,0
+Empleado 1054,reposicion,trainee,54,1,alto,25,14,60,0
+Empleado 1055,reposicion,trainee,51,4,bajo,9,17,50,0
+Empleado 1056,administracion,trainee,70,4,bajo,29,8,85,2
+Empleado 1057,reposicion,junior,36,1,bajo,4,10,43,0
+Empleado 1058,logistica,senior,60,3,medio,12,14,47,0
+Empleado 1059,administracion,junior,87,5,bajo,25,1,71,0
+Empleado 1060,logistica,junior,43,5,medio,7,4,49,0
+Empleado 1061,reposicion,senior,96,3,alto,14,8,69,2
+Empleado 1062,caja,junior,38,2,alto,12,9,63,0
+Empleado 1063,reposicion,trainee,39,4,bajo,16,9,81,0
+Empleado 1064,caja,junior,98,3,bajo,11,5,71,0
+Empleado 1065,atencion al cliente,junior,60,5,medio,21,3,95,1
+Empleado 1066,deposito,trainee,50,4,bajo,11,7,83,0
+Empleado 1067,deposito,senior,90,4,alto,18,20,61,2
+Empleado 1068,logistica,trainee,49,3,alto,27,16,95,0
+Empleado 1069,deposito,senior,55,5,medio,26,4,51,0
+Empleado 1070,deposito,junior,35,5,medio,5,14,45,0
+Empleado 1071,ventas,junior,44,3,alto,3,6,45,0
+Empleado 1072,administracion,senior,83,4,medio,6,5,52,1
+Empleado 1073,ventas,trainee,68,1,medio,30,2,89,0
+Empleado 1074,caja,junior,77,4,bajo,22,20,96,2
+Empleado 1075,administracion,trainee,75,3,bajo,11,2,54,0
+Empleado 1076,caja,junior,83,1,medio,6,7,50,1
+Empleado 1077,atencion al cliente,trainee,91,4,bajo,4,16,59,0
+Empleado 1078,ventas,junior,39,4,alto,2,17,100,0
+Empleado 1079,reposicion,trainee,43,4,medio,2,19,99,0
+Empleado 1080,caja,trainee,55,3,alto,7,7,50,0
+Empleado 1081,ventas,senior,43,4,medio,23,12,100,2
+Empleado 1082,administracion,junior,95,5,medio,20,16,69,2
+Empleado 1083,ventas,trainee,66,1,medio,17,18,46,0
+Empleado 1084,atencion al cliente,junior,82,5,medio,25,6,99,1
+Empleado 1085,administracion,trainee,65,1,medio,6,12,43,0
+Empleado 1086,ventas,junior,60,1,alto,15,20,79,0
+Empleado 1087,ventas,junior,64,2,bajo,8,13,87,1
+Empleado 1088,reposicion,senior,42,4,bajo,3,12,78,0
+Empleado 1089,administracion,junior,65,2,alto,28,16,94,1
+Empleado 1090,ventas,trainee,41,5,bajo,13,3,68,0
+Empleado 1091,logistica,trainee,43,4,medio,20,9,76,0
+Empleado 1092,logistica,senior,46,2,medio,4,10,87,1
+Empleado 1093,administracion,junior,38,1,medio,12,3,87,0
+Empleado 1094,caja,junior,94,1,medio,9,5,58,0
+Empleado 1095,administracion,senior,81,5,medio,19,10,71,0
+Empleado 1096,atencion al cliente,junior,87,1,medio,13,15,93,1
+Empleado 1097,logistica,junior,90,1,medio,20,15,88,1
+Empleado 1098,atencion al cliente,junior,88,5,medio,21,18,59,2
+Empleado 1099,reposicion,junior,54,5,bajo,8,2,55,0
+Empleado 1100,logistica,junior,66,1,medio,21,8,61,1
+Empleado 1101,ventas,senior,62,5,alto,4,4,58,0
+Empleado 1102,ventas,senior,67,4,alto,19,4,60,0
+Empleado 1103,caja,trainee,61,2,bajo,25,2,100,0
+Empleado 1104,logistica,senior,92,3,alto,30,1,51,0
+Empleado 1105,deposito,senior,72,3,medio,30,8,99,2
+Empleado 1106,ventas,junior,83,5,medio,8,5,91,1
+Empleado 1107,logistica,trainee,31,5,medio,20,1,93,0
+Empleado 1108,deposito,trainee,91,3,medio,13,13,89,0
+Empleado 1109,deposito,senior,59,1,alto,20,1,72,0
+Empleado 1110,caja,senior,32,2,medio,3,19,90,0
+Empleado 1111,administracion,junior,36,2,medio,19,8,91,1
+Empleado 1112,atencion al cliente,trainee,61,5,medio,29,20,73,0
+Empleado 1113,deposito,trainee,86,1,medio,17,13,64,0
+Empleado 1114,logistica,trainee,39,3,medio,15,3,67,0
+Empleado 1115,atencion al cliente,junior,77,2,medio,26,12,69,1
+Empleado 1116,reposicion,junior,93,2,bajo,14,1,62,0
+Empleado 1117,reposicion,junior,44,4,medio,27,15,92,1
+Empleado 1118,administracion,trainee,50,1,medio,6,18,58,0
+Empleado 1119,reposicion,trainee,55,2,alto,15,13,67,0
+Empleado 1120,logistica,junior,70,5,medio,9,4,43,0
+Empleado 1121,deposito,junior,34,5,alto,11,6,74,0
+Empleado 1122,reposicion,trainee,47,5,alto,15,0,91,0
+Empleado 1123,ventas,junior,64,2,medio,25,20,74,0
+Empleado 1124,logistica,senior,39,4,medio,21,20,44,0
+Empleado 1125,caja,trainee,43,4,alto,22,11,46,0
+Empleado 1126,caja,trainee,65,5,medio,30,8,82,1
+Empleado 1127,ventas,junior,51,1,alto,10,9,81,1
+Empleado 1128,administracion,trainee,59,5,medio,9,7,94,0
+Empleado 1129,logistica,junior,76,3,medio,22,11,70,1
+Empleado 1130,administracion,trainee,38,4,bajo,4,3,67,0
+Empleado 1131,caja,trainee,94,3,medio,17,12,40,0
+Empleado 1132,ventas,junior,69,2,alto,19,11,45,1
+Empleado 1133,administracion,senior,61,3,medio,27,17,87,2
+Empleado 1134,logistica,trainee,43,5,bajo,7,3,47,0
+Empleado 1135,ventas,trainee,37,4,alto,2,0,79,0
+Empleado 1136,caja,junior,68,5,medio,15,6,86,1
+Empleado 1137,atencion al cliente,trainee,51,3,medio,24,20,100,0
+Empleado 1138,deposito,junior,54,4,medio,8,2,63,0
+Empleado 1139,logistica,trainee,76,1,bajo,18,18,65,0
+Empleado 1140,reposicion,junior,71,1,medio,12,20,79,0
+Empleado 1141,atencion al cliente,trainee,97,5,alto,12,14,51,0
+Empleado 1142,logistica,junior,88,4,bajo,14,9,90,1
+Empleado 1143,ventas,junior,83,2,medio,24,11,74,1
+Empleado 1144,atencion al cliente,junior,43,3,medio,6,11,69,0
+Empleado 1145,caja,trainee,55,5,bajo,27,17,64,0
+Empleado 1146,deposito,junior,43,3,medio,15,11,40,0
+Empleado 1147,reposicion,junior,88,2,bajo,30,1,60,0
+Empleado 1148,deposito,senior,43,2,alto,26,17,73,0
+Empleado 1149,reposicion,trainee,75,1,alto,12,1,69,0
+Empleado 1150,reposicion,trainee,47,1,medio,27,18,50,0
+Empleado 1151,logistica,junior,90,1,medio,11,3,68,0
+Empleado 1152,deposito,trainee,38,5,bajo,18,17,56,0
+Empleado 1153,ventas,trainee,71,4,medio,21,17,44,0
+Empleado 1154,ventas,trainee,97,1,alto,15,0,85,0
+Empleado 1155,caja,junior,44,4,alto,17,2,70,0
+Empleado 1156,logistica,junior,67,1,alto,9,2,90,1
+Empleado 1157,ventas,junior,76,3,alto,2,10,53,0
+Empleado 1158,ventas,trainee,43,3,medio,27,5,51,0
+Empleado 1159,administracion,senior,57,3,bajo,27,8,89,0
+Empleado 1160,atencion al cliente,senior,45,5,medio,2,7,57,0
+Empleado 1161,deposito,senior,64,4,alto,14,2,43,0
+Empleado 1162,deposito,junior,70,4,medio,10,0,72,0
+Empleado 1163,administracion,trainee,39,1,alto,9,6,70,0
+Empleado 1164,logistica,senior,38,4,bajo,26,4,77,0
+Empleado 1165,administracion,senior,83,3,medio,2,16,43,0
+Empleado 1166,atencion al cliente,senior,37,5,alto,18,7,42,0
+Empleado 1167,deposito,senior,49,3,alto,3,6,40,0
+Empleado 1168,caja,trainee,75,5,medio,14,2,75,0
+Empleado 1169,atencion al cliente,trainee,56,5,alto,30,17,47,0
+Empleado 1170,reposicion,junior,91,5,medio,9,18,90,2
+Empleado 1171,reposicion,trainee,45,3,medio,6,0,63,0
+Empleado 1172,logistica,trainee,82,4,medio,20,15,99,0
+Empleado 1173,ventas,trainee,93,1,medio,10,1,100,0
+Empleado 1174,reposicion,junior,85,3,alto,29,9,73,1
+Empleado 1175,administracion,junior,56,4,bajo,5,6,81,1
+Empleado 1176,logistica,trainee,30,4,medio,14,9,81,0
+Empleado 1177,ventas,trainee,92,2,medio,5,10,85,1
+Empleado 1178,administracion,trainee,65,1,medio,3,15,85,1
+Empleado 1179,logistica,senior,31,5,alto,20,0,57,0
+Empleado 1180,deposito,senior,36,1,alto,3,14,49,0
+Empleado 1181,caja,senior,87,5,medio,13,18,55,2
+Empleado 1182,administracion,junior,97,4,bajo,5,6,80,1
+Empleado 1183,ventas,trainee,45,5,alto,4,17,75,0
+Empleado 1184,reposicion,junior,90,1,alto,27,8,45,0
+Empleado 1185,atencion al cliente,trainee,91,5,bajo,10,16,50,0
+Empleado 1186,atencion al cliente,trainee,46,3,bajo,19,14,46,0
+Empleado 1187,caja,trainee,94,3,alto,25,8,87,0
+Empleado 1188,ventas,senior,74,2,bajo,15,16,86,2
+Empleado 1189,ventas,trainee,50,1,alto,29,13,92,0
+Empleado 1190,deposito,trainee,65,3,bajo,26,16,59,0
+Empleado 1191,ventas,trainee,59,3,medio,8,7,85,0
+Empleado 1192,reposicion,junior,49,2,bajo,26,17,63,0
+Empleado 1193,caja,senior,82,5,alto,29,7,71,0
+Empleado 1194,administracion,junior,47,1,alto,7,5,56,0
+Empleado 1195,deposito,junior,53,4,bajo,8,0,100,0
+Empleado 1196,deposito,senior,95,5,alto,17,12,88,2
+Empleado 1197,caja,senior,37,4,bajo,9,11,45,0
+Empleado 1198,reposicion,trainee,58,1,medio,8,11,66,0
+Empleado 1199,ventas,trainee,53,1,bajo,26,11,99,0
+Empleado 1200,caja,senior,61,4,medio,25,9,67,0
+Empleado 1201,deposito,senior,75,1,bajo,8,12,77,1
+Empleado 1202,administracion,trainee,33,2,bajo,5,11,67,0
+Empleado 1203,deposito,junior,47,2,medio,26,7,48,0
+Empleado 1204,ventas,junior,94,3,medio,23,1,88,0
+Empleado 1205,logistica,trainee,82,3,medio,16,10,44,0
+Empleado 1206,reposicion,junior,69,5,alto,18,11,91,1
+Empleado 1207,reposicion,trainee,34,5,alto,9,8,90,0
+Empleado 1208,administracion,senior,69,5,medio,11,14,87,1
+Empleado 1209,ventas,senior,72,5,alto,15,15,77,0
+Empleado 1210,caja,senior,31,2,medio,24,7,46,0
+Empleado 1211,reposicion,senior,37,4,medio,11,17,96,2
+Empleado 1212,reposicion,junior,99,5,medio,14,20,44,2
+Empleado 1213,caja,junior,80,3,medio,8,8,44,1
+Empleado 1214,reposicion,trainee,59,3,medio,27,9,48,0
+Empleado 1215,caja,junior,87,3,medio,4,8,44,1
+Empleado 1216,administracion,senior,40,2,medio,14,2,49,0
+Empleado 1217,atencion al cliente,junior,61,1,bajo,20,16,90,1
+Empleado 1218,administracion,junior,64,4,bajo,22,8,51,1
+Empleado 1219,ventas,senior,99,1,medio,15,12,50,2
+Empleado 1220,deposito,junior,98,2,medio,3,2,89,1
+Empleado 1221,atencion al cliente,trainee,38,2,bajo,21,0,76,0
+Empleado 1222,deposito,junior,75,4,medio,5,13,65,1
+Empleado 1223,logistica,junior,36,2,bajo,2,2,44,0
+Empleado 1224,ventas,senior,67,5,medio,23,2,78,0
+Empleado 1225,ventas,trainee,79,4,medio,27,5,73,0
+Empleado 1226,atencion al cliente,senior,93,4,medio,10,16,87,2
+Empleado 1227,atencion al cliente,junior,57,2,medio,28,13,50,0
+Empleado 1228,reposicion,junior,79,1,medio,9,2,67,0
+Empleado 1229,reposicion,junior,85,1,alto,30,1,55,0
+Empleado 1230,ventas,junior,34,5,medio,23,1,89,0
+Empleado 1231,deposito,junior,83,5,alto,23,7,44,1
+Empleado 1232,ventas,senior,94,2,medio,30,20,56,2
+Empleado 1233,ventas,trainee,44,1,medio,25,11,67,0
+Empleado 1234,deposito,junior,82,4,bajo,27,6,42,1
+Empleado 1235,logistica,junior,74,2,alto,27,7,50,1
+Empleado 1236,administracion,junior,78,5,medio,29,3,47,0
+Empleado 1237,deposito,senior,97,5,bajo,20,1,63,0
+Empleado 1238,ventas,junior,76,3,bajo,16,6,98,1
+Empleado 1239,logistica,junior,70,5,bajo,11,11,59,1
+Empleado 1240,administracion,junior,67,5,alto,23,3,53,0
+Empleado 1241,reposicion,trainee,30,3,medio,14,3,61,0
+Empleado 1242,reposicion,junior,51,5,medio,26,2,43,0
+Empleado 1243,deposito,junior,49,5,medio,12,9,46,0
+Empleado 1244,logistica,trainee,32,4,medio,15,13,88,0
+Empleado 1245,administracion,senior,41,4,alto,22,0,65,0
+Empleado 1246,reposicion,trainee,66,2,medio,11,18,86,0
+Empleado 1247,reposicion,junior,46,5,alto,6,8,90,1
+Empleado 1248,ventas,trainee,50,5,medio,17,19,40,0
+Empleado 1249,ventas,trainee,88,3,medio,30,9,48,0
+Empleado 1250,logistica,junior,72,3,alto,28,15,70,1
+Empleado 1251,caja,junior,88,3,alto,21,0,84,0
+Empleado 1252,ventas,senior,87,4,alto,10,1,84,2
+Empleado 1253,ventas,senior,45,4,medio,7,2,68,0
+Empleado 1254,caja,trainee,47,1,medio,27,15,59,0
+Empleado 1255,ventas,trainee,42,3,medio,19,8,84,0
+Empleado 1256,ventas,senior,46,2,medio,17,12,49,0
+Empleado 1257,caja,trainee,65,2,medio,29,11,54,0
+Empleado 1258,logistica,senior,44,5,alto,15,18,89,2
+Empleado 1259,deposito,trainee,34,1,medio,5,4,85,0
+Empleado 1260,atencion al cliente,senior,44,4,medio,5,20,82,0
+Empleado 1261,caja,senior,62,3,medio,3,20,46,0
+Empleado 1262,atencion al cliente,senior,85,3,medio,26,13,61,0
+Empleado 1263,reposicion,junior,84,1,medio,5,16,98,1
+Empleado 1264,atencion al cliente,senior,54,3,alto,8,13,99,0
+Empleado 1265,reposicion,junior,94,1,medio,21,1,56,0
+Empleado 1266,logistica,junior,70,5,bajo,13,0,84,1
+Empleado 1267,ventas,senior,56,1,alto,27,10,41,0
+Empleado 1268,ventas,junior,73,2,alto,2,2,52,0
+Empleado 1269,reposicion,junior,48,1,alto,14,9,94,1
+Empleado 1270,administracion,junior,52,3,medio,22,7,95,1
+Empleado 1271,deposito,trainee,81,5,alto,8,3,43,0
+Empleado 1272,atencion al cliente,senior,70,5,medio,18,3,81,0
+Empleado 1273,deposito,trainee,52,2,bajo,16,15,75,0
+Empleado 1274,administracion,senior,42,4,alto,27,5,93,0
+Empleado 1275,administracion,trainee,49,1,medio,26,9,53,0
+Empleado 1276,administracion,senior,33,3,alto,14,13,85,0
+Empleado 1277,administracion,junior,85,4,bajo,17,12,42,1
+Empleado 1278,logistica,trainee,90,5,medio,30,0,69,0
+Empleado 1279,reposicion,senior,89,2,medio,18,1,47,0
+Empleado 1280,logistica,trainee,46,2,bajo,25,5,61,0
+Empleado 1281,logistica,junior,81,5,medio,6,2,66,0
+Empleado 1282,reposicion,senior,99,5,bajo,26,3,51,0
+Empleado 1283,caja,senior,96,1,alto,28,12,92,2
+Empleado 1284,logistica,trainee,55,2,bajo,3,12,92,0
+Empleado 1285,deposito,junior,81,3,bajo,27,10,65,1
+Empleado 1286,atencion al cliente,senior,39,4,alto,27,9,79,0
+Empleado 1287,ventas,junior,48,2,medio,24,18,87,0
+Empleado 1288,reposicion,junior,48,4,medio,15,9,90,1
+Empleado 1289,reposicion,junior,68,1,medio,15,11,43,1
+Empleado 1290,logistica,senior,42,1,medio,13,12,97,2
+Empleado 1291,reposicion,senior,78,4,medio,18,11,93,1
+Empleado 1292,ventas,junior,55,1,bajo,27,12,86,1
+Empleado 1293,deposito,junior,69,5,alto,19,4,51,0
+Empleado 1294,deposito,senior,74,1,medio,15,13,42,0
+Empleado 1295,logistica,junior,68,2,medio,18,6,92,1
+Empleado 1296,reposicion,junior,76,5,bajo,16,13,91,1
+Empleado 1297,logistica,trainee,57,5,bajo,25,20,51,0
+Empleado 1298,caja,junior,53,4,medio,16,14,99,0
+Empleado 1299,deposito,trainee,64,3,alto,14,0,64,0
+Empleado 1300,caja,trainee,43,4,bajo,10,14,76,0
+Empleado 1301,atencion al cliente,trainee,66,4,bajo,11,20,86,0
+Empleado 1302,deposito,junior,55,4,alto,22,13,92,1
+Empleado 1303,atencion al cliente,junior,30,5,medio,24,15,93,1
+Empleado 1304,reposicion,junior,57,2,medio,12,14,55,0
+Empleado 1305,caja,trainee,66,1,alto,25,8,68,0
+Empleado 1306,caja,trainee,83,5,alto,7,13,75,0
+Empleado 1307,ventas,trainee,95,3,medio,18,6,85,0
+Empleado 1308,reposicion,senior,93,4,medio,24,20,42,2
+Empleado 1309,atencion al cliente,trainee,83,5,medio,5,13,46,0
+Empleado 1310,caja,senior,46,4,medio,18,3,79,0
+Empleado 1311,atencion al cliente,trainee,53,1,bajo,26,6,75,0
+Empleado 1312,logistica,trainee,33,5,bajo,22,2,46,0
+Empleado 1313,reposicion,senior,58,1,medio,16,10,100,2
+Empleado 1314,logistica,senior,43,3,medio,17,3,69,0
+Empleado 1315,caja,trainee,63,3,alto,14,16,53,0
+Empleado 1316,deposito,trainee,66,5,alto,4,8,95,1
+Empleado 1317,deposito,junior,55,4,medio,20,8,100,0
+Empleado 1318,administracion,junior,42,2,medio,10,10,44,0
+Empleado 1319,ventas,junior,31,1,medio,3,20,56,0
+Empleado 1320,atencion al cliente,senior,95,4,bajo,19,3,70,0
+Empleado 1321,administracion,junior,45,4,medio,28,14,68,0
+Empleado 1322,atencion al cliente,senior,52,4,alto,27,0,76,0
+Empleado 1323,administracion,junior,47,1,bajo,28,18,61,0
+Empleado 1324,reposicion,trainee,41,4,bajo,10,19,78,0
+Empleado 1325,reposicion,trainee,66,2,alto,5,9,54,0
+Empleado 1326,reposicion,junior,31,1,medio,19,18,65,0
+Empleado 1327,reposicion,trainee,72,2,medio,26,20,93,0
+Empleado 1328,logistica,senior,61,1,medio,15,13,99,2
+Empleado 1329,ventas,senior,94,2,medio,5,5,95,1
+Empleado 1330,administracion,junior,81,5,medio,6,10,96,1
+Empleado 1331,caja,junior,74,5,alto,7,17,86,1
+Empleado 1332,ventas,junior,84,4,medio,21,15,82,1
+Empleado 1333,deposito,senior,94,3,medio,8,0,68,0
+Empleado 1334,ventas,senior,33,4,medio,19,16,59,0
+Empleado 1335,caja,junior,54,1,bajo,4,16,94,1
+Empleado 1336,atencion al cliente,senior,89,3,alto,26,17,60,2
+Empleado 1337,administracion,junior,51,1,alto,26,9,82,1
+Empleado 1338,ventas,trainee,52,2,medio,10,2,80,0
+Empleado 1339,caja,senior,71,4,bajo,22,8,67,0
+Empleado 1340,deposito,senior,36,5,bajo,28,20,83,2
+Empleado 1341,deposito,trainee,99,2,medio,17,0,87,0
+Empleado 1342,atencion al cliente,senior,95,1,bajo,16,2,40,0
+Empleado 1343,deposito,junior,39,5,bajo,11,10,86,1
+Empleado 1344,logistica,trainee,78,1,bajo,8,12,61,0
+Empleado 1345,reposicion,senior,90,4,alto,13,16,70,2
+Empleado 1346,administracion,senior,76,4,medio,6,20,60,0
+Empleado 1347,ventas,trainee,30,2,medio,28,18,47,0
+Empleado 1348,caja,junior,91,1,medio,8,6,54,1
+Empleado 1349,ventas,junior,44,5,medio,7,11,89,1
+Empleado 1350,reposicion,junior,46,4,medio,16,17,57,0
+Empleado 1351,atencion al cliente,trainee,31,3,medio,10,16,100,0
+Empleado 1352,reposicion,senior,95,5,alto,13,12,66,2
+Empleado 1353,ventas,junior,51,5,medio,27,12,89,1
+Empleado 1354,atencion al cliente,trainee,33,3,alto,6,14,63,0
+Empleado 1355,reposicion,senior,78,5,bajo,2,7,75,0
+Empleado 1356,atencion al cliente,junior,84,2,medio,25,1,68,0
+Empleado 1357,deposito,senior,69,5,medio,12,6,63,0
+Empleado 1358,ventas,junior,69,1,medio,19,14,56,1
+Empleado 1359,ventas,junior,39,3,alto,18,8,54,0
+Empleado 1360,logistica,senior,39,5,medio,27,11,73,0
+Empleado 1361,logistica,junior,68,3,alto,29,0,70,0
+Empleado 1362,administracion,junior,91,2,medio,3,8,41,1
+Empleado 1363,atencion al cliente,senior,82,3,medio,19,14,42,0
+Empleado 1364,administracion,junior,74,1,medio,2,18,96,0
+Empleado 1365,atencion al cliente,junior,44,4,alto,21,11,60,0
+Empleado 1366,caja,trainee,32,2,alto,26,12,67,0
+Empleado 1367,reposicion,senior,53,3,bajo,19,15,57,0
+Empleado 1368,ventas,junior,75,1,alto,3,19,56,1
+Empleado 1369,administracion,junior,79,2,medio,28,19,80,1
+Empleado 1370,ventas,junior,85,5,medio,28,10,82,1
+Empleado 1371,logistica,junior,99,4,medio,4,12,91,1
+Empleado 1372,caja,junior,98,4,medio,22,14,53,0
+Empleado 1373,caja,junior,33,4,medio,18,15,77,0
+Empleado 1374,administracion,trainee,45,3,medio,17,6,94,0
+Empleado 1375,logistica,junior,72,4,alto,16,7,94,1
+Empleado 1376,deposito,junior,77,2,medio,9,12,71,1
+Empleado 1377,ventas,trainee,98,5,medio,16,13,98,2
+Empleado 1378,logistica,senior,40,1,bajo,13,16,93,2
+Empleado 1379,ventas,senior,69,2,bajo,18,19,87,2
+Empleado 1380,atencion al cliente,senior,51,4,bajo,23,2,51,0
+Empleado 1381,deposito,trainee,75,5,medio,27,11,82,1
+Empleado 1382,atencion al cliente,junior,32,5,bajo,3,7,52,0
+Empleado 1383,atencion al cliente,trainee,59,4,alto,27,7,62,0
+Empleado 1384,deposito,junior,40,4,alto,12,4,63,0
+Empleado 1385,deposito,trainee,58,5,alto,4,1,84,0
+Empleado 1386,ventas,junior,77,1,medio,10,9,98,1
+Empleado 1387,deposito,trainee,78,2,medio,4,17,49,0
+Empleado 1388,ventas,trainee,78,4,bajo,8,19,43,0
+Empleado 1389,reposicion,junior,33,3,medio,27,17,78,0
+Empleado 1390,logistica,senior,59,3,medio,28,5,55,0
+Empleado 1391,reposicion,trainee,79,3,medio,30,17,82,0
+Empleado 1392,deposito,trainee,86,2,medio,16,18,40,0
+Empleado 1393,deposito,junior,56,1,medio,30,20,48,0
+Empleado 1394,reposicion,trainee,52,2,bajo,20,1,59,0
+Empleado 1395,caja,junior,87,2,alto,6,12,98,1
+Empleado 1396,reposicion,trainee,46,3,alto,21,20,70,0
+Empleado 1397,atencion al cliente,junior,38,1,medio,12,5,41,0
+Empleado 1398,caja,trainee,99,2,medio,9,14,98,2
+Empleado 1399,logistica,senior,62,4,alto,15,15,45,0
+Empleado 1400,reposicion,senior,49,5,medio,9,6,59,0
+Empleado 1401,deposito,junior,49,5,alto,26,10,73,0
+Empleado 1402,deposito,trainee,42,1,medio,28,11,84,0
+Empleado 1403,administracion,senior,77,1,medio,13,4,89,0
+Empleado 1404,logistica,junior,41,3,bajo,5,16,40,0
+Empleado 1405,caja,senior,91,2,bajo,30,1,99,2
+Empleado 1406,caja,trainee,48,4,medio,30,17,100,0
+Empleado 1407,atencion al cliente,junior,61,3,medio,30,16,88,1
+Empleado 1408,reposicion,junior,55,1,medio,30,12,95,1
+Empleado 1409,atencion al cliente,junior,62,1,bajo,16,6,48,1
+Empleado 1410,administracion,trainee,84,3,bajo,20,13,75,0
+Empleado 1411,deposito,trainee,57,4,medio,10,16,79,0
+Empleado 1412,deposito,senior,53,1,alto,23,11,69,0
+Empleado 1413,logistica,senior,98,5,bajo,10,10,72,2
+Empleado 1414,deposito,junior,39,4,bajo,7,15,42,0
+Empleado 1415,logistica,trainee,73,3,medio,5,8,45,0
+Empleado 1416,administracion,junior,71,3,bajo,14,5,99,1
+Empleado 1417,deposito,trainee,77,1,alto,25,3,73,0
+Empleado 1418,caja,junior,83,2,medio,4,6,57,1
+Empleado 1419,ventas,junior,38,3,medio,13,6,90,1
+Empleado 1420,reposicion,trainee,36,2,medio,24,4,53,0
+Empleado 1421,administracion,trainee,64,1,bajo,25,8,94,1
+Empleado 1422,administracion,senior,83,2,medio,30,3,94,0
+Empleado 1423,reposicion,trainee,89,1,medio,30,12,41,0
+Empleado 1424,administracion,senior,86,2,medio,4,14,59,0
+Empleado 1425,reposicion,junior,61,3,medio,27,13,95,1
+Empleado 1426,caja,trainee,33,1,bajo,28,18,64,0
+Empleado 1427,logistica,junior,72,5,medio,20,10,80,1
+Empleado 1428,reposicion,senior,97,2,bajo,14,16,72,2
+Empleado 1429,reposicion,junior,31,1,medio,26,7,47,0
+Empleado 1430,caja,junior,90,5,medio,17,2,66,0
+Empleado 1431,ventas,junior,36,4,alto,12,8,55,0
+Empleado 1432,ventas,senior,59,5,medio,24,17,61,0
+Empleado 1433,reposicion,junior,80,1,alto,11,13,98,1
+Empleado 1434,logistica,senior,37,3,medio,28,6,97,2
+Empleado 1435,atencion al cliente,senior,66,3,bajo,4,19,60,0
+Empleado 1436,reposicion,junior,73,2,alto,28,1,67,0
+Empleado 1437,reposicion,trainee,33,3,medio,2,20,95,0
+Empleado 1438,caja,junior,93,2,medio,24,17,43,2
+Empleado 1439,logistica,junior,35,4,alto,17,16,71,0
+Empleado 1440,reposicion,trainee,34,5,bajo,24,0,66,0
+Empleado 1441,atencion al cliente,junior,92,3,alto,22,10,59,0
+Empleado 1442,atencion al cliente,trainee,96,4,medio,18,8,87,0
+Empleado 1443,administracion,trainee,54,1,alto,6,16,84,0
+Empleado 1444,caja,senior,60,3,bajo,12,0,61,0
+Empleado 1445,reposicion,trainee,39,2,medio,7,13,65,0
+Empleado 1446,deposito,junior,66,4,medio,28,12,53,1
+Empleado 1447,atencion al cliente,senior,49,4,medio,22,11,68,0
+Empleado 1448,ventas,senior,59,4,bajo,19,4,93,0
+Empleado 1449,logistica,senior,34,5,alto,17,18,59,0
+Empleado 1450,atencion al cliente,trainee,43,2,medio,20,0,64,0
+Empleado 1451,atencion al cliente,trainee,36,3,medio,27,3,59,0
+Empleado 1452,ventas,junior,41,1,medio,9,3,47,0
+Empleado 1453,caja,senior,66,1,medio,7,14,85,1
+Empleado 1454,administracion,senior,35,5,alto,11,4,47,0
+Empleado 1455,reposicion,trainee,70,2,medio,29,19,51,0
+Empleado 1456,administracion,trainee,69,4,medio,12,11,55,0
+Empleado 1457,atencion al cliente,junior,64,4,medio,22,0,89,1
+Empleado 1458,administracion,junior,50,5,medio,8,20,60,0
+Empleado 1459,logistica,junior,40,1,alto,13,15,89,1
+Empleado 1460,administracion,senior,36,1,bajo,29,5,90,0
+Empleado 1461,administracion,senior,69,3,alto,30,9,45,0
+Empleado 1462,administracion,trainee,41,3,medio,7,17,57,0
+Empleado 1463,reposicion,senior,72,2,medio,7,20,58,0
+Empleado 1464,logistica,junior,49,1,alto,2,18,74,0
+Empleado 1465,reposicion,junior,99,5,medio,19,20,92,2
+Empleado 1466,atencion al cliente,junior,50,3,alto,2,5,71,0
+Empleado 1467,logistica,trainee,31,2,alto,2,3,87,0
+Empleado 1468,reposicion,trainee,75,1,medio,24,2,90,0
+Empleado 1469,deposito,trainee,93,3,medio,28,15,64,0
+Empleado 1470,ventas,trainee,42,1,medio,22,3,49,0
+Empleado 1471,logistica,junior,67,1,bajo,11,5,41,1
+Empleado 1472,reposicion,trainee,48,4,alto,11,9,53,0
+Empleado 1473,ventas,trainee,67,4,bajo,26,14,61,0
+Empleado 1474,atencion al cliente,trainee,70,2,medio,20,10,58,0
+Empleado 1475,administracion,junior,67,4,medio,17,13,72,1
+Empleado 1476,ventas,trainee,83,3,medio,26,5,100,0
+Empleado 1477,ventas,senior,42,2,alto,17,18,83,2
+Empleado 1478,caja,junior,74,4,alto,22,17,45,0
+Empleado 1479,administracion,junior,68,1,alto,3,10,77,1
+Empleado 1480,ventas,senior,64,3,medio,22,18,76,2
+Empleado 1481,reposicion,junior,95,1,alto,18,5,64,0
+Empleado 1482,atencion al cliente,trainee,84,3,alto,18,7,77,0
+Empleado 1483,administracion,trainee,44,3,bajo,8,8,85,0
+Empleado 1484,deposito,trainee,61,4,alto,25,1,59,0
+Empleado 1485,reposicion,junior,63,2,bajo,16,20,54,0
+Empleado 1486,atencion al cliente,senior,84,1,medio,24,2,94,0
+Empleado 1487,logistica,junior,75,3,medio,27,10,64,1
+Empleado 1488,logistica,senior,41,1,alto,30,13,46,0
+Empleado 1489,administracion,senior,56,2,alto,12,11,76,0
+Empleado 1490,caja,trainee,49,2,alto,21,16,69,0
+Empleado 1491,administracion,trainee,88,3,alto,23,5,81,0
+Empleado 1492,deposito,junior,39,1,medio,3,7,93,1
+Empleado 1493,logistica,senior,31,3,medio,10,14,68,0
+Empleado 1494,reposicion,trainee,89,3,medio,10,12,71,0
+Empleado 1495,reposicion,senior,94,4,alto,12,18,86,2
+Empleado 1496,administracion,junior,72,3,medio,10,2,79,0
+Empleado 1497,deposito,trainee,83,2,medio,12,19,70,0
+Empleado 1498,reposicion,junior,32,4,medio,30,11,89,1
+Empleado 1499,logistica,senior,84,2,medio,18,17,59,2
+Empleado 1500,reposicion,junior,31,3,medio,2,10,66,0
+Empleado 1501,caja,trainee,63,3,medio,15,9,62,0
+Empleado 1502,deposito,junior,36,4,medio,26,15,97,0
+Empleado 1503,deposito,junior,88,1,alto,6,4,80,1
+Empleado 1504,reposicion,senior,46,4,alto,29,9,70,0
+Empleado 1505,caja,trainee,56,2,medio,9,14,56,0
+Empleado 1506,reposicion,senior,83,3,medio,7,0,83,1
+Empleado 1507,atencion al cliente,junior,99,4,alto,28,10,53,0
+Empleado 1508,administracion,trainee,65,2,medio,25,5,70,0
+Empleado 1509,caja,senior,53,4,medio,26,15,90,0
+Empleado 1510,administracion,senior,76,2,bajo,24,2,71,0
+Empleado 1511,administracion,trainee,81,3,medio,18,3,76,0
+Empleado 1512,deposito,trainee,67,1,alto,29,20,64,0
+Empleado 1513,reposicion,junior,36,4,medio,20,8,91,1
+Empleado 1514,ventas,junior,59,3,medio,17,10,93,1
+Empleado 1515,logistica,junior,38,3,medio,4,1,43,0
+Empleado 1516,reposicion,trainee,55,2,bajo,5,19,57,0
+Empleado 1517,caja,senior,78,3,medio,10,6,98,2
+Empleado 1518,administracion,trainee,38,3,medio,25,5,85,0
+Empleado 1519,atencion al cliente,junior,45,5,alto,29,13,69,0
+Empleado 1520,reposicion,junior,88,1,alto,25,7,100,2
+Empleado 1521,administracion,senior,83,5,alto,28,17,83,2
+Empleado 1522,reposicion,senior,34,5,bajo,15,14,72,0
+Empleado 1523,ventas,senior,72,3,medio,12,8,58,0
+Empleado 1524,ventas,junior,90,3,medio,25,16,58,2
+Empleado 1525,ventas,senior,91,1,alto,12,1,87,2
+Empleado 1526,administracion,junior,59,3,medio,14,6,97,0
+Empleado 1527,administracion,senior,69,5,medio,19,12,86,1
+Empleado 1528,logistica,junior,43,5,medio,7,8,61,0
+Empleado 1529,administracion,trainee,66,2,alto,8,5,95,1
+Empleado 1530,ventas,junior,61,1,medio,8,18,58,1
+Empleado 1531,caja,senior,61,2,bajo,29,2,75,0
+Empleado 1532,caja,trainee,94,5,medio,13,6,62,0
+Empleado 1533,ventas,senior,56,4,alto,20,10,55,0
+Empleado 1534,administracion,senior,75,2,alto,13,15,55,0
+Empleado 1535,atencion al cliente,senior,94,2,medio,7,19,95,2
+Empleado 1536,atencion al cliente,senior,75,5,medio,20,1,48,0
+Empleado 1537,reposicion,junior,64,3,alto,12,1,98,0
+Empleado 1538,reposicion,junior,86,3,medio,8,6,46,1
+Empleado 1539,atencion al cliente,junior,51,2,medio,8,7,61,0
+Empleado 1540,atencion al cliente,junior,92,5,medio,10,14,94,1
+Empleado 1541,deposito,junior,83,3,alto,23,19,76,0
+Empleado 1542,reposicion,junior,98,3,medio,28,5,59,0
+Empleado 1543,logistica,trainee,73,4,medio,11,16,84,0
+Empleado 1544,administracion,trainee,56,5,medio,8,15,49,0
+Empleado 1545,administracion,senior,45,3,bajo,30,7,94,0
+Empleado 1546,caja,trainee,36,5,medio,12,20,88,0
+Empleado 1547,logistica,trainee,48,5,alto,11,9,90,0
+Empleado 1548,logistica,junior,54,1,alto,15,0,65,0
+Empleado 1549,deposito,trainee,66,1,medio,5,18,56,0
+Empleado 1550,atencion al cliente,trainee,51,4,medio,18,5,49,0
+Empleado 1551,reposicion,senior,59,3,bajo,9,3,77,0
+Empleado 1552,ventas,senior,74,4,bajo,2,14,54,0
+Empleado 1553,administracion,trainee,50,2,medio,27,9,71,0
+Empleado 1554,reposicion,senior,45,1,alto,13,15,93,0
+Empleado 1555,ventas,senior,30,1,alto,11,15,93,0
+Empleado 1556,administracion,trainee,35,3,medio,29,4,56,0
+Empleado 1557,deposito,junior,97,4,bajo,25,20,65,2
+Empleado 1558,atencion al cliente,senior,70,5,medio,22,1,70,0
+Empleado 1559,ventas,senior,45,3,alto,8,4,48,0
+Empleado 1560,reposicion,senior,89,3,medio,9,17,83,2
+Empleado 1561,logistica,trainee,75,5,medio,25,13,81,1
+Empleado 1562,atencion al cliente,senior,52,4,medio,7,19,85,0
+Empleado 1563,atencion al cliente,trainee,84,4,medio,9,18,69,0
+Empleado 1564,atencion al cliente,junior,43,1,alto,20,17,72,0
+Empleado 1565,deposito,junior,95,5,alto,5,1,45,0
+Empleado 1566,administracion,junior,35,3,bajo,7,1,68,0
+Empleado 1567,deposito,trainee,56,2,bajo,19,7,84,1
+Empleado 1568,deposito,trainee,57,3,medio,14,12,60,0
+Empleado 1569,reposicion,junior,86,3,medio,24,7,42,0
+Empleado 1570,administracion,senior,44,4,medio,9,8,41,0
+Empleado 1571,reposicion,senior,71,5,medio,7,6,86,1
+Empleado 1572,deposito,junior,89,2,medio,8,1,95,1
+Empleado 1573,administracion,junior,73,4,bajo,10,4,99,0
+Empleado 1574,logistica,senior,86,2,alto,16,17,63,2
+Empleado 1575,deposito,trainee,68,5,alto,16,11,65,0
+Empleado 1576,logistica,junior,74,3,bajo,3,13,62,1
+Empleado 1577,logistica,junior,88,1,alto,16,14,64,0
+Empleado 1578,reposicion,senior,66,1,medio,21,4,65,0
+Empleado 1579,caja,trainee,70,5,medio,18,14,58,0
+Empleado 1580,administracion,junior,55,4,alto,3,10,52,0
+Empleado 1581,ventas,senior,32,3,medio,19,16,99,2
+Empleado 1582,administracion,senior,34,3,medio,24,13,75,0
+Empleado 1583,atencion al cliente,trainee,87,1,alto,3,4,70,0
+Empleado 1584,reposicion,junior,64,5,medio,24,19,41,0
+Empleado 1585,deposito,trainee,60,2,alto,17,8,51,0
+Empleado 1586,deposito,trainee,52,2,alto,12,10,69,0
+Empleado 1587,logistica,junior,65,3,medio,25,18,98,2
+Empleado 1588,ventas,senior,32,1,medio,5,15,44,0
+Empleado 1589,caja,junior,99,2,alto,14,4,84,0
+Empleado 1590,ventas,trainee,46,2,alto,13,10,80,0
+Empleado 1591,reposicion,trainee,53,1,medio,22,1,40,0
+Empleado 1592,reposicion,junior,41,2,alto,25,16,46,0
+Empleado 1593,deposito,junior,58,1,medio,13,7,89,1
+Empleado 1594,reposicion,senior,85,2,alto,13,8,40,0
+Empleado 1595,reposicion,senior,94,2,medio,9,2,45,0
+Empleado 1596,ventas,junior,60,2,alto,25,18,83,1
+Empleado 1597,atencion al cliente,senior,66,3,alto,20,17,86,2
+Empleado 1598,administracion,junior,97,2,medio,19,19,92,2
+Empleado 1599,ventas,senior,62,3,medio,12,2,40,0
+Empleado 1600,caja,senior,38,2,medio,8,19,61,0
+Empleado 1601,logistica,senior,88,3,bajo,15,19,56,2
+Empleado 1602,reposicion,senior,96,3,alto,15,15,40,2
+Empleado 1603,administracion,junior,49,2,bajo,10,8,71,0
+Empleado 1604,atencion al cliente,senior,93,5,alto,27,14,85,2
+Empleado 1605,atencion al cliente,junior,73,2,bajo,7,7,73,1
+Empleado 1606,reposicion,junior,52,1,medio,27,13,97,0
+Empleado 1607,logistica,junior,75,3,medio,5,3,81,1
+Empleado 1608,logistica,trainee,60,3,medio,12,12,70,0
+Empleado 1609,logistica,junior,55,3,alto,26,9,64,0
+Empleado 1610,caja,junior,62,3,medio,17,12,97,1
+Empleado 1611,deposito,senior,44,4,bajo,15,3,73,0
+Empleado 1612,ventas,senior,56,5,medio,12,1,84,0
+Empleado 1613,deposito,senior,67,2,alto,7,18,78,0
+Empleado 1614,ventas,junior,47,2,medio,7,2,50,0
+Empleado 1615,logistica,trainee,82,3,bajo,5,12,95,1
+Empleado 1616,logistica,junior,84,1,medio,26,8,59,1
+Empleado 1617,caja,junior,99,2,alto,25,20,41,2
+Empleado 1618,deposito,trainee,61,5,medio,2,14,78,0
+Empleado 1619,caja,senior,97,4,alto,27,3,40,0
+Empleado 1620,caja,trainee,50,4,alto,24,1,56,0
+Empleado 1621,reposicion,senior,47,2,medio,11,6,49,0
+Empleado 1622,reposicion,junior,55,2,alto,22,10,44,0
+Empleado 1623,caja,junior,83,3,alto,18,19,86,1
+Empleado 1624,deposito,junior,61,4,medio,29,15,48,1
+Empleado 1625,ventas,senior,67,5,bajo,25,4,50,0
+Empleado 1626,deposito,junior,76,3,medio,15,17,63,0
+Empleado 1627,deposito,senior,78,4,alto,14,6,89,1
+Empleado 1628,logistica,trainee,39,4,medio,21,8,68,0
+Empleado 1629,atencion al cliente,trainee,92,3,medio,22,8,50,0
+Empleado 1630,ventas,junior,98,5,alto,4,2,48,0
+Empleado 1631,reposicion,junior,56,3,medio,6,9,58,0
+Empleado 1632,ventas,trainee,72,4,bajo,2,16,40,0
+Empleado 1633,logistica,senior,37,2,bajo,12,13,86,0
+Empleado 1634,atencion al cliente,junior,67,5,medio,15,5,91,1
+Empleado 1635,ventas,trainee,50,3,bajo,13,0,75,0
+Empleado 1636,administracion,senior,81,3,medio,15,15,50,0
+Empleado 1637,ventas,junior,79,5,medio,10,17,46,0
+Empleado 1638,ventas,junior,61,3,medio,30,7,40,1
+Empleado 1639,caja,senior,86,1,medio,4,12,67,0
+Empleado 1640,atencion al cliente,trainee,46,2,medio,6,18,96,0
+Empleado 1641,deposito,junior,66,2,medio,26,18,57,0
+Empleado 1642,deposito,trainee,69,5,bajo,3,10,64,0
+Empleado 1643,logistica,junior,88,3,alto,23,4,94,0
+Empleado 1644,deposito,senior,53,1,alto,11,0,43,0
+Empleado 1645,administracion,senior,33,1,medio,29,1,64,0
+Empleado 1646,administracion,junior,77,2,medio,13,12,65,1
+Empleado 1647,administracion,junior,67,4,alto,28,0,79,0
+Empleado 1648,atencion al cliente,senior,67,2,medio,27,2,68,0
+Empleado 1649,administracion,junior,55,3,medio,22,0,91,0
+Empleado 1650,logistica,trainee,83,5,medio,16,19,86,0
+Empleado 1651,deposito,trainee,41,1,medio,7,6,87,0
+Empleado 1652,administracion,senior,95,1,alto,4,8,91,1
+Empleado 1653,reposicion,senior,60,3,medio,30,19,93,2
+Empleado 1654,administracion,trainee,76,3,bajo,14,15,59,0
+Empleado 1655,reposicion,senior,40,2,medio,25,18,59,0
+Empleado 1656,atencion al cliente,junior,39,4,medio,26,18,77,0
+Empleado 1657,atencion al cliente,senior,72,3,alto,10,18,90,2
+Empleado 1658,caja,senior,33,1,bajo,20,11,57,0
+Empleado 1659,administracion,junior,95,2,bajo,13,2,83,0
+Empleado 1660,administracion,trainee,37,1,bajo,4,10,67,0
+Empleado 1661,ventas,senior,92,5,medio,8,10,60,0
+Empleado 1662,ventas,senior,63,5,alto,16,18,88,2
+Empleado 1663,atencion al cliente,senior,81,1,alto,24,12,96,2
+Empleado 1664,ventas,senior,58,4,bajo,14,15,55,0
+Empleado 1665,atencion al cliente,senior,87,4,alto,5,16,62,2
+Empleado 1666,deposito,senior,82,4,medio,20,20,79,2
+Empleado 1667,administracion,junior,30,3,alto,8,4,90,0
+Empleado 1668,reposicion,junior,60,1,medio,26,9,44,1
+Empleado 1669,ventas,junior,36,5,alto,8,20,90,1
+Empleado 1670,deposito,senior,95,2,alto,26,7,69,2
+Empleado 1671,deposito,trainee,36,3,medio,4,13,62,0
+Empleado 1672,ventas,senior,77,2,alto,9,5,62,0
+Empleado 1673,logistica,junior,36,1,medio,23,18,68,0
+Empleado 1674,logistica,trainee,30,4,medio,4,2,58,0
+Empleado 1675,caja,junior,81,3,medio,18,2,48,0
+Empleado 1676,caja,junior,68,1,alto,26,5,81,1
+Empleado 1677,administracion,trainee,72,4,bajo,6,17,40,0
+Empleado 1678,administracion,senior,94,2,medio,7,1,95,0
+Empleado 1679,logistica,trainee,49,4,alto,17,1,100,0
+Empleado 1680,logistica,senior,84,3,medio,25,18,63,2
+Empleado 1681,reposicion,junior,42,3,alto,3,2,87,0
+Empleado 1682,reposicion,junior,89,1,medio,19,16,69,2
+Empleado 1683,caja,senior,82,3,medio,2,9,57,0
+Empleado 1684,logistica,junior,96,1,bajo,8,9,66,1
+Empleado 1685,caja,junior,34,5,bajo,26,7,59,0
+Empleado 1686,logistica,trainee,85,5,alto,18,13,65,0
+Empleado 1687,logistica,trainee,49,1,bajo,24,3,74,0
+Empleado 1688,caja,trainee,43,1,medio,22,2,65,0
+Empleado 1689,atencion al cliente,trainee,57,2,bajo,27,10,93,0
+Empleado 1690,reposicion,junior,53,3,bajo,2,10,64,0
+Empleado 1691,logistica,senior,59,5,bajo,12,15,49,0
+Empleado 1692,caja,trainee,78,3,bajo,23,8,40,0
+Empleado 1693,logistica,trainee,71,3,alto,17,8,99,0
+Empleado 1694,caja,senior,79,4,medio,28,6,80,1
+Empleado 1695,ventas,junior,88,5,alto,26,20,92,2
+Empleado 1696,reposicion,junior,40,1,medio,14,11,53,0
+Empleado 1697,atencion al cliente,senior,54,2,alto,26,18,84,2
+Empleado 1698,logistica,trainee,81,4,bajo,16,12,40,0
+Empleado 1699,administracion,trainee,91,5,alto,30,6,64,0
+Empleado 1700,caja,junior,88,2,medio,9,15,55,0
+Empleado 1701,ventas,senior,82,1,alto,18,5,43,0
+Empleado 1702,ventas,trainee,59,5,medio,25,7,67,0
+Empleado 1703,caja,senior,91,4,medio,7,10,64,0
+Empleado 1704,ventas,senior,84,2,medio,12,20,85,2
+Empleado 1705,deposito,trainee,40,5,alto,5,16,54,0
+Empleado 1706,caja,trainee,36,2,medio,19,7,53,0
+Empleado 1707,deposito,senior,47,2,medio,26,6,43,0
+Empleado 1708,caja,trainee,41,3,alto,13,12,74,0
+Empleado 1709,deposito,trainee,54,5,alto,25,3,52,0
+Empleado 1710,atencion al cliente,junior,34,1,medio,13,1,72,0
+Empleado 1711,deposito,senior,70,1,alto,25,3,42,0
+Empleado 1712,administracion,senior,91,1,bajo,5,16,76,2
+Empleado 1713,deposito,trainee,73,4,alto,25,6,45,0
+Empleado 1714,administracion,junior,79,3,bajo,6,18,60,1
+Empleado 1715,logistica,senior,45,4,medio,25,5,96,2
+Empleado 1716,administracion,trainee,93,2,bajo,18,9,91,0
+Empleado 1717,atencion al cliente,trainee,70,2,alto,21,0,93,0
+Empleado 1718,reposicion,junior,94,4,alto,21,4,97,2
+Empleado 1719,reposicion,senior,38,4,medio,16,6,67,0
+Empleado 1720,administracion,junior,75,2,medio,20,13,73,1
+Empleado 1721,caja,senior,98,5,medio,21,15,81,2
+Empleado 1722,ventas,junior,88,2,medio,27,6,53,0
+Empleado 1723,reposicion,senior,58,3,medio,14,14,46,0
+Empleado 1724,administracion,junior,67,5,medio,22,8,88,1
+Empleado 1725,reposicion,junior,68,3,alto,22,6,51,1
+Empleado 1726,deposito,junior,47,3,medio,30,7,95,1
+Empleado 1727,deposito,senior,75,3,medio,7,3,59,0
+Empleado 1728,ventas,trainee,42,4,medio,13,17,76,0
+Empleado 1729,ventas,trainee,57,5,medio,21,19,43,0
+Empleado 1730,caja,junior,83,4,alto,2,15,46,0
+Empleado 1731,logistica,junior,38,5,medio,24,1,87,0
+Empleado 1732,reposicion,junior,90,5,medio,16,12,50,0
+Empleado 1733,logistica,trainee,99,3,alto,22,5,46,0
+Empleado 1734,reposicion,senior,76,4,alto,11,13,70,0
+Empleado 1735,caja,trainee,34,1,medio,15,14,79,0
+Empleado 1736,reposicion,trainee,56,2,bajo,20,6,56,0
+Empleado 1737,deposito,junior,46,3,alto,20,12,63,0
+Empleado 1738,deposito,junior,99,2,medio,28,11,60,0
+Empleado 1739,caja,trainee,32,4,medio,22,5,69,0
+Empleado 1740,deposito,junior,70,4,medio,25,9,60,1
+Empleado 1741,atencion al cliente,trainee,34,1,alto,3,18,84,0
+Empleado 1742,reposicion,trainee,59,2,medio,10,0,83,0
+Empleado 1743,atencion al cliente,trainee,99,1,alto,20,11,93,0
+Empleado 1744,atencion al cliente,junior,30,2,medio,25,3,98,0
+Empleado 1745,reposicion,trainee,42,5,bajo,22,5,97,0
+Empleado 1746,ventas,trainee,83,1,alto,25,6,52,0
+Empleado 1747,reposicion,trainee,61,5,bajo,21,5,87,1
+Empleado 1748,ventas,trainee,68,2,alto,22,2,68,0
+Empleado 1749,ventas,junior,38,1,bajo,22,15,76,0
+Empleado 1750,logistica,junior,55,5,medio,30,12,96,0
+Empleado 1751,reposicion,trainee,57,2,medio,23,12,93,0
+Empleado 1752,logistica,senior,70,1,bajo,8,13,76,1
+Empleado 1753,atencion al cliente,junior,46,1,alto,4,19,65,0
+Empleado 1754,atencion al cliente,trainee,84,5,medio,27,16,51,0
+Empleado 1755,caja,junior,54,2,medio,13,6,75,0
+Empleado 1756,atencion al cliente,senior,56,1,medio,12,20,96,2
+Empleado 1757,deposito,trainee,52,3,medio,12,16,54,0
+Empleado 1758,atencion al cliente,junior,83,2,medio,6,9,73,1
+Empleado 1759,administracion,senior,69,1,medio,5,14,41,1
+Empleado 1760,atencion al cliente,trainee,88,2,medio,27,18,79,0
+Empleado 1761,caja,junior,71,5,alto,9,5,89,1
+Empleado 1762,deposito,trainee,52,5,medio,20,2,54,0
+Empleado 1763,caja,senior,41,1,alto,19,4,67,0
+Empleado 1764,atencion al cliente,junior,59,5,bajo,18,0,95,0
+Empleado 1765,deposito,trainee,87,2,bajo,16,1,81,0
+Empleado 1766,caja,trainee,70,1,bajo,2,3,59,0
+Empleado 1767,deposito,trainee,66,5,bajo,15,7,41,0
+Empleado 1768,deposito,junior,58,5,medio,12,3,74,0
+Empleado 1769,administracion,trainee,97,3,alto,11,14,71,0
+Empleado 1770,reposicion,junior,44,1,medio,30,10,82,1
+Empleado 1771,reposicion,trainee,57,4,bajo,7,17,41,0
+Empleado 1772,atencion al cliente,trainee,76,3,medio,16,9,96,0
+Empleado 1773,logistica,junior,60,4,alto,24,14,41,1
+Empleado 1774,reposicion,trainee,81,1,alto,7,5,55,0
+Empleado 1775,caja,junior,46,4,bajo,7,19,81,1
+Empleado 1776,atencion al cliente,trainee,96,3,alto,13,4,85,0
+Empleado 1777,atencion al cliente,junior,60,3,alto,18,11,59,1
+Empleado 1778,deposito,junior,32,5,alto,24,19,100,2
+Empleado 1779,caja,trainee,41,4,alto,25,0,62,0
+Empleado 1780,caja,trainee,79,3,alto,8,17,92,1
+Empleado 1781,administracion,junior,75,2,alto,27,6,41,1
+Empleado 1782,atencion al cliente,junior,36,2,alto,7,7,69,0
+Empleado 1783,deposito,senior,42,3,medio,21,2,61,0
+Empleado 1784,ventas,trainee,73,1,alto,26,14,80,1
+Empleado 1785,logistica,senior,88,2,medio,27,17,51,2
+Empleado 1786,deposito,trainee,39,3,medio,7,3,52,0
+Empleado 1787,ventas,senior,76,2,bajo,4,7,65,1
+Empleado 1788,reposicion,senior,66,3,bajo,23,3,45,0
+Empleado 1789,ventas,junior,32,2,alto,26,4,85,0
+Empleado 1790,ventas,senior,58,1,medio,29,14,67,0
+Empleado 1791,reposicion,junior,57,1,bajo,16,3,45,0
+Empleado 1792,atencion al cliente,senior,58,5,bajo,16,11,58,0
+Empleado 1793,ventas,junior,80,2,alto,16,1,65,0
+Empleado 1794,caja,senior,74,2,alto,30,16,66,2
+Empleado 1795,logistica,senior,43,5,medio,14,0,58,0
+Empleado 1796,ventas,junior,47,3,medio,7,8,84,1
+Empleado 1797,caja,senior,44,5,medio,23,19,54,0
+Empleado 1798,atencion al cliente,senior,51,5,medio,28,11,85,0
+Empleado 1799,caja,junior,62,1,medio,9,20,47,0
+Empleado 1800,caja,junior,88,2,alto,2,0,100,0
+Empleado 1801,reposicion,senior,54,4,medio,15,13,42,0
+Empleado 1802,administracion,junior,45,2,medio,5,6,71,0
+Empleado 1803,atencion al cliente,junior,83,5,alto,27,6,58,1
+Empleado 1804,atencion al cliente,junior,50,1,medio,21,11,59,0
+Empleado 1805,atencion al cliente,senior,37,2,medio,14,4,40,0
+Empleado 1806,reposicion,junior,34,2,medio,27,10,96,0
+Empleado 1807,deposito,trainee,37,4,medio,8,18,51,0
+Empleado 1808,atencion al cliente,trainee,83,3,medio,3,20,72,0
+Empleado 1809,caja,junior,56,2,medio,7,8,46,0
+Empleado 1810,ventas,trainee,58,1,medio,3,2,94,0
+Empleado 1811,logistica,junior,93,4,medio,16,13,61,0
+Empleado 1812,administracion,trainee,91,4,medio,21,4,41,0
+Empleado 1813,logistica,junior,40,5,medio,11,2,68,0
+Empleado 1814,ventas,senior,90,2,alto,27,14,53,2
+Empleado 1815,reposicion,junior,32,3,medio,25,20,70,0
+Empleado 1816,administracion,trainee,99,2,alto,30,17,43,0
+Empleado 1817,ventas,trainee,45,4,alto,20,1,76,0
+Empleado 1818,deposito,junior,81,2,medio,6,0,48,0
+Empleado 1819,deposito,senior,96,1,alto,9,16,63,2
+Empleado 1820,logistica,junior,64,4,medio,16,9,87,1
+Empleado 1821,logistica,senior,74,5,medio,16,14,52,0
+Empleado 1822,caja,trainee,63,3,medio,24,19,72,0
+Empleado 1823,ventas,senior,84,3,medio,30,7,42,0
+Empleado 1824,administracion,trainee,87,3,bajo,23,7,44,0
+Empleado 1825,atencion al cliente,trainee,31,5,alto,5,11,86,0
+Empleado 1826,deposito,trainee,75,3,medio,2,1,81,0
+Empleado 1827,deposito,senior,83,2,medio,21,13,77,0
+Empleado 1828,logistica,senior,69,1,medio,12,12,79,0
+Empleado 1829,administracion,senior,36,5,alto,9,12,73,0
+Empleado 1830,ventas,senior,37,3,medio,20,19,50,0
+Empleado 1831,administracion,junior,88,4,bajo,20,14,61,0
+Empleado 1832,reposicion,junior,61,5,medio,27,11,93,1
+Empleado 1833,logistica,junior,44,2,medio,9,20,84,0
+Empleado 1834,logistica,trainee,80,4,bajo,29,14,55,0
+Empleado 1835,administracion,junior,70,4,medio,27,0,97,0
+Empleado 1836,administracion,junior,45,1,alto,24,18,87,0
+Empleado 1837,reposicion,senior,49,5,alto,5,12,45,0
+Empleado 1838,administracion,junior,95,5,bajo,14,6,64,0
+Empleado 1839,administracion,junior,53,2,bajo,24,6,58,0
+Empleado 1840,ventas,trainee,80,4,bajo,25,2,95,0
+Empleado 1841,atencion al cliente,senior,77,3,medio,12,6,79,0
+Empleado 1842,atencion al cliente,junior,64,3,bajo,21,13,97,1
+Empleado 1843,ventas,senior,31,1,medio,6,9,54,0
+Empleado 1844,deposito,senior,89,5,alto,15,1,51,0
+Empleado 1845,administracion,senior,81,5,medio,17,10,88,1
+Empleado 1846,logistica,senior,94,4,medio,8,18,62,2
+Empleado 1847,logistica,trainee,61,3,medio,18,5,56,0
+Empleado 1848,atencion al cliente,junior,60,5,alto,24,0,61,0
+Empleado 1849,caja,junior,48,5,medio,24,20,70,0
+Empleado 1850,administracion,trainee,95,2,alto,7,11,99,0
+Empleado 1851,caja,trainee,55,4,medio,2,2,78,0
+Empleado 1852,ventas,junior,66,1,medio,26,14,60,1
+Empleado 1853,caja,trainee,93,1,alto,11,20,56,0
+Empleado 1854,caja,junior,75,3,medio,7,7,46,1
+Empleado 1855,administracion,junior,49,3,medio,16,6,59,0
+Empleado 1856,reposicion,junior,36,2,bajo,23,14,88,1
+Empleado 1857,atencion al cliente,junior,45,5,alto,14,5,56,0
+Empleado 1858,caja,senior,67,1,medio,27,11,98,2
+Empleado 1859,administracion,senior,77,5,bajo,24,18,51,2
+Empleado 1860,caja,junior,91,4,alto,19,18,76,2
+Empleado 1861,deposito,junior,35,1,medio,13,18,57,0
+Empleado 1862,deposito,junior,92,3,medio,23,7,65,0
+Empleado 1863,deposito,trainee,37,4,bajo,24,6,43,0
+Empleado 1864,caja,junior,46,3,alto,24,4,41,0
+Empleado 1865,logistica,junior,39,3,alto,28,11,46,0
+Empleado 1866,caja,junior,40,2,medio,10,14,85,1
+Empleado 1867,atencion al cliente,trainee,42,1,medio,20,2,56,0
+Empleado 1868,administracion,junior,96,1,alto,22,19,97,2
+Empleado 1869,administracion,junior,83,3,alto,17,14,54,1
+Empleado 1870,logistica,senior,39,3,medio,9,18,57,0
+Empleado 1871,logistica,junior,82,4,alto,4,14,48,1
+Empleado 1872,ventas,senior,84,3,bajo,2,16,63,0
+Empleado 1873,reposicion,junior,31,1,medio,24,1,63,0
+Empleado 1874,atencion al cliente,trainee,70,5,alto,4,5,82,1
+Empleado 1875,deposito,senior,98,3,alto,26,12,98,2
+Empleado 1876,administracion,junior,38,2,medio,29,11,66,0
+Empleado 1877,administracion,senior,96,2,bajo,3,19,59,2
+Empleado 1878,administracion,senior,94,2,medio,29,6,63,2
+Empleado 1879,reposicion,senior,69,3,medio,3,3,58,0
+Empleado 1880,logistica,trainee,70,5,medio,10,11,91,1
+Empleado 1881,atencion al cliente,junior,77,4,bajo,28,3,94,1
+Empleado 1882,caja,junior,83,2,medio,11,20,51,0
+Empleado 1883,ventas,junior,88,3,bajo,28,12,89,1
+Empleado 1884,logistica,trainee,38,5,medio,8,6,44,0
+Empleado 1885,caja,junior,87,1,alto,17,5,64,0
+Empleado 1886,reposicion,senior,62,4,medio,29,4,80,0
+Empleado 1887,caja,junior,94,5,medio,13,12,92,1
+Empleado 1888,atencion al cliente,senior,76,1,medio,23,3,56,0
+Empleado 1889,administracion,senior,66,2,medio,7,15,51,1
+Empleado 1890,deposito,senior,44,1,alto,3,6,70,0
+Empleado 1891,atencion al cliente,trainee,47,5,medio,30,11,99,0
+Empleado 1892,administracion,trainee,78,2,medio,16,2,78,0
+Empleado 1893,reposicion,junior,36,1,alto,13,9,82,1
+Empleado 1894,atencion al cliente,junior,65,3,alto,30,12,100,1
+Empleado 1895,atencion al cliente,junior,46,4,alto,7,8,49,0
+Empleado 1896,ventas,junior,47,1,medio,20,2,89,0
+Empleado 1897,deposito,trainee,95,3,medio,21,7,57,0
+Empleado 1898,logistica,trainee,69,3,medio,21,12,97,0
+Empleado 1899,caja,junior,41,2,alto,26,18,43,0
+Empleado 1900,reposicion,junior,97,5,alto,30,2,93,0
+Empleado 1901,ventas,senior,31,2,medio,8,11,64,0
+Empleado 1902,caja,senior,98,2,medio,14,10,63,2
+Empleado 1903,logistica,senior,37,4,bajo,13,1,100,0
+Empleado 1904,ventas,junior,59,2,alto,26,2,61,0
+Empleado 1905,deposito,trainee,50,2,medio,24,13,93,0
+Empleado 1906,atencion al cliente,senior,59,5,alto,11,12,44,0
+Empleado 1907,caja,junior,60,3,medio,11,9,100,1
+Empleado 1908,reposicion,trainee,64,5,medio,27,1,54,0
+Empleado 1909,deposito,junior,86,3,medio,16,3,43,0
+Empleado 1910,reposicion,senior,47,2,medio,16,8,72,0
+Empleado 1911,ventas,trainee,34,2,medio,2,6,45,0
+Empleado 1912,deposito,trainee,47,4,alto,8,11,65,0
+Empleado 1913,administracion,senior,79,1,medio,24,11,59,0
+Empleado 1914,reposicion,junior,45,3,medio,6,1,72,0
+Empleado 1915,caja,junior,50,1,alto,22,13,48,0
+Empleado 1916,logistica,junior,54,1,medio,2,20,97,0
+Empleado 1917,administracion,senior,35,4,alto,25,9,78,0
+Empleado 1918,logistica,senior,62,3,medio,18,7,76,0
+Empleado 1919,reposicion,senior,89,2,medio,2,20,53,0
+Empleado 1920,caja,trainee,58,2,medio,9,6,92,0
+Empleado 1921,ventas,trainee,84,5,medio,6,2,64,0
+Empleado 1922,deposito,junior,89,5,bajo,26,3,95,0
+Empleado 1923,administracion,junior,69,5,alto,2,8,97,1
+Empleado 1924,administracion,junior,37,2,bajo,30,7,45,0
+Empleado 1925,caja,trainee,53,1,medio,26,14,76,0
+Empleado 1926,reposicion,senior,95,2,bajo,24,0,80,2
+Empleado 1927,logistica,senior,31,1,medio,24,2,92,0
+Empleado 1928,atencion al cliente,senior,88,4,medio,22,8,90,2
+Empleado 1929,atencion al cliente,trainee,42,5,bajo,17,0,58,0
+Empleado 1930,deposito,trainee,49,2,medio,16,4,91,0
+Empleado 1931,atencion al cliente,junior,50,2,alto,14,9,44,0
+Empleado 1932,ventas,senior,38,1,medio,21,13,71,0
+Empleado 1933,deposito,junior,53,5,alto,5,16,53,0
+Empleado 1934,ventas,junior,69,1,alto,7,10,50,1
+Empleado 1935,caja,junior,40,4,alto,30,11,85,1
+Empleado 1936,ventas,senior,95,5,medio,28,14,91,2
+Empleado 1937,logistica,junior,85,3,alto,20,6,94,1
+Empleado 1938,logistica,junior,95,3,medio,16,19,76,2
+Empleado 1939,ventas,trainee,61,4,medio,16,10,77,0
+Empleado 1940,ventas,senior,54,3,medio,5,9,53,0
+Empleado 1941,deposito,junior,80,3,alto,13,2,98,0
+Empleado 1942,logistica,senior,42,2,medio,11,9,67,0
+Empleado 1943,ventas,junior,64,2,alto,24,16,78,0
+Empleado 1944,logistica,trainee,66,5,medio,13,18,100,2
+Empleado 1945,caja,junior,93,5,bajo,11,0,82,0
+Empleado 1946,ventas,senior,35,4,medio,12,4,46,0
+Empleado 1947,ventas,junior,84,3,alto,14,14,84,1
+Empleado 1948,caja,junior,91,5,alto,14,7,44,0
+Empleado 1949,deposito,senior,78,4,medio,27,13,46,0
+Empleado 1950,administracion,trainee,90,4,alto,10,8,51,0
+Empleado 1951,logistica,senior,95,1,alto,6,14,57,0
+Empleado 1952,caja,junior,40,1,medio,25,10,73,0
+Empleado 1953,atencion al cliente,senior,34,1,alto,22,17,46,0
+Empleado 1954,caja,senior,63,3,medio,4,0,82,1
+Empleado 1955,ventas,junior,99,2,medio,15,0,58,0
+Empleado 1956,caja,junior,71,2,medio,5,3,72,1
+Empleado 1957,reposicion,trainee,63,1,medio,18,19,49,0
+Empleado 1958,reposicion,trainee,91,5,medio,5,10,67,0
+Empleado 1959,caja,senior,78,3,medio,11,9,88,1
+Empleado 1960,logistica,trainee,92,5,medio,15,5,75,0
+Empleado 1961,logistica,junior,31,1,bajo,18,12,46,0
+Empleado 1962,atencion al cliente,trainee,30,3,alto,8,19,97,0
+Empleado 1963,atencion al cliente,junior,68,1,alto,26,10,82,1
+Empleado 1964,administracion,junior,84,1,medio,19,13,63,1
+Empleado 1965,deposito,trainee,64,3,bajo,25,8,72,0
+Empleado 1966,caja,junior,33,5,bajo,10,9,58,0
+Empleado 1967,logistica,trainee,49,1,medio,29,7,71,0
+Empleado 1968,logistica,trainee,81,1,medio,3,1,72,0
+Empleado 1969,atencion al cliente,trainee,81,5,medio,28,8,81,1
+Empleado 1970,caja,trainee,76,4,alto,10,1,73,0
+Empleado 1971,deposito,junior,77,2,alto,4,8,74,1
+Empleado 1972,logistica,senior,37,2,medio,17,6,94,0
+Empleado 1973,reposicion,trainee,76,3,medio,12,7,47,0
+Empleado 1974,deposito,junior,55,3,medio,9,16,76,0
+Empleado 1975,caja,senior,33,4,bajo,26,2,93,0
+Empleado 1976,reposicion,senior,30,5,medio,22,10,55,0
+Empleado 1977,logistica,trainee,77,3,bajo,23,13,49,0
+Empleado 1978,reposicion,trainee,67,3,medio,15,3,76,0
+Empleado 1979,ventas,junior,93,3,alto,23,16,50,2
+Empleado 1980,deposito,senior,53,3,medio,19,4,78,0
+Empleado 1981,reposicion,trainee,38,5,medio,7,10,85,0
+Empleado 1982,reposicion,senior,35,5,alto,8,16,95,0
+Empleado 1983,atencion al cliente,senior,77,5,bajo,30,20,73,2
+Empleado 1984,ventas,trainee,41,5,alto,21,0,41,0
+Empleado 1985,ventas,junior,60,4,medio,19,0,69,0
+Empleado 1986,reposicion,senior,78,1,medio,28,9,40,0
+Empleado 1987,deposito,junior,36,2,bajo,18,4,79,0
+Empleado 1988,administracion,trainee,49,2,bajo,16,8,90,0
+Empleado 1989,ventas,trainee,79,5,bajo,3,15,66,0
+Empleado 1990,deposito,trainee,41,4,alto,3,10,84,0
+Empleado 1991,logistica,junior,64,2,alto,22,9,74,1
+Empleado 1992,administracion,junior,91,3,medio,19,9,71,0
+Empleado 1993,reposicion,trainee,95,4,alto,15,12,62,0
+Empleado 1994,reposicion,junior,74,4,bajo,3,5,90,1
+Empleado 1995,administracion,junior,55,4,medio,15,5,44,0
+Empleado 1996,administracion,trainee,80,1,alto,6,17,82,1
+Empleado 1997,caja,senior,84,4,bajo,18,1,40,0
+Empleado 1998,reposicion,junior,97,1,medio,18,6,59,0
+Empleado 1999,reposicion,junior,31,5,alto,30,7,93,1
+Empleado 2000,caja,senior,68,3,medio,25,8,90,1
+Empleado 2001,deposito,junior,53,1,bajo,14,10,54,0
+Empleado 2002,logistica,junior,95,1,medio,14,7,76,0
+Empleado 2003,administracion,trainee,88,5,medio,28,8,87,0
+Empleado 2004,deposito,trainee,78,3,medio,20,17,94,0
+Empleado 2005,deposito,trainee,57,1,alto,14,18,99,0
+Empleado 2006,logistica,senior,97,4,alto,23,19,92,2
+Empleado 2007,logistica,junior,73,1,alto,25,5,59,1
+Empleado 2008,ventas,junior,69,2,medio,19,11,66,1
+Empleado 2009,reposicion,junior,57,1,medio,13,19,95,0
+Empleado 2010,caja,junior,56,1,medio,3,0,84,0
+Empleado 2011,ventas,senior,48,5,bajo,3,18,78,0
+Empleado 2012,deposito,trainee,95,2,alto,9,6,63,0
+Empleado 2013,atencion al cliente,junior,52,1,bajo,21,3,47,0
+Empleado 2014,ventas,trainee,70,5,medio,3,11,65,0
+Empleado 2015,caja,junior,87,5,medio,19,17,71,2
+Empleado 2016,ventas,senior,99,2,medio,24,12,50,2
+Empleado 2017,atencion al cliente,junior,71,4,medio,16,3,100,0
+Empleado 2018,reposicion,junior,35,1,medio,20,15,63,0
+Empleado 2019,administracion,junior,32,1,bajo,20,11,42,0
+Empleado 2020,caja,trainee,45,3,bajo,4,3,90,0
+Empleado 2021,reposicion,junior,40,1,bajo,26,16,92,0
+Empleado 2022,deposito,junior,43,2,medio,13,20,69,0
+Empleado 2023,atencion al cliente,trainee,57,1,medio,26,2,47,0
+Empleado 2024,administracion,senior,53,2,medio,9,18,52,0
+Empleado 2025,reposicion,junior,67,1,bajo,23,0,88,1
+Empleado 2026,caja,senior,51,5,bajo,7,9,76,0
+Empleado 2027,logistica,senior,87,3,medio,5,10,86,1
+Empleado 2028,caja,senior,34,4,alto,28,12,46,0
+Empleado 2029,administracion,senior,45,5,bajo,18,2,48,0
+Empleado 2030,administracion,junior,41,2,medio,21,18,65,0
+Empleado 2031,administracion,trainee,97,5,medio,3,12,92,1
+Empleado 2032,caja,senior,52,1,bajo,14,9,70,0
+Empleado 2033,deposito,senior,74,3,medio,16,7,78,0
+Empleado 2034,administracion,trainee,93,3,medio,23,17,61,0
+Empleado 2035,ventas,trainee,70,1,medio,19,0,49,0
+Empleado 2036,atencion al cliente,senior,78,3,alto,30,8,49,0
+Empleado 2037,caja,junior,85,4,medio,20,11,42,1
+Empleado 2038,atencion al cliente,junior,95,2,bajo,20,7,76,0
+Empleado 2039,logistica,junior,88,1,alto,10,12,70,0
+Empleado 2040,logistica,trainee,75,4,medio,13,12,81,1
+Empleado 2041,administracion,senior,57,1,alto,11,20,87,2
+Empleado 2042,logistica,senior,33,1,alto,3,4,98,0
+Empleado 2043,deposito,senior,30,3,medio,26,0,69,0
+Empleado 2044,logistica,junior,41,1,bajo,26,11,53,0
+Empleado 2045,reposicion,senior,98,3,medio,22,4,40,0
+Empleado 2046,caja,junior,96,4,bajo,14,19,95,2
+Empleado 2047,atencion al cliente,senior,42,2,bajo,24,16,97,2
+Empleado 2048,logistica,trainee,91,3,medio,20,3,99,0
+Empleado 2049,ventas,senior,84,3,medio,24,18,44,2
+Empleado 2050,atencion al cliente,junior,32,3,medio,29,14,62,0
+Empleado 2051,deposito,junior,59,2,alto,20,16,59,0
+Empleado 2052,logistica,junior,48,1,medio,11,17,67,0
+Empleado 2053,administracion,trainee,38,1,medio,28,11,100,0
+Empleado 2054,deposito,trainee,68,5,bajo,11,17,85,0
+Empleado 2055,deposito,senior,37,4,alto,2,20,73,0
+Empleado 2056,reposicion,senior,48,2,bajo,27,19,88,2
+Empleado 2057,ventas,senior,74,5,medio,28,7,54,0
+Empleado 2058,reposicion,trainee,51,1,alto,16,17,67,0
+Empleado 2059,administracion,junior,87,3,medio,21,20,86,2
+Empleado 2060,deposito,junior,90,3,alto,3,15,70,1
+Empleado 2061,deposito,junior,79,4,alto,26,13,93,1
+Empleado 2062,ventas,junior,81,2,medio,2,1,76,0
+Empleado 2063,deposito,trainee,54,4,medio,16,14,53,0
+Empleado 2064,ventas,junior,66,3,alto,7,13,48,1
+Empleado 2065,reposicion,trainee,42,1,medio,9,18,69,0
+Empleado 2066,atencion al cliente,junior,90,2,alto,21,20,60,2
+Empleado 2067,atencion al cliente,senior,83,4,medio,5,1,74,0
+Empleado 2068,logistica,trainee,30,4,medio,18,1,66,0
+Empleado 2069,deposito,junior,99,2,bajo,20,3,61,0
+Empleado 2070,deposito,senior,55,3,bajo,8,8,74,0
+Empleado 2071,deposito,junior,30,3,medio,23,2,45,0
+Empleado 2072,logistica,junior,70,1,alto,5,9,80,1
+Empleado 2073,ventas,junior,91,4,alto,7,8,77,1
+Empleado 2074,logistica,junior,97,4,medio,25,1,62,0
+Empleado 2075,atencion al cliente,senior,76,1,medio,9,10,50,0
+Empleado 2076,logistica,junior,94,2,medio,13,20,62,2
+Empleado 2077,reposicion,junior,70,1,alto,21,14,45,1
+Empleado 2078,caja,junior,39,4,bajo,12,6,90,1
+Empleado 2079,deposito,senior,78,4,medio,2,3,80,0
+Empleado 2080,logistica,senior,48,1,alto,18,7,87,0
+Empleado 2081,atencion al cliente,trainee,86,1,alto,9,13,82,0
+Empleado 2082,reposicion,junior,77,3,medio,6,14,93,1
+Empleado 2083,reposicion,junior,64,1,medio,29,11,85,1
+Empleado 2084,atencion al cliente,junior,83,4,medio,8,14,89,1
+Empleado 2085,atencion al cliente,junior,66,2,medio,30,2,53,0
+Empleado 2086,logistica,senior,99,1,bajo,2,1,93,0
+Empleado 2087,atencion al cliente,senior,90,5,alto,4,11,45,0
+Empleado 2088,caja,trainee,70,4,medio,4,11,40,0
+Empleado 2089,logistica,senior,59,4,alto,27,11,45,0
+Empleado 2090,deposito,trainee,48,1,alto,14,7,60,0
+Empleado 2091,atencion al cliente,trainee,85,3,alto,4,10,45,0
+Empleado 2092,logistica,senior,86,2,medio,13,15,79,2
+Empleado 2093,deposito,junior,52,2,alto,13,4,67,0
+Empleado 2094,caja,senior,68,5,alto,4,8,81,1
+Empleado 2095,ventas,senior,37,4,bajo,21,17,65,0
+Empleado 2096,atencion al cliente,junior,68,4,medio,20,9,80,1
+Empleado 2097,administracion,trainee,67,3,medio,5,9,43,0
+Empleado 2098,logistica,junior,40,5,bajo,14,11,42,0
+Empleado 2099,reposicion,junior,79,3,alto,26,14,66,1
+Empleado 2100,reposicion,junior,68,4,medio,12,2,95,1
+Empleado 2101,caja,junior,90,4,alto,10,16,64,2
+Empleado 2102,reposicion,junior,70,2,medio,20,1,91,1
+Empleado 2103,administracion,trainee,93,1,alto,4,1,71,0
+Empleado 2104,reposicion,junior,57,5,medio,13,13,83,1
+Empleado 2105,ventas,junior,56,4,alto,11,6,57,0
+Empleado 2106,reposicion,junior,62,4,medio,27,14,79,1
+Empleado 2107,deposito,junior,50,5,medio,19,12,71,0
+Empleado 2108,ventas,senior,40,5,alto,20,16,57,0
+Empleado 2109,caja,junior,52,1,medio,30,17,41,0
+Empleado 2110,ventas,junior,65,4,alto,30,19,71,0
+Empleado 2111,atencion al cliente,trainee,60,2,medio,29,5,50,0
+Empleado 2112,reposicion,senior,72,2,medio,19,2,40,0
+Empleado 2113,ventas,junior,94,2,medio,28,12,76,0
+Empleado 2114,reposicion,junior,43,2,medio,2,9,92,0
+Empleado 2115,logistica,junior,33,1,medio,13,7,79,0
+Empleado 2116,caja,junior,89,4,medio,11,4,91,0
+Empleado 2117,atencion al cliente,junior,85,3,alto,15,19,82,1
+Empleado 2118,reposicion,junior,84,4,alto,25,12,56,1
+Empleado 2119,deposito,senior,85,4,alto,28,15,87,1
+Empleado 2120,atencion al cliente,trainee,34,2,medio,29,12,95,0
+Empleado 2121,atencion al cliente,senior,72,4,medio,12,14,92,1
+Empleado 2122,atencion al cliente,senior,91,1,medio,28,9,67,2
+Empleado 2123,deposito,senior,33,5,medio,30,11,82,0
+Empleado 2124,administracion,trainee,79,2,alto,21,2,62,0
+Empleado 2125,caja,trainee,92,5,bajo,14,2,64,0
+Empleado 2126,caja,senior,45,5,alto,24,13,84,0
+Empleado 2127,deposito,junior,59,3,bajo,21,4,92,0
+Empleado 2128,ventas,junior,33,2,alto,25,14,83,1
+Empleado 2129,ventas,senior,55,2,medio,6,4,86,0
+Empleado 2130,administracion,junior,47,1,medio,9,6,42,0
+Empleado 2131,ventas,junior,55,1,alto,15,2,64,0
+Empleado 2132,deposito,senior,55,4,medio,2,10,96,0
+Empleado 2133,caja,trainee,89,4,medio,5,8,60,0
+Empleado 2134,reposicion,junior,79,1,medio,18,2,59,0
+Empleado 2135,caja,junior,87,3,alto,3,9,94,1
+Empleado 2136,caja,senior,63,5,alto,29,9,46,0
+Empleado 2137,caja,junior,34,1,medio,18,18,60,0
+Empleado 2138,atencion al cliente,junior,93,1,medio,8,4,88,1
+Empleado 2139,logistica,junior,32,4,alto,6,16,54,0
+Empleado 2140,atencion al cliente,trainee,40,5,alto,25,6,83,0
+Empleado 2141,deposito,trainee,79,3,bajo,20,0,75,0
+Empleado 2142,atencion al cliente,junior,69,4,medio,12,6,57,1
+Empleado 2143,administracion,junior,80,2,medio,12,15,93,1
+Empleado 2144,administracion,senior,38,5,alto,4,8,73,0
+Empleado 2145,atencion al cliente,junior,84,5,medio,7,10,51,1
+Empleado 2146,deposito,trainee,43,5,bajo,14,3,100,0
+Empleado 2147,administracion,senior,90,5,medio,21,7,51,2
+Empleado 2148,caja,junior,82,5,alto,18,18,63,0
+Empleado 2149,logistica,junior,93,1,bajo,17,5,61,0
+Empleado 2150,deposito,junior,74,3,bajo,16,12,64,1
+Empleado 2151,atencion al cliente,junior,42,1,bajo,8,17,53,0
+Empleado 2152,administracion,senior,80,2,alto,16,14,83,1
+Empleado 2153,caja,trainee,57,1,medio,27,2,96,0
+Empleado 2154,administracion,junior,73,3,medio,19,18,54,0
+Empleado 2155,administracion,senior,54,3,alto,14,16,40,0
+Empleado 2156,atencion al cliente,trainee,52,1,alto,24,19,48,0
+Empleado 2157,administracion,junior,43,5,bajo,24,4,43,0
+Empleado 2158,deposito,senior,44,1,alto,12,11,61,0
+Empleado 2159,atencion al cliente,senior,83,3,medio,22,12,60,0
+Empleado 2160,ventas,junior,57,1,bajo,16,10,52,0
+Empleado 2161,deposito,junior,71,4,bajo,26,5,65,1
+Empleado 2162,reposicion,senior,88,2,medio,17,16,66,2
+Empleado 2163,deposito,senior,30,5,medio,13,0,70,0
+Empleado 2164,atencion al cliente,senior,91,3,medio,29,12,87,2
+Empleado 2165,deposito,trainee,60,2,alto,24,20,48,0
+Empleado 2166,administracion,senior,87,3,medio,22,1,55,0
+Empleado 2167,caja,senior,63,4,medio,17,17,51,2
+Empleado 2168,deposito,senior,53,4,alto,18,18,75,0
+Empleado 2169,ventas,trainee,34,3,bajo,3,20,96,0
+Empleado 2170,administracion,trainee,35,3,medio,29,3,43,0
+Empleado 2171,reposicion,senior,51,3,bajo,24,3,82,0
+Empleado 2172,deposito,trainee,72,2,medio,27,18,95,0
+Empleado 2173,caja,junior,63,4,medio,29,12,52,1
+Empleado 2174,ventas,junior,32,5,medio,13,16,43,0
+Empleado 2175,reposicion,junior,53,1,bajo,19,2,95,0
+Empleado 2176,administracion,junior,31,2,medio,27,2,76,0
+Empleado 2177,reposicion,trainee,88,1,bajo,28,15,86,0
+Empleado 2178,administracion,junior,87,2,bajo,30,20,91,2
+Empleado 2179,deposito,junior,61,2,alto,25,8,68,1
+Empleado 2180,caja,trainee,80,2,alto,22,19,97,2
+Empleado 2181,caja,senior,33,5,alto,4,15,87,1
+Empleado 2182,caja,junior,52,4,medio,19,13,67,0
+Empleado 2183,atencion al cliente,senior,52,2,medio,4,10,88,1
+Empleado 2184,administracion,trainee,99,3,medio,4,8,52,0
+Empleado 2185,ventas,senior,38,1,medio,4,20,81,0
+Empleado 2186,logistica,junior,31,5,medio,4,14,91,1
+Empleado 2187,caja,junior,72,1,medio,24,16,40,0
+Empleado 2188,atencion al cliente,trainee,58,5,alto,23,16,97,0
+Empleado 2189,ventas,junior,50,4,medio,6,10,56,0
+Empleado 2190,administracion,junior,65,5,bajo,13,10,40,1
+Empleado 2191,reposicion,junior,83,1,alto,20,15,51,1
+Empleado 2192,caja,junior,71,3,medio,6,17,66,1
+Empleado 2193,ventas,senior,82,3,medio,5,5,62,1
+Empleado 2194,reposicion,trainee,86,4,alto,15,13,93,0
+Empleado 2195,atencion al cliente,junior,44,4,alto,9,12,88,1
+Empleado 2196,logistica,junior,43,3,medio,9,5,43,0
+Empleado 2197,deposito,senior,59,1,medio,8,6,74,0
+Empleado 2198,atencion al cliente,junior,32,4,medio,13,8,76,0
+Empleado 2199,atencion al cliente,trainee,37,4,alto,20,9,60,0
+Empleado 2200,caja,senior,78,5,medio,8,12,79,1
+Empleado 2201,administracion,senior,75,4,medio,12,9,83,1
+Empleado 2202,atencion al cliente,junior,51,4,bajo,14,17,83,0
+Empleado 2203,caja,trainee,64,4,medio,7,17,65,0
+Empleado 2204,administracion,junior,65,1,alto,10,17,71,0
+Empleado 2205,logistica,trainee,98,4,bajo,8,5,70,0
+Empleado 2206,reposicion,senior,94,1,alto,22,13,100,2
+Empleado 2207,logistica,trainee,85,4,medio,16,20,44,0
+Empleado 2208,reposicion,junior,82,3,medio,24,18,54,0
+Empleado 2209,reposicion,junior,65,1,medio,30,10,95,1
+Empleado 2210,atencion al cliente,trainee,49,2,bajo,15,5,41,0
+Empleado 2211,logistica,senior,88,2,medio,14,14,61,2
+Empleado 2212,ventas,junior,33,5,alto,28,11,89,1
+Empleado 2213,reposicion,senior,34,1,medio,23,5,43,0
+Empleado 2214,reposicion,senior,48,4,medio,27,12,59,0
+Empleado 2215,logistica,senior,47,4,alto,27,13,80,0
+Empleado 2216,caja,junior,76,1,alto,23,18,96,2
+Empleado 2217,caja,junior,30,1,bajo,25,9,51,0
+Empleado 2218,administracion,trainee,78,4,medio,25,5,58,0
+Empleado 2219,logistica,senior,77,3,bajo,12,18,43,2
+Empleado 2220,atencion al cliente,senior,65,5,medio,18,18,48,2
+Empleado 2221,atencion al cliente,trainee,81,1,alto,16,7,91,1
+Empleado 2222,reposicion,senior,66,1,alto,15,0,58,0
+Empleado 2223,administracion,senior,82,1,medio,8,12,82,1
+Empleado 2224,atencion al cliente,senior,52,2,bajo,12,9,99,2
+Empleado 2225,logistica,junior,74,1,medio,15,5,53,1
+Empleado 2226,atencion al cliente,senior,66,4,medio,25,16,89,2
+Empleado 2227,administracion,trainee,93,5,alto,25,14,61,0
+Empleado 2228,logistica,junior,80,1,alto,16,12,89,1
+Empleado 2229,ventas,junior,31,4,medio,7,1,72,0
+Empleado 2230,atencion al cliente,trainee,93,5,bajo,26,4,77,0
+Empleado 2231,atencion al cliente,trainee,47,1,alto,19,6,77,0
+Empleado 2232,ventas,junior,65,2,medio,14,8,60,1
+Empleado 2233,caja,trainee,94,2,alto,17,20,97,2
+Empleado 2234,atencion al cliente,trainee,50,1,medio,2,20,97,0
+Empleado 2235,atencion al cliente,junior,34,3,bajo,2,3,70,0
+Empleado 2236,administracion,trainee,35,2,bajo,25,1,66,0
+Empleado 2237,logistica,trainee,38,4,medio,12,20,79,0
+Empleado 2238,ventas,senior,63,5,medio,28,18,50,2
+Empleado 2239,logistica,junior,54,3,bajo,17,5,61,0
+Empleado 2240,logistica,junior,95,3,medio,9,4,87,0
+Empleado 2241,reposicion,junior,88,1,bajo,26,15,93,1
+Empleado 2242,logistica,senior,67,4,medio,14,11,69,0
+Empleado 2243,logistica,senior,72,3,medio,16,20,87,2
+Empleado 2244,logistica,trainee,61,1,medio,18,12,75,0
+Empleado 2245,deposito,trainee,52,2,bajo,4,11,59,0
+Empleado 2246,caja,senior,68,3,bajo,15,18,53,2
+Empleado 2247,reposicion,junior,58,4,medio,26,19,89,0
+Empleado 2248,logistica,senior,77,1,medio,6,12,53,1
+Empleado 2249,caja,trainee,34,5,medio,13,12,42,0
+Empleado 2250,caja,senior,32,1,alto,9,8,40,0
+Empleado 2251,atencion al cliente,trainee,43,5,medio,18,16,99,0
+Empleado 2252,administracion,senior,59,3,alto,2,5,61,0
+Empleado 2253,logistica,junior,65,5,medio,9,20,65,0
+Empleado 2254,ventas,junior,51,3,medio,14,16,95,0
+Empleado 2255,atencion al cliente,trainee,80,1,alto,29,11,42,0
+Empleado 2256,ventas,trainee,46,2,alto,8,12,64,0
+Empleado 2257,deposito,senior,37,2,medio,30,9,51,0
+Empleado 2258,administracion,senior,89,1,medio,30,12,42,2
+Empleado 2259,ventas,junior,33,1,alto,5,5,96,1
+Empleado 2260,reposicion,junior,56,2,alto,16,2,47,0
+Empleado 2261,logistica,junior,60,3,medio,25,2,83,1
+Empleado 2262,logistica,senior,49,5,medio,13,6,60,0
+Empleado 2263,deposito,senior,59,2,bajo,7,3,53,0
+Empleado 2264,reposicion,trainee,31,3,alto,24,15,70,0
+Empleado 2265,caja,junior,46,2,medio,5,4,58,0
+Empleado 2266,ventas,senior,47,3,medio,18,16,42,0
+Empleado 2267,caja,junior,41,3,medio,19,17,51,0
+Empleado 2268,caja,junior,46,2,alto,3,0,61,0
+Empleado 2269,ventas,senior,52,4,alto,5,9,98,0
+Empleado 2270,caja,trainee,86,3,bajo,6,17,65,0
+Empleado 2271,deposito,junior,41,1,medio,22,11,57,0
+Empleado 2272,administracion,senior,78,5,alto,27,5,45,0
+Empleado 2273,logistica,senior,39,2,alto,23,13,73,0
+Empleado 2274,caja,junior,85,1,bajo,15,13,46,1
+Empleado 2275,ventas,senior,32,3,medio,25,3,73,0
+Empleado 2276,reposicion,senior,83,5,alto,9,11,78,0
+Empleado 2277,deposito,trainee,44,4,medio,19,7,41,0
+Empleado 2278,caja,trainee,40,3,bajo,25,20,83,0
+Empleado 2279,administracion,trainee,58,2,bajo,3,4,45,0
+Empleado 2280,administracion,junior,36,3,medio,17,12,88,1
+Empleado 2281,logistica,senior,72,3,alto,4,20,65,0
+Empleado 2282,ventas,junior,88,3,bajo,5,13,57,1
+Empleado 2283,deposito,trainee,44,3,medio,2,4,94,0
+Empleado 2284,logistica,junior,63,3,medio,27,2,87,1
+Empleado 2285,logistica,junior,75,1,medio,30,2,79,0
+Empleado 2286,administracion,senior,34,3,medio,10,18,81,2
+Empleado 2287,reposicion,trainee,38,3,alto,25,20,84,0
+Empleado 2288,deposito,trainee,92,4,medio,27,15,64,0
+Empleado 2289,atencion al cliente,junior,74,4,medio,12,10,83,1
+Empleado 2290,logistica,senior,46,4,bajo,12,3,54,0
+Empleado 2291,ventas,trainee,51,1,medio,23,1,74,0
+Empleado 2292,atencion al cliente,senior,51,5,medio,21,16,66,0
+Empleado 2293,ventas,trainee,36,2,bajo,10,5,62,0
+Empleado 2294,administracion,junior,90,1,alto,18,3,59,0
+Empleado 2295,atencion al cliente,junior,49,4,medio,14,3,48,0
+Empleado 2296,reposicion,trainee,48,5,medio,17,13,85,0
+Empleado 2297,caja,trainee,66,4,bajo,16,3,49,0
+Empleado 2298,ventas,trainee,48,1,medio,25,4,55,0
+Empleado 2299,atencion al cliente,senior,50,2,medio,29,12,82,0
+Empleado 2300,administracion,senior,72,2,alto,6,3,45,0
+Empleado 2301,logistica,junior,68,3,bajo,27,0,62,0
+Empleado 2302,atencion al cliente,trainee,44,5,bajo,28,0,46,0
+Empleado 2303,logistica,junior,80,5,alto,21,2,66,0
+Empleado 2304,ventas,senior,78,5,medio,14,16,47,2
+Empleado 2305,reposicion,junior,97,4,medio,17,15,65,0
+Empleado 2306,deposito,junior,60,3,medio,9,1,82,1
+Empleado 2307,ventas,trainee,37,2,medio,6,13,91,0
+Empleado 2308,reposicion,junior,82,5,alto,5,7,53,1
+Empleado 2309,deposito,junior,87,4,medio,17,7,95,1
+Empleado 2310,logistica,junior,34,4,alto,8,9,74,0
+Empleado 2311,logistica,junior,33,5,medio,13,8,44,0
+Empleado 2312,deposito,trainee,85,3,medio,26,14,60,0
+Empleado 2313,reposicion,junior,73,4,medio,16,17,69,0
+Empleado 2314,reposicion,senior,77,2,alto,2,8,42,0
+Empleado 2315,atencion al cliente,junior,91,3,medio,16,6,68,0
+Empleado 2316,logistica,senior,73,5,alto,5,5,65,1
+Empleado 2317,logistica,senior,53,5,medio,8,19,91,0
+Empleado 2318,ventas,trainee,91,3,bajo,19,20,69,0
+Empleado 2319,ventas,junior,66,5,bajo,5,15,83,1
+Empleado 2320,reposicion,trainee,35,4,medio,17,10,100,0
+Empleado 2321,administracion,senior,95,4,alto,20,16,54,2
+Empleado 2322,logistica,trainee,53,1,medio,2,12,61,0
+Empleado 2323,caja,trainee,53,1,alto,20,12,67,0
+Empleado 2324,deposito,trainee,39,4,medio,19,15,43,0
+Empleado 2325,administracion,trainee,78,4,bajo,3,11,60,0
+Empleado 2326,administracion,senior,98,1,bajo,17,17,63,2
+Empleado 2327,reposicion,trainee,56,3,medio,24,7,41,0
+Empleado 2328,reposicion,trainee,39,1,bajo,23,5,59,0
+Empleado 2329,atencion al cliente,senior,79,3,bajo,10,10,89,1
+Empleado 2330,deposito,junior,47,1,bajo,17,6,67,0
+Empleado 2331,ventas,junior,43,4,bajo,18,14,46,0
+Empleado 2332,atencion al cliente,senior,52,2,medio,4,20,82,0
+Empleado 2333,deposito,junior,36,5,medio,6,4,93,0
+Empleado 2334,deposito,junior,63,4,medio,8,20,52,1
+Empleado 2335,deposito,junior,86,3,medio,7,18,61,0
+Empleado 2336,administracion,trainee,72,1,medio,10,17,83,0
+Empleado 2337,administracion,senior,57,4,bajo,10,9,52,0
+Empleado 2338,reposicion,trainee,68,3,alto,11,14,96,0
+Empleado 2339,administracion,senior,87,4,alto,14,13,56,2
+Empleado 2340,deposito,senior,59,5,bajo,14,13,53,0
+Empleado 2341,ventas,junior,47,1,alto,3,13,85,1
+Empleado 2342,reposicion,trainee,65,2,alto,20,0,66,0
+Empleado 2343,logistica,trainee,78,2,alto,19,0,65,0
+Empleado 2344,logistica,junior,34,3,medio,16,17,72,0
+Empleado 2345,reposicion,junior,74,1,alto,19,1,74,0
+Empleado 2346,administracion,junior,92,5,medio,11,6,51,0
+Empleado 2347,reposicion,junior,59,5,alto,16,9,79,0
+Empleado 2348,atencion al cliente,senior,66,3,bajo,19,16,71,2
+Empleado 2349,caja,junior,94,2,medio,26,16,49,2
+Empleado 2350,caja,trainee,58,5,bajo,15,15,44,0
+Empleado 2351,caja,junior,35,1,alto,13,19,69,0
+Empleado 2352,atencion al cliente,junior,46,5,bajo,21,0,73,0
+Empleado 2353,reposicion,senior,61,2,alto,12,9,52,0
+Empleado 2354,atencion al cliente,senior,85,5,bajo,3,5,67,1
+Empleado 2355,reposicion,trainee,32,3,bajo,25,4,44,0
+Empleado 2356,ventas,junior,73,2,alto,20,19,69,0
+Empleado 2357,caja,senior,73,1,medio,6,10,45,1
+Empleado 2358,atencion al cliente,trainee,65,4,medio,23,13,88,1
+Empleado 2359,deposito,senior,39,4,bajo,4,3,52,0
+Empleado 2360,reposicion,junior,92,5,alto,9,8,73,0
+Empleado 2361,administracion,trainee,38,1,medio,4,6,50,0
+Empleado 2362,reposicion,junior,77,1,alto,15,16,66,0
+Empleado 2363,atencion al cliente,trainee,50,5,medio,27,20,80,0
+Empleado 2364,reposicion,senior,63,4,medio,7,5,52,1
+Empleado 2365,deposito,junior,87,1,medio,24,8,87,1
+Empleado 2366,logistica,senior,93,2,medio,24,9,73,2
+Empleado 2367,logistica,trainee,33,3,bajo,7,14,75,0
+Empleado 2368,logistica,senior,30,1,medio,27,8,99,2
+Empleado 2369,deposito,junior,43,4,bajo,14,10,77,0
+Empleado 2370,reposicion,trainee,87,1,alto,5,17,57,0
+Empleado 2371,logistica,junior,95,1,alto,8,3,96,0
+Empleado 2372,deposito,senior,41,5,medio,13,17,45,0
+Empleado 2373,caja,junior,38,3,alto,23,2,75,0
+Empleado 2374,logistica,senior,35,2,medio,30,19,86,2
+Empleado 2375,logistica,junior,97,2,medio,16,18,42,2
+Empleado 2376,administracion,junior,59,4,medio,17,0,40,0
+Empleado 2377,administracion,senior,48,1,alto,7,9,94,1
+Empleado 2378,administracion,junior,76,2,alto,21,15,53,1
+Empleado 2379,ventas,junior,39,1,medio,15,19,68,0
+Empleado 2380,ventas,senior,57,3,medio,17,14,91,0
+Empleado 2381,administracion,trainee,84,5,alto,19,4,49,0
+Empleado 2382,ventas,senior,57,3,alto,27,17,62,0
+Empleado 2383,logistica,trainee,52,4,alto,4,15,92,0
+Empleado 2384,caja,senior,85,5,alto,8,7,82,1
+Empleado 2385,administracion,senior,66,2,medio,12,4,84,0
+Empleado 2386,ventas,senior,69,5,medio,20,0,60,0
+Empleado 2387,ventas,senior,62,4,bajo,11,3,49,0
+Empleado 2388,administracion,junior,73,5,medio,18,16,49,0
+Empleado 2389,reposicion,trainee,39,2,alto,28,2,54,0
+Empleado 2390,logistica,trainee,78,3,medio,28,15,48,0
+Empleado 2391,caja,trainee,77,3,alto,10,10,87,1
+Empleado 2392,logistica,trainee,73,1,bajo,15,14,49,0
+Empleado 2393,atencion al cliente,trainee,55,5,medio,10,17,60,0
+Empleado 2394,deposito,junior,77,2,medio,7,13,81,1
+Empleado 2395,deposito,junior,90,2,alto,30,20,69,2
+Empleado 2396,deposito,junior,57,2,alto,19,16,63,0
+Empleado 2397,logistica,trainee,93,1,bajo,30,8,78,0
+Empleado 2398,atencion al cliente,junior,74,4,alto,15,12,72,1
+Empleado 2399,administracion,senior,77,4,medio,17,12,100,2
+Empleado 2400,deposito,senior,43,5,medio,9,14,58,0
+Empleado 2401,reposicion,junior,37,5,alto,3,9,66,0
+Empleado 2402,logistica,junior,68,2,bajo,23,20,56,0
+Empleado 2403,ventas,trainee,52,4,medio,19,6,61,0
+Empleado 2404,logistica,trainee,57,1,medio,6,1,91,0
+Empleado 2405,reposicion,trainee,52,3,bajo,28,12,53,0
+Empleado 2406,deposito,junior,50,2,alto,22,6,88,1
+Empleado 2407,reposicion,senior,43,1,bajo,3,18,77,0
+Empleado 2408,caja,senior,31,2,medio,29,3,86,0
+Empleado 2409,logistica,trainee,49,4,alto,2,11,66,0
+Empleado 2410,reposicion,senior,51,5,medio,15,5,59,0
+Empleado 2411,logistica,junior,80,4,medio,9,2,51,0
+Empleado 2412,administracion,junior,94,1,bajo,13,18,81,2
+Empleado 2413,reposicion,trainee,52,1,bajo,13,15,97,0
+Empleado 2414,logistica,junior,98,1,bajo,13,3,82,0
+Empleado 2415,ventas,junior,47,2,medio,15,20,78,0
+Empleado 2416,ventas,junior,81,4,bajo,21,13,60,1
+Empleado 2417,reposicion,senior,44,2,medio,29,20,85,2
+Empleado 2418,atencion al cliente,senior,73,4,medio,16,4,61,0
+Empleado 2419,deposito,trainee,78,5,medio,7,16,40,0
+Empleado 2420,ventas,trainee,57,3,medio,30,1,88,0
+Empleado 2421,logistica,senior,98,1,medio,4,0,46,0
+Empleado 2422,administracion,junior,67,2,medio,19,1,64,0
+Empleado 2423,logistica,junior,40,3,medio,4,11,44,0
+Empleado 2424,deposito,junior,74,2,medio,7,1,71,0
+Empleado 2425,atencion al cliente,junior,81,2,alto,5,19,76,1
+Empleado 2426,atencion al cliente,trainee,83,3,alto,20,8,55,0
+Empleado 2427,logistica,junior,51,3,medio,15,9,68,0
+Empleado 2428,ventas,junior,61,1,alto,6,11,50,1
+Empleado 2429,reposicion,senior,83,1,medio,12,7,68,0
+Empleado 2430,atencion al cliente,junior,90,5,medio,17,5,61,0
+Empleado 2431,logistica,trainee,76,5,medio,9,16,77,0
+Empleado 2432,administracion,junior,82,2,medio,16,13,71,1
+Empleado 2433,reposicion,senior,46,3,bajo,21,6,96,2
+Empleado 2434,caja,trainee,98,3,alto,30,16,87,2
+Empleado 2435,logistica,senior,84,5,medio,28,15,69,0
+Empleado 2436,caja,trainee,52,1,alto,14,6,87,0
+Empleado 2437,administracion,junior,83,1,bajo,7,18,61,1
+Empleado 2438,logistica,senior,47,1,bajo,21,14,42,0
+Empleado 2439,logistica,senior,81,4,medio,3,3,87,1
+Empleado 2440,reposicion,junior,77,2,alto,5,1,74,0
+Empleado 2441,administracion,junior,73,5,bajo,29,7,81,1
+Empleado 2442,atencion al cliente,senior,92,2,medio,6,17,48,2
+Empleado 2443,reposicion,junior,36,5,medio,20,19,55,0
+Empleado 2444,reposicion,junior,54,5,bajo,29,13,75,0
+Empleado 2445,atencion al cliente,trainee,59,3,medio,5,15,75,0
+Empleado 2446,deposito,senior,74,2,medio,7,2,66,0
+Empleado 2447,reposicion,junior,95,2,alto,10,19,85,2
+Empleado 2448,administracion,senior,57,4,alto,14,15,53,0
+Empleado 2449,ventas,senior,76,3,medio,15,14,66,0
+Empleado 2450,logistica,senior,83,5,medio,26,4,53,0
+Empleado 2451,atencion al cliente,junior,31,1,medio,22,12,96,0
+Empleado 2452,ventas,junior,66,3,medio,6,14,85,1
+Empleado 2453,atencion al cliente,junior,47,3,medio,13,9,86,1
+Empleado 2454,reposicion,junior,80,1,medio,3,1,65,0
+Empleado 2455,reposicion,junior,78,5,medio,11,18,91,1
+Empleado 2456,atencion al cliente,senior,62,3,bajo,25,18,57,2
+Empleado 2457,caja,trainee,77,4,medio,26,14,56,0
+Empleado 2458,administracion,senior,37,5,medio,17,6,72,0
+Empleado 2459,administracion,trainee,46,1,medio,8,1,50,0
+Empleado 2460,deposito,junior,94,1,alto,17,2,60,0
+Empleado 2461,deposito,trainee,92,4,bajo,20,14,81,0
+Empleado 2462,ventas,trainee,40,5,alto,21,16,90,0
+Empleado 2463,administracion,trainee,96,1,alto,9,15,84,0
+Empleado 2464,administracion,senior,74,1,alto,26,20,57,2
+Empleado 2465,logistica,senior,43,5,medio,6,3,59,0
+Empleado 2466,administracion,senior,82,1,medio,23,0,65,0
+Empleado 2467,logistica,junior,81,4,medio,6,19,52,1
+Empleado 2468,reposicion,junior,72,2,medio,24,16,57,0
+Empleado 2469,caja,senior,88,2,alto,10,6,84,2
+Empleado 2470,ventas,senior,55,2,alto,13,9,49,0
+Empleado 2471,reposicion,senior,50,3,medio,11,20,80,2
+Empleado 2472,ventas,trainee,48,5,alto,30,3,56,0
+Empleado 2473,ventas,junior,83,3,medio,29,16,64,0
+Empleado 2474,reposicion,senior,96,5,medio,22,7,95,2
+Empleado 2475,logistica,trainee,43,4,medio,28,12,91,0
+Empleado 2476,caja,junior,50,2,medio,14,1,77,0
+Empleado 2477,deposito,junior,96,2,alto,3,20,47,0
+Empleado 2478,reposicion,senior,83,4,alto,3,4,47,0
+Empleado 2479,atencion al cliente,junior,80,3,bajo,8,1,100,1
+Empleado 2480,ventas,senior,32,5,alto,18,5,93,0
+Empleado 2481,reposicion,junior,37,2,medio,27,17,97,2
+Empleado 2482,caja,trainee,59,4,medio,2,11,43,0
+Empleado 2483,caja,junior,47,2,alto,27,8,47,0
+Empleado 2484,ventas,senior,38,3,medio,17,7,81,0
+Empleado 2485,deposito,trainee,44,5,medio,21,9,83,0
+Empleado 2486,reposicion,senior,52,1,medio,3,4,73,0
+Empleado 2487,reposicion,senior,35,5,medio,29,13,71,0
+Empleado 2488,logistica,trainee,34,3,bajo,14,11,44,0
+Empleado 2489,atencion al cliente,junior,47,4,medio,2,20,46,0
+Empleado 2490,ventas,senior,30,5,alto,5,10,87,1
+Empleado 2491,deposito,trainee,44,1,alto,11,19,80,0
+Empleado 2492,logistica,senior,89,3,medio,21,9,84,2
+Empleado 2493,deposito,senior,80,1,alto,22,2,75,0
+Empleado 2494,caja,senior,35,2,bajo,14,1,60,0
+Empleado 2495,administracion,junior,84,4,medio,24,7,48,1
+Empleado 2496,reposicion,trainee,99,3,bajo,16,5,41,0
+Empleado 2497,administracion,trainee,54,5,alto,27,11,72,0
+Empleado 2498,deposito,senior,55,5,bajo,4,12,61,0
+Empleado 2499,logistica,junior,84,3,alto,15,4,85,1
+Empleado 2500,reposicion,junior,57,5,alto,13,0,72,0
+Empleado 2501,administracion,junior,51,1,alto,29,3,73,0
+Empleado 2502,atencion al cliente,trainee,43,2,bajo,23,12,85,0
+Empleado 2503,administracion,junior,97,3,alto,30,5,66,0
+Empleado 2504,ventas,junior,80,5,alto,15,16,72,0
+Empleado 2505,deposito,trainee,72,5,alto,6,8,82,1
+Empleado 2506,caja,senior,52,1,alto,15,9,45,0
+Empleado 2507,logistica,senior,79,3,medio,18,17,54,2
+Empleado 2508,deposito,junior,43,1,medio,24,13,66,0
+Empleado 2509,administracion,senior,78,3,medio,25,3,95,0
+Empleado 2510,reposicion,trainee,63,5,medio,16,4,47,0
+Empleado 2511,logistica,junior,40,3,alto,25,16,90,0
+Empleado 2512,ventas,junior,51,5,medio,11,6,62,0
+Empleado 2513,deposito,senior,95,1,medio,9,14,67,2
+Empleado 2514,atencion al cliente,senior,33,5,bajo,10,6,53,0
+Empleado 2515,caja,senior,43,2,alto,6,20,50,0
+Empleado 2516,logistica,trainee,88,2,medio,5,14,40,0
+Empleado 2517,administracion,junior,74,3,alto,13,9,94,1
+Empleado 2518,deposito,senior,98,3,medio,12,11,51,2
+Empleado 2519,reposicion,trainee,34,1,alto,7,12,68,0
+Empleado 2520,atencion al cliente,junior,93,3,medio,15,20,66,2
+Empleado 2521,deposito,trainee,60,4,alto,26,11,44,0
+Empleado 2522,administracion,junior,51,4,medio,24,12,63,0
+Empleado 2523,reposicion,junior,47,5,medio,16,12,62,0
+Empleado 2524,ventas,trainee,49,3,bajo,15,8,56,0
+Empleado 2525,administracion,trainee,66,1,medio,25,13,84,1
+Empleado 2526,logistica,trainee,51,1,alto,20,18,71,0
+Empleado 2527,deposito,senior,43,3,alto,6,13,62,0
+Empleado 2528,reposicion,junior,61,2,bajo,21,8,91,1
+Empleado 2529,atencion al cliente,trainee,37,5,medio,19,15,99,0
+Empleado 2530,atencion al cliente,trainee,36,2,medio,12,1,68,0
+Empleado 2531,logistica,trainee,95,5,medio,26,8,75,0
+Empleado 2532,logistica,senior,97,5,alto,12,8,91,2
+Empleado 2533,logistica,senior,54,5,alto,23,1,50,0
+Empleado 2534,logistica,trainee,57,4,medio,8,0,83,0
+Empleado 2535,logistica,senior,78,1,medio,7,10,53,1
+Empleado 2536,ventas,junior,42,5,bajo,16,6,59,0
+Empleado 2537,caja,junior,52,2,alto,13,3,74,0
+Empleado 2538,atencion al cliente,trainee,51,2,alto,27,6,90,0
+Empleado 2539,caja,junior,33,2,alto,9,9,94,1
+Empleado 2540,reposicion,senior,53,1,alto,3,10,41,0
+Empleado 2541,deposito,senior,30,4,medio,28,0,55,0
+Empleado 2542,deposito,junior,46,4,bajo,7,7,89,1
+Empleado 2543,logistica,trainee,47,2,medio,24,4,82,0
+Empleado 2544,administracion,trainee,57,3,alto,6,5,100,0
+Empleado 2545,reposicion,senior,30,5,medio,26,17,81,2
+Empleado 2546,administracion,trainee,58,3,medio,20,17,92,0
+Empleado 2547,administracion,trainee,57,2,medio,24,15,95,0
+Empleado 2548,caja,junior,84,5,alto,28,16,85,1
+Empleado 2549,logistica,junior,81,1,medio,12,18,88,1
+Empleado 2550,reposicion,trainee,61,5,medio,9,12,77,0
+Empleado 2551,administracion,trainee,70,3,bajo,5,20,66,0
+Empleado 2552,ventas,senior,32,1,alto,21,13,89,0
+Empleado 2553,reposicion,trainee,71,2,bajo,20,15,47,0
+Empleado 2554,deposito,junior,79,3,medio,21,8,62,1
+Empleado 2555,caja,senior,85,1,alto,19,18,59,2
+Empleado 2556,administracion,senior,87,4,alto,10,13,50,2
+Empleado 2557,atencion al cliente,trainee,83,2,alto,30,7,93,1
+Empleado 2558,ventas,junior,85,2,alto,3,15,71,1
+Empleado 2559,ventas,trainee,71,3,medio,5,17,78,0
+Empleado 2560,deposito,junior,41,5,medio,22,1,98,0
+Empleado 2561,deposito,junior,34,3,medio,20,7,68,0
+Empleado 2562,administracion,junior,78,3,medio,6,14,76,1
+Empleado 2563,ventas,senior,48,2,alto,2,18,55,0
+Empleado 2564,atencion al cliente,trainee,33,5,alto,18,4,54,0
+Empleado 2565,logistica,senior,55,4,medio,27,19,41,0
+Empleado 2566,ventas,senior,60,5,alto,26,13,80,1
+Empleado 2567,atencion al cliente,senior,43,2,bajo,30,8,45,0
+Empleado 2568,logistica,junior,45,2,medio,8,15,99,1
+Empleado 2569,reposicion,senior,72,1,bajo,29,18,99,2
+Empleado 2570,ventas,trainee,56,4,alto,7,12,47,0
+Empleado 2571,logistica,junior,62,1,medio,27,9,82,1
+Empleado 2572,deposito,senior,84,3,medio,27,19,52,2
+Empleado 2573,reposicion,junior,82,5,medio,7,18,49,1
+Empleado 2574,ventas,trainee,68,1,bajo,23,15,93,1
+Empleado 2575,deposito,trainee,52,1,medio,17,3,100,0
+Empleado 2576,deposito,senior,87,5,bajo,7,16,96,2
+Empleado 2577,caja,trainee,60,3,medio,10,1,73,0
+Empleado 2578,caja,senior,54,2,medio,15,13,66,0
+Empleado 2579,caja,senior,83,4,medio,5,2,72,0
+Empleado 2580,ventas,senior,44,4,medio,28,11,60,0
+Empleado 2581,administracion,junior,86,1,medio,22,15,55,0
+Empleado 2582,ventas,senior,56,1,medio,10,20,88,2
+Empleado 2583,administracion,trainee,58,3,bajo,7,1,98,0
+Empleado 2584,ventas,junior,66,1,medio,11,5,41,1
+Empleado 2585,ventas,senior,33,5,medio,18,2,96,0
+Empleado 2586,deposito,senior,51,3,medio,15,19,70,0
+Empleado 2587,caja,trainee,96,5,alto,13,2,72,0
+Empleado 2588,reposicion,trainee,69,4,bajo,12,7,69,0
+Empleado 2589,deposito,trainee,92,1,bajo,22,0,72,0
+Empleado 2590,administracion,junior,42,4,medio,25,2,51,0
+Empleado 2591,ventas,junior,36,3,medio,11,14,57,0
+Empleado 2592,atencion al cliente,trainee,69,4,medio,21,14,89,1
+Empleado 2593,administracion,junior,72,3,medio,3,17,76,1
+Empleado 2594,ventas,senior,31,4,medio,15,2,73,0
+Empleado 2595,ventas,senior,99,5,medio,21,7,89,2
+Empleado 2596,atencion al cliente,junior,34,2,bajo,23,15,56,0
+Empleado 2597,caja,junior,62,2,bajo,23,4,56,0
+Empleado 2598,atencion al cliente,junior,32,1,alto,27,19,83,0
+Empleado 2599,atencion al cliente,trainee,66,5,medio,9,15,96,0
+Empleado 2600,atencion al cliente,junior,72,1,bajo,13,2,53,0
+Empleado 2601,caja,trainee,33,5,medio,8,3,66,0
+Empleado 2602,administracion,junior,96,1,bajo,25,7,61,0
+Empleado 2603,atencion al cliente,senior,44,5,medio,22,15,41,0
+Empleado 2604,logistica,junior,84,2,alto,19,19,90,1
+Empleado 2605,caja,junior,31,5,medio,24,15,86,1
+Empleado 2606,caja,trainee,35,4,medio,6,18,61,0
+Empleado 2607,logistica,senior,67,5,medio,9,8,80,1
+Empleado 2608,administracion,junior,86,5,medio,4,8,91,1
+Empleado 2609,administracion,senior,90,4,medio,27,9,80,2
+Empleado 2610,logistica,trainee,73,3,bajo,28,6,91,1
+Empleado 2611,reposicion,senior,93,4,alto,14,16,87,2
+Empleado 2612,reposicion,junior,53,3,bajo,2,1,61,0
+Empleado 2613,atencion al cliente,junior,76,4,medio,4,1,94,1
+Empleado 2614,reposicion,junior,48,2,medio,20,17,91,0
+Empleado 2615,logistica,senior,57,2,medio,14,11,90,0
+Empleado 2616,atencion al cliente,junior,67,3,alto,12,7,93,1
+Empleado 2617,administracion,junior,62,1,alto,27,20,96,2
+Empleado 2618,ventas,trainee,47,1,medio,8,4,66,0
+Empleado 2619,ventas,trainee,53,1,medio,12,14,41,0
+Empleado 2620,atencion al cliente,trainee,89,5,alto,26,3,63,0
+Empleado 2621,deposito,senior,50,2,medio,10,20,99,2
+Empleado 2622,ventas,senior,30,4,medio,11,12,53,0
+Empleado 2623,ventas,junior,54,5,alto,9,10,63,0
+Empleado 2624,deposito,trainee,78,4,medio,4,19,42,0
+Empleado 2625,caja,senior,74,2,alto,20,16,62,2
+Empleado 2626,logistica,junior,94,5,bajo,9,17,83,2
+Empleado 2627,atencion al cliente,junior,82,4,medio,17,19,85,1
+Empleado 2628,administracion,senior,85,2,alto,17,1,60,0
+Empleado 2629,administracion,junior,89,4,bajo,13,6,80,1
+Empleado 2630,logistica,senior,96,3,alto,24,17,73,2
+Empleado 2631,reposicion,junior,46,1,alto,7,15,87,1
+Empleado 2632,deposito,senior,66,3,medio,6,12,68,1
+Empleado 2633,reposicion,senior,91,1,medio,22,2,100,2
+Empleado 2634,ventas,junior,30,1,medio,20,5,68,0
+Empleado 2635,caja,senior,93,2,medio,8,4,93,0
+Empleado 2636,reposicion,trainee,65,2,medio,7,3,72,0
+Empleado 2637,logistica,trainee,60,1,alto,3,1,62,0
+Empleado 2638,reposicion,junior,33,4,bajo,15,13,76,0
+Empleado 2639,atencion al cliente,junior,90,2,medio,21,11,55,0
+Empleado 2640,reposicion,trainee,57,5,medio,16,13,61,0
+Empleado 2641,reposicion,junior,31,2,alto,15,1,48,0
+Empleado 2642,ventas,junior,85,3,bajo,9,0,43,0
+Empleado 2643,reposicion,trainee,50,5,bajo,21,19,79,0
+Empleado 2644,ventas,junior,93,5,bajo,17,1,54,0
+Empleado 2645,deposito,senior,72,4,medio,3,0,43,0
+Empleado 2646,logistica,trainee,94,1,bajo,14,15,53,0
+Empleado 2647,logistica,trainee,55,3,alto,25,20,62,0
+Empleado 2648,administracion,junior,46,2,medio,13,19,72,0
+Empleado 2649,atencion al cliente,junior,84,3,alto,22,3,58,0
+Empleado 2650,atencion al cliente,senior,50,5,medio,21,10,69,0
+Empleado 2651,reposicion,senior,35,2,bajo,17,10,69,0
+Empleado 2652,caja,trainee,41,3,medio,11,4,62,0
+Empleado 2653,deposito,senior,54,1,alto,15,6,99,2
+Empleado 2654,ventas,junior,91,4,bajo,20,1,64,0
+Empleado 2655,ventas,trainee,30,4,alto,7,1,55,0
+Empleado 2656,deposito,trainee,41,1,alto,23,12,40,0
+Empleado 2657,logistica,senior,55,5,alto,20,16,79,0
+Empleado 2658,reposicion,trainee,78,1,alto,2,14,89,0
+Empleado 2659,caja,junior,75,5,bajo,29,17,86,1
+Empleado 2660,ventas,junior,46,5,medio,21,11,73,0
+Empleado 2661,deposito,junior,85,3,medio,26,9,90,1
+Empleado 2662,deposito,junior,63,3,medio,24,19,71,0
+Empleado 2663,administracion,trainee,45,3,medio,23,17,71,0
+Empleado 2664,logistica,trainee,96,2,bajo,8,10,77,0
+Empleado 2665,ventas,senior,42,2,alto,27,2,66,0
+Empleado 2666,logistica,trainee,80,4,medio,13,9,85,1
+Empleado 2667,atencion al cliente,junior,74,4,medio,2,14,74,0
+Empleado 2668,logistica,senior,82,2,medio,23,7,40,0
+Empleado 2669,logistica,junior,73,2,medio,17,7,50,1
+Empleado 2670,caja,junior,34,2,medio,4,8,55,0
+Empleado 2671,ventas,trainee,85,4,medio,15,11,81,1
+Empleado 2672,administracion,junior,31,1,medio,20,15,90,1
+Empleado 2673,administracion,trainee,89,2,bajo,3,14,74,0
+Empleado 2674,caja,junior,75,4,medio,25,11,84,1
+Empleado 2675,deposito,trainee,48,3,medio,6,16,99,0
+Empleado 2676,administracion,junior,40,1,bajo,22,19,95,0
+Empleado 2677,reposicion,senior,50,2,medio,29,11,65,0
+Empleado 2678,caja,junior,79,5,alto,19,5,78,1
+Empleado 2679,administracion,senior,34,1,alto,3,8,63,0
+Empleado 2680,deposito,trainee,50,3,medio,15,5,94,0
+Empleado 2681,ventas,trainee,94,4,medio,23,7,45,0
+Empleado 2682,deposito,junior,51,1,bajo,20,10,80,1
+Empleado 2683,ventas,trainee,87,5,alto,5,15,42,0
+Empleado 2684,logistica,junior,66,4,alto,15,4,42,0
+Empleado 2685,ventas,trainee,95,1,bajo,3,2,67,0
+Empleado 2686,caja,trainee,95,1,medio,22,17,63,0
+Empleado 2687,logistica,senior,80,2,medio,4,4,40,0
+Empleado 2688,reposicion,trainee,94,1,bajo,23,8,94,0
+Empleado 2689,deposito,trainee,58,3,medio,13,0,70,0
+Empleado 2690,reposicion,trainee,82,2,medio,18,3,41,0
+Empleado 2691,deposito,trainee,36,3,medio,2,3,52,0
+Empleado 2692,ventas,trainee,73,5,medio,12,5,46,0
+Empleado 2693,caja,senior,31,2,medio,18,6,42,0
+Empleado 2694,caja,trainee,70,5,medio,4,15,74,0
+Empleado 2695,administracion,trainee,88,1,medio,25,12,95,0
+Empleado 2696,administracion,senior,81,2,medio,13,20,48,2
+Empleado 2697,deposito,trainee,69,2,alto,19,5,70,0
+Empleado 2698,caja,senior,42,1,medio,23,4,79,0
+Empleado 2699,logistica,trainee,41,1,alto,18,8,59,0
+Empleado 2700,ventas,junior,83,5,medio,18,15,79,1
+Empleado 2701,deposito,senior,74,2,alto,29,19,94,2
+Empleado 2702,administracion,senior,64,2,medio,8,14,86,1
+Empleado 2703,atencion al cliente,junior,80,3,medio,13,1,68,0
+Empleado 2704,reposicion,senior,63,5,medio,25,0,89,0
+Empleado 2705,caja,trainee,40,4,alto,8,3,82,0
+Empleado 2706,logistica,junior,70,4,alto,13,1,52,0
+Empleado 2707,deposito,trainee,33,4,bajo,26,12,97,0
+Empleado 2708,deposito,trainee,31,1,bajo,3,7,96,0
+Empleado 2709,logistica,senior,95,5,medio,19,10,65,2
+Empleado 2710,administracion,trainee,62,1,alto,3,1,60,0
+Empleado 2711,logistica,senior,49,2,bajo,11,17,45,0
+Empleado 2712,atencion al cliente,junior,37,4,bajo,26,15,67,0
+Empleado 2713,logistica,trainee,54,4,bajo,2,11,95,0
+Empleado 2714,caja,trainee,35,2,medio,24,7,92,0
+Empleado 2715,caja,trainee,96,1,medio,29,10,45,0
+Empleado 2716,administracion,junior,87,3,bajo,15,17,65,2
+Empleado 2717,ventas,senior,62,3,medio,2,17,45,0
+Empleado 2718,reposicion,junior,62,5,medio,8,8,44,1
+Empleado 2719,deposito,junior,74,4,alto,15,2,44,0
+Empleado 2720,caja,trainee,35,4,alto,22,5,40,0
+Empleado 2721,reposicion,trainee,76,1,alto,9,15,42,0
+Empleado 2722,logistica,junior,50,2,medio,16,18,85,0
+Empleado 2723,logistica,senior,85,3,medio,18,18,58,2
+Empleado 2724,deposito,senior,90,1,bajo,6,15,60,0
+Empleado 2725,deposito,trainee,31,5,medio,30,11,100,0
+Empleado 2726,reposicion,trainee,55,4,medio,18,0,63,0
+Empleado 2727,atencion al cliente,trainee,70,2,medio,21,17,73,0
+Empleado 2728,ventas,senior,75,1,bajo,28,14,63,0
+Empleado 2729,deposito,trainee,90,1,bajo,13,4,84,0
+Empleado 2730,administracion,trainee,86,5,medio,28,5,72,0
+Empleado 2731,ventas,trainee,57,2,medio,26,11,79,0
+Empleado 2732,ventas,trainee,73,5,bajo,13,0,96,0
+Empleado 2733,caja,senior,91,5,alto,11,7,93,2
+Empleado 2734,caja,trainee,71,5,medio,8,7,81,1
+Empleado 2735,caja,junior,90,4,bajo,5,18,91,1
+Empleado 2736,ventas,trainee,94,3,medio,24,15,80,0
+Empleado 2737,administracion,trainee,51,4,bajo,25,4,66,0
+Empleado 2738,reposicion,trainee,42,4,alto,28,18,62,0
+Empleado 2739,deposito,junior,72,5,alto,3,6,93,1
+Empleado 2740,caja,senior,34,2,bajo,23,14,89,0
+Empleado 2741,reposicion,trainee,57,4,bajo,30,7,65,0
+Empleado 2742,administracion,senior,72,2,bajo,20,15,58,0
+Empleado 2743,ventas,senior,41,5,medio,3,3,76,0
+Empleado 2744,ventas,senior,46,3,medio,15,10,60,0
+Empleado 2745,deposito,trainee,89,4,medio,24,15,87,0
+Empleado 2746,administracion,junior,45,5,medio,25,1,56,0
+Empleado 2747,administracion,trainee,92,2,medio,4,2,97,0
+Empleado 2748,caja,junior,72,1,bajo,28,6,55,1
+Empleado 2749,administracion,trainee,55,4,medio,16,11,65,0
+Empleado 2750,deposito,senior,99,2,alto,10,14,60,2
+Empleado 2751,deposito,junior,71,2,medio,17,16,44,0
+Empleado 2752,ventas,junior,71,2,medio,20,2,56,0
+Empleado 2753,atencion al cliente,junior,43,1,medio,13,16,99,2
+Empleado 2754,administracion,trainee,68,4,medio,24,2,78,0
+Empleado 2755,atencion al cliente,senior,55,4,bajo,9,7,80,0
+Empleado 2756,deposito,junior,83,2,bajo,26,3,66,0
+Empleado 2757,deposito,trainee,34,1,medio,23,13,51,0
+Empleado 2758,logistica,junior,50,5,medio,8,20,40,0
+Empleado 2759,administracion,senior,89,2,medio,14,7,59,2
+Empleado 2760,caja,junior,32,4,alto,14,5,74,0
+Empleado 2761,administracion,trainee,47,5,medio,6,4,67,0
+Empleado 2762,ventas,trainee,69,4,alto,21,5,44,0
+Empleado 2763,reposicion,junior,79,5,medio,29,14,90,1
+Empleado 2764,administracion,trainee,82,5,medio,19,16,53,0
+Empleado 2765,atencion al cliente,senior,67,4,alto,6,2,46,0
+Empleado 2766,deposito,junior,76,2,alto,4,5,40,1
+Empleado 2767,caja,junior,82,2,alto,30,15,97,1
+Empleado 2768,caja,junior,65,2,alto,24,13,48,1
+Empleado 2769,logistica,senior,64,2,medio,24,12,51,0
+Empleado 2770,caja,senior,63,5,medio,17,2,66,0
+Empleado 2771,administracion,trainee,58,2,medio,13,13,50,0
+Empleado 2772,reposicion,trainee,78,1,bajo,22,10,81,1
+Empleado 2773,atencion al cliente,trainee,33,3,medio,26,5,48,0
+Empleado 2774,atencion al cliente,trainee,90,4,medio,25,1,92,0
+Empleado 2775,ventas,trainee,42,1,medio,9,15,75,0
+Empleado 2776,deposito,junior,60,2,medio,30,12,93,1
+Empleado 2777,administracion,junior,31,2,bajo,5,13,85,1
+Empleado 2778,deposito,trainee,41,2,alto,6,0,88,0
+Empleado 2779,ventas,senior,34,2,medio,9,6,42,0
+Empleado 2780,reposicion,junior,33,5,medio,24,5,71,0
+Empleado 2781,atencion al cliente,junior,64,3,alto,18,20,67,0
+Empleado 2782,atencion al cliente,junior,34,5,alto,15,2,86,0
+Empleado 2783,administracion,senior,44,5,medio,29,18,81,2
+Empleado 2784,administracion,junior,71,3,medio,4,12,93,1
+Empleado 2785,deposito,junior,32,5,medio,29,18,97,2
+Empleado 2786,reposicion,junior,30,4,medio,18,17,89,0
+Empleado 2787,deposito,senior,44,4,medio,9,11,57,0
+Empleado 2788,administracion,trainee,84,1,medio,19,13,95,1
+Empleado 2789,ventas,junior,50,5,medio,24,16,80,0
+Empleado 2790,deposito,junior,76,1,medio,28,16,81,1
+Empleado 2791,deposito,junior,34,3,alto,25,0,56,0
+Empleado 2792,ventas,junior,62,5,bajo,12,11,92,1
+Empleado 2793,logistica,junior,39,3,alto,19,3,98,0
+Empleado 2794,ventas,junior,30,4,medio,5,16,46,0
+Empleado 2795,reposicion,senior,48,2,alto,4,20,40,0
+Empleado 2796,administracion,trainee,74,4,medio,9,3,64,0
+Empleado 2797,caja,junior,57,2,medio,27,8,63,0
+Empleado 2798,deposito,junior,73,2,medio,24,17,87,1
+Empleado 2799,reposicion,trainee,49,3,medio,26,8,68,0
+Empleado 2800,caja,trainee,93,3,bajo,21,10,97,2
+Empleado 2801,reposicion,senior,35,2,medio,17,13,77,0
+Empleado 2802,reposicion,senior,52,4,bajo,13,20,44,0
+Empleado 2803,administracion,trainee,71,5,medio,3,16,47,0
+Empleado 2804,administracion,trainee,83,4,bajo,26,15,42,0
+Empleado 2805,logistica,trainee,76,1,medio,4,13,90,1
+Empleado 2806,caja,junior,58,2,medio,18,10,100,0
+Empleado 2807,atencion al cliente,junior,36,4,bajo,4,15,44,0
+Empleado 2808,administracion,senior,49,5,bajo,13,0,54,0
+Empleado 2809,logistica,trainee,65,2,bajo,21,3,42,0
+Empleado 2810,logistica,senior,70,2,medio,24,2,53,0
+Empleado 2811,reposicion,senior,93,3,medio,17,2,60,0
+Empleado 2812,deposito,senior,81,5,alto,16,11,91,1
+Empleado 2813,administracion,senior,99,3,alto,28,12,75,2
+Empleado 2814,deposito,junior,62,3,medio,27,14,52,1
+Empleado 2815,administracion,senior,77,4,alto,23,8,72,0
+Empleado 2816,atencion al cliente,senior,45,4,medio,22,6,96,2
+Empleado 2817,deposito,senior,36,2,medio,27,4,90,0
+Empleado 2818,deposito,senior,40,5,bajo,13,11,55,0
+Empleado 2819,administracion,trainee,78,2,bajo,6,12,91,1
+Empleado 2820,ventas,trainee,75,5,bajo,26,13,99,0
+Empleado 2821,deposito,senior,79,3,medio,14,16,82,2
+Empleado 2822,reposicion,senior,82,4,medio,28,0,92,0
+Empleado 2823,ventas,junior,76,5,medio,3,3,83,1
+Empleado 2824,deposito,junior,93,2,medio,20,2,59,0
+Empleado 2825,caja,junior,85,2,medio,11,10,65,1
+Empleado 2826,atencion al cliente,trainee,76,3,alto,16,6,99,0
+Empleado 2827,atencion al cliente,trainee,53,4,alto,2,1,59,0
+Empleado 2828,logistica,trainee,77,4,medio,24,10,66,0
+Empleado 2829,logistica,trainee,82,4,bajo,25,4,41,0
+Empleado 2830,caja,junior,88,5,medio,27,11,51,0
+Empleado 2831,deposito,junior,66,5,alto,13,13,72,1
+Empleado 2832,logistica,junior,58,5,alto,26,13,51,0
+Empleado 2833,reposicion,senior,81,5,bajo,15,4,49,0
+Empleado 2834,deposito,junior,94,4,bajo,24,14,84,1
+Empleado 2835,deposito,junior,50,3,alto,16,7,53,0
+Empleado 2836,administracion,junior,34,5,medio,30,7,87,1
+Empleado 2837,administracion,junior,60,3,medio,3,17,56,1
+Empleado 2838,deposito,junior,44,4,medio,7,11,99,1
+Empleado 2839,administracion,trainee,56,4,alto,6,6,57,0
+Empleado 2840,ventas,junior,34,5,bajo,23,16,71,0
+Empleado 2841,atencion al cliente,junior,37,2,medio,24,7,70,0
+Empleado 2842,atencion al cliente,junior,87,1,bajo,8,3,55,0
+Empleado 2843,logistica,junior,36,2,medio,20,20,49,0
+Empleado 2844,atencion al cliente,junior,40,4,alto,17,15,90,1
+Empleado 2845,caja,junior,57,1,alto,30,10,44,0
+Empleado 2846,reposicion,trainee,34,4,alto,12,0,57,0
+Empleado 2847,reposicion,junior,97,2,bajo,27,18,52,2
+Empleado 2848,logistica,senior,52,2,medio,29,2,61,0
+Empleado 2849,caja,trainee,73,2,medio,28,15,42,0
+Empleado 2850,logistica,junior,80,5,alto,14,20,66,0
+Empleado 2851,logistica,trainee,60,4,bajo,25,12,51,0
+Empleado 2852,atencion al cliente,junior,36,1,alto,20,14,99,0
+Empleado 2853,caja,senior,31,2,medio,3,8,44,0
+Empleado 2854,caja,junior,64,3,alto,17,12,74,1
+Empleado 2855,logistica,senior,56,5,bajo,14,4,93,0
+Empleado 2856,administracion,trainee,60,1,medio,19,16,87,0
+Empleado 2857,logistica,trainee,66,4,medio,14,9,57,0
+Empleado 2858,reposicion,trainee,99,2,bajo,4,9,55,0
+Empleado 2859,deposito,trainee,83,1,alto,2,8,51,0
+Empleado 2860,logistica,senior,82,3,alto,18,11,62,0
+Empleado 2861,administracion,junior,74,4,alto,7,10,58,1
+Empleado 2862,logistica,senior,95,3,medio,19,6,48,2
+Empleado 2863,reposicion,trainee,94,3,alto,18,4,58,0
+Empleado 2864,deposito,junior,64,1,medio,22,15,53,1
+Empleado 2865,reposicion,trainee,76,2,alto,7,14,48,0
+Empleado 2866,logistica,senior,85,2,alto,23,12,49,0
+Empleado 2867,atencion al cliente,junior,55,4,medio,5,13,71,0
+Empleado 2868,deposito,trainee,90,5,medio,25,13,61,0
+Empleado 2869,ventas,junior,37,1,medio,17,17,82,0
+Empleado 2870,reposicion,trainee,75,1,medio,30,7,55,0
+Empleado 2871,ventas,junior,73,1,bajo,10,7,98,1
+Empleado 2872,deposito,senior,90,1,bajo,4,15,92,1
+Empleado 2873,ventas,junior,97,2,alto,20,15,43,0
+Empleado 2874,caja,senior,86,5,medio,26,5,69,2
+Empleado 2875,logistica,junior,97,4,alto,30,1,84,0
+Empleado 2876,administracion,trainee,79,4,medio,26,3,94,0
+Empleado 2877,administracion,senior,84,2,medio,16,6,85,1
+Empleado 2878,atencion al cliente,senior,59,5,medio,21,18,100,2
+Empleado 2879,deposito,junior,49,2,alto,26,12,73,0
+Empleado 2880,ventas,senior,79,4,alto,10,1,52,0
+Empleado 2881,atencion al cliente,senior,65,3,medio,23,9,58,0
+Empleado 2882,administracion,junior,34,1,alto,22,18,55,0
+Empleado 2883,atencion al cliente,junior,41,4,medio,22,12,75,0
+Empleado 2884,reposicion,senior,81,1,medio,26,1,98,2
+Empleado 2885,logistica,senior,90,4,medio,27,13,69,2
+Empleado 2886,reposicion,senior,43,2,bajo,21,0,96,0
+Empleado 2887,administracion,trainee,33,3,medio,19,8,50,0
+Empleado 2888,logistica,junior,58,2,alto,30,6,71,0
+Empleado 2889,caja,trainee,78,2,alto,17,13,64,0
+Empleado 2890,reposicion,junior,38,2,bajo,30,7,55,0
+Empleado 2891,reposicion,junior,98,5,alto,16,6,41,0
+Empleado 2892,ventas,senior,45,2,alto,24,12,97,2
+Empleado 2893,ventas,senior,36,3,medio,28,18,80,2
+Empleado 2894,logistica,trainee,81,4,alto,13,13,92,1
+Empleado 2895,caja,trainee,32,4,medio,2,9,84,0
+Empleado 2896,reposicion,senior,81,2,alto,11,12,90,1
+Empleado 2897,deposito,trainee,67,3,medio,6,6,46,0
+Empleado 2898,caja,junior,64,3,medio,11,14,48,1
+Empleado 2899,deposito,trainee,65,5,bajo,24,18,45,0
+Empleado 2900,reposicion,junior,74,1,medio,12,13,49,1
+Empleado 2901,deposito,trainee,67,4,bajo,11,1,62,0
+Empleado 2902,caja,trainee,98,1,medio,17,11,99,2
+Empleado 2903,deposito,junior,97,2,alto,3,14,83,1
+Empleado 2904,deposito,trainee,96,1,alto,30,10,42,0
+Empleado 2905,atencion al cliente,trainee,90,1,medio,10,11,80,0
+Empleado 2906,atencion al cliente,senior,99,1,medio,22,10,90,2
+Empleado 2907,caja,senior,46,5,medio,3,6,63,0
+Empleado 2908,atencion al cliente,junior,90,1,medio,26,4,45,0
+Empleado 2909,deposito,junior,80,2,alto,9,16,40,0
+Empleado 2910,atencion al cliente,senior,36,4,medio,3,2,79,0
+Empleado 2911,caja,trainee,50,1,bajo,29,20,58,0
+Empleado 2912,logistica,junior,59,5,alto,19,4,67,0
+Empleado 2913,logistica,trainee,37,4,bajo,26,0,44,0
+Empleado 2914,caja,junior,38,1,bajo,26,10,88,1
+Empleado 2915,atencion al cliente,senior,47,4,medio,16,1,76,0
+Empleado 2916,administracion,trainee,89,3,medio,29,15,56,0
+Empleado 2917,caja,junior,91,4,alto,22,13,86,1
+Empleado 2918,logistica,trainee,47,3,bajo,13,7,57,0
+Empleado 2919,ventas,senior,50,4,alto,13,7,79,0
+Empleado 2920,ventas,trainee,84,4,medio,24,20,71,0
+Empleado 2921,reposicion,trainee,46,1,medio,18,11,41,0
+Empleado 2922,administracion,senior,69,1,medio,9,9,92,1
+Empleado 2923,atencion al cliente,junior,31,4,bajo,24,10,92,1
+Empleado 2924,deposito,senior,80,1,alto,24,18,99,2
+Empleado 2925,deposito,junior,51,3,medio,12,20,91,0
+Empleado 2926,caja,trainee,82,3,alto,7,14,43,0
+Empleado 2927,deposito,senior,48,1,medio,11,18,45,0
+Empleado 2928,ventas,senior,70,5,alto,7,11,92,1
+Empleado 2929,administracion,trainee,77,1,medio,26,11,55,0
+Empleado 2930,administracion,junior,47,2,medio,28,2,51,0
+Empleado 2931,atencion al cliente,trainee,43,5,medio,21,19,41,0
+Empleado 2932,atencion al cliente,junior,66,2,medio,17,8,96,1
+Empleado 2933,ventas,trainee,45,1,bajo,9,8,72,0
+Empleado 2934,logistica,senior,61,5,bajo,2,17,78,0
+Empleado 2935,reposicion,junior,53,3,alto,3,6,64,0
+Empleado 2936,logistica,junior,76,1,medio,4,0,82,1
+Empleado 2937,reposicion,senior,56,5,alto,4,9,83,1
+Empleado 2938,ventas,senior,93,2,alto,19,1,68,0
+Empleado 2939,reposicion,junior,98,1,alto,29,4,76,0
+Empleado 2940,caja,senior,86,2,medio,9,14,53,2
+Empleado 2941,caja,junior,78,1,alto,23,5,85,1
+Empleado 2942,caja,senior,44,2,alto,2,6,87,0
+Empleado 2943,caja,senior,72,5,bajo,2,14,61,0
+Empleado 2944,reposicion,senior,92,2,medio,10,14,97,2
+Empleado 2945,logistica,trainee,43,4,medio,27,15,48,0
+Empleado 2946,administracion,senior,86,3,alto,18,6,90,2
+Empleado 2947,reposicion,senior,56,3,medio,8,16,60,0
+Empleado 2948,reposicion,senior,50,4,bajo,3,6,73,0
+Empleado 2949,atencion al cliente,trainee,71,3,alto,5,8,74,0
+Empleado 2950,deposito,junior,76,1,medio,12,3,64,0
+Empleado 2951,logistica,trainee,82,3,alto,14,13,84,1
+Empleado 2952,logistica,junior,64,3,medio,22,17,88,1
+Empleado 2953,deposito,junior,63,1,alto,5,17,98,1
+Empleado 2954,reposicion,junior,93,2,medio,6,4,49,0
+Empleado 2955,atencion al cliente,trainee,36,3,medio,15,7,91,0
+Empleado 2956,administracion,senior,63,2,medio,30,14,69,0
+Empleado 2957,caja,senior,36,1,medio,11,19,100,2
+Empleado 2958,administracion,senior,94,2,medio,27,20,75,2
+Empleado 2959,caja,junior,41,4,medio,11,20,66,0
+Empleado 2960,administracion,trainee,76,2,alto,5,8,91,1
+Empleado 2961,administracion,senior,59,3,alto,14,19,66,0
+Empleado 2962,caja,trainee,30,5,alto,22,1,77,0
+Empleado 2963,administracion,trainee,55,2,medio,15,5,81,0
+Empleado 2964,reposicion,junior,36,5,bajo,16,7,80,1
+Empleado 2965,caja,senior,67,5,bajo,4,12,89,1
+Empleado 2966,atencion al cliente,senior,89,3,bajo,19,12,41,2
+Empleado 2967,reposicion,junior,88,5,medio,24,11,60,0
+Empleado 2968,logistica,senior,88,4,bajo,14,12,72,2
+Empleado 2969,administracion,trainee,67,1,medio,12,10,74,0
+Empleado 2970,atencion al cliente,senior,73,1,bajo,27,13,85,1
+Empleado 2971,ventas,senior,65,4,medio,24,15,68,0
+Empleado 2972,deposito,trainee,41,4,medio,25,0,53,0
+Empleado 2973,administracion,junior,44,5,medio,14,16,42,0
+Empleado 2974,caja,senior,60,2,medio,21,9,49,0
+Empleado 2975,administracion,senior,99,4,bajo,4,19,45,2
+Empleado 2976,caja,junior,96,5,medio,13,14,100,2
+Empleado 2977,caja,trainee,43,5,medio,19,9,69,0
+Empleado 2978,reposicion,trainee,58,5,medio,17,8,84,0
+Empleado 2979,administracion,junior,86,5,alto,13,19,54,2
+Empleado 2980,caja,senior,88,5,alto,16,5,93,2
+Empleado 2981,administracion,junior,85,1,medio,24,1,41,0
+Empleado 2982,caja,trainee,94,2,alto,20,11,50,0
+Empleado 2983,atencion al cliente,trainee,90,2,alto,4,12,64,0
+Empleado 2984,reposicion,junior,94,1,medio,11,15,62,0
+Empleado 2985,atencion al cliente,junior,54,3,bajo,20,1,41,0
+Empleado 2986,reposicion,trainee,93,5,alto,20,4,86,0
+Empleado 2987,ventas,trainee,71,3,alto,13,14,83,1
+Empleado 2988,logistica,trainee,64,4,alto,12,9,57,0
+Empleado 2989,ventas,senior,36,2,medio,2,20,74,0
+Empleado 2990,reposicion,junior,57,5,medio,4,7,85,1
+Empleado 2991,administracion,trainee,69,5,alto,29,7,59,0
+Empleado 2992,deposito,senior,74,2,medio,30,2,89,1
+Empleado 2993,ventas,junior,42,4,medio,10,3,87,0
+Empleado 2994,atencion al cliente,trainee,65,3,medio,3,18,72,0
+Empleado 2995,reposicion,senior,34,1,medio,25,12,55,0
+Empleado 2996,atencion al cliente,junior,41,3,medio,22,10,60,0
+Empleado 2997,administracion,junior,98,2,bajo,8,2,57,0
+Empleado 2998,atencion al cliente,trainee,90,4,medio,25,20,51,0
+Empleado 2999,reposicion,junior,30,2,alto,13,20,70,0
+Empleado 3000,deposito,junior,63,1,medio,17,17,57,0

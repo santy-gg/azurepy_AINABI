@@ -1,0 +1,51 @@
+nombre,area,jerarquia,puntaje,cantidad_proyectos,desempenio,personas_equipo,horas_extra,asistencia_puntualidad
+Empleado 1,reposicion,junior,29,2,bajo,4,1,44
+Empleado 2,ventas,senior,84,6,alto,12,10,90
+Empleado 3,atencion al cliente,trainee,50,3,medio,5,6,58
+Empleado 4,reposicion,junior,73,4,medio,3,7,64
+Empleado 5,ventas,trainee,61,5,alto,9,14,77
+Empleado 6,atencion al cliente,trainee,35,1,bajo,2,2,49
+Empleado 7,atencion al cliente,junior,67,3,medio,6,10,70
+Empleado 8,reposicion,senior,40,2,bajo,3,3,52
+Empleado 9,ventas,trainee,82,6,alto,8,16,86
+Empleado 10,administracion,junior,58,3,medio,5,7,69
+Empleado 11,reposicion,trainee,33,4,bajo,2,5,47
+Empleado 12,administracion,junior,88,4,alto,6,12,92
+Empleado 13,caja,trainee,42,3,medio,3,9,60
+Empleado 14,atencion al cliente,trainee,39,2,bajo,4,1,45
+Empleado 15,logistica,senior,70,3,alto,7,3,80
+Empleado 16,administracion,trainee,77,2,alto,5,4,85
+Empleado 17,deposito,trainee,48,1,medio,3,6,55
+Empleado 18,atencion al cliente,trainee,53,2,medio,4,5,66
+Empleado 19,ventas,senior,45,3,bajo,6,8,61
+Empleado 20,logistica,trainee,66,4,medio,7,9,71
+Empleado 21,deposito,trainee,90,5,alto,10,11,93
+Empleado 22,deposito,senior,60,2,medio,5,10,74
+Empleado 23,ventas,senior,30,1,bajo,4,3,43
+Empleado 24,logistica,senior,80,3,alto,6,7,88
+Empleado 25,atencion al cliente,trainee,49,2,medio,3,2,50
+Empleado 26,caja,senior,34,1,bajo,2,1,40
+Empleado 27,caja,senior,77,3,alto,5,9,83
+Empleado 28,ventas,trainee,59,2,medio,4,4,68
+Empleado 29,deposito,senior,85,4,alto,9,12,89
+Empleado 30,atencion al cliente,trainee,36,2,bajo,3,3,46
+Empleado 31,logistica,junior,64,3,medio,5,8,69
+Empleado 32,caja,senior,71,2,alto,6,10,75
+Empleado 33,caja,junior,54,1,medio,2,2,62
+Empleado 34,administracion,trainee,43,2,bajo,3,3,51
+Empleado 35,administracion,senior,81,4,alto,7,6,84
+Empleado 36,reposicion,trainee,37,1,bajo,4,5,48
+Empleado 37,ventas,junior,75,5,alto,8,13,91
+Empleado 38,logistica,trainee,55,3,medio,4,5,63
+Empleado 39,logistica,senior,60,2,medio,5,4,70
+Empleado 40,reposicion,senior,28,1,bajo,2,2,40
+Empleado 41,deposito,junior,89,4,alto,9,10,95
+Empleado 42,deposito,trainee,46,3,medio,5,3,57
+Empleado 43,reposicion,senior,68,4,medio,6,6,74
+Empleado 44,deposito,junior,50,2,medio,3,2,61
+Empleado 45,administracion,senior,76,3,alto,6,8,80
+Empleado 46,logistica,senior,83,4,alto,7,11,87
+Empleado 47,reposicion,senior,47,2,medio,4,4,59
+Empleado 48,logistica,senior,32,1,bajo,2,1,41
+Empleado 49,caja,trainee,62,2,medio,5,5,67
+Empleado 50,administracion,senior,95,5,alto,9,15,99

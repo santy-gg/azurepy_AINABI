@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>API Test</title>
+ <style>
+ body { font-family: sans-serif; }
+ .form-container { display: flex; justify-content: space-around; }
+ form { width: 45%; border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; }
+ label { display: block; margin-bottom: 5px; }
+ input, select { width: 100%; padding: 8px; margin-bottom: 10px; box-sizing: border-box; }
+ button { background-color: #4CAF50; color: white; padding: 10px 15px; border: none; cursor: pointer; }
+ #result-rotation, #result-performance { border: 1px solid #ddd; padding: 10px; margin-top: 10px; }
+ </style>
+</head>
+<body>
+ <h1>Test API Endpoints</h1>
+
+
+ <div class="form-container">
+ <form id="rotation-form">
+ <h2>Test /api/predict/rotation</h2>
+ <label for="Nombre">Nombre:</label>
+ <input type="text" id="Nombre" name="Nombre" value="Cecilia Torales" required>
+
+
+ <label for="Ausencias_Injustificadas">Ausencias Injustificadas:</label>
+ <input type="number" id="Ausencias_Injustificadas" name="Ausencias Injustificadas" value="5" required>
+
+
+ <label for="Llegadas_tarde">Llegadas tarde:</label>
+ <input type="number" id="Llegadas_tarde" name="Llegadas tarde" value="7" required>
+
+
+ <label for="Salidas_tempranas">Salidas tempranas:</label>
+ <input type="number" id="Salidas_tempranas" name="Salidas tempranas" value="4" required>
+
+
+ <label for="Ciclo">Ciclo:</label>
+ <input type="number" id="Ciclo" name="Ciclo" value="202404" required>
+
+
+ <button type="submit">Predecir Rotación</button>
+ <div id="result-rotation"></div>
+ </form>
+
+
+ <form id="performance-form">
+ <h2>Test /api/predict/performance</h2>
+ <label for="nombre">Nombre:</label>
+ <input type="text" id="nombre" name="nombre" value="Empleado Prueba" required>
+
+
+ <label for="horas_extra">Horas Extra:</label>
+ <input type="number" id="horas_extra" name="horas_extra" value="10" required>
+
+
+ <label for="desempenio">Desempeño (bajo/medio/alto):</label>
+ <select id="desempenio" name="desempenio" required>
+ <option value="bajo">bajo</option>
+ <option value="medio">medio</option>
+ <option value="alto">alto</option>
+ </select>
+
+
+ <label for="jerarquia">Jerarquía (trainee/junior/senior):</label>
+ <select id="jerarquia" name="jerarquia" required>
+ <option value="trainee">trainee</option>
+ <option value="junior">junior</option>
+ <option value="senior">senior</option>
+ </select>
+
+
+ <label for="area">Área:</label>
+ <input type="text" id="area" name="area" value="ventas" required>
+
+
+ <button type="submit">Predecir Desempeño</button>
+ <div id="result-performance"></div>
+ </form>
+ </div>
+
+
+ <script>
+ // --- ROTATION FORM ---
+ const rotationForm = document.getElementById('rotation-form');
+ const rotationResultDiv = document.getElementById('result-rotation');
+
+
+ rotationForm.addEventListener('submit', async (event) => {
+ event.preventDefault();
+
+
+ const formData = new FormData(rotationForm);
+ const data = Object.fromEntries(formData.entries());
+
+
+ try {
+ const response = await fetch('/api/predict/rotation', {
+ method: 'POST',
+ headers: {
+ 'Content-Type': 'application/json'
+ },
+ body: JSON.stringify(data)
+ });
+
+
+ if (!response.ok) {
+ throw new Error(`HTTP error! status: ${response.status}`);
+ }
+
+
+ const result = await response.json();
+ rotationResultDiv.innerHTML = `<p><b>Predicción de Rotación:</b> ${JSON.stringify(result)}</p>`;
+ } catch (error) {
+ console.error('Error:', error);
+ rotationResultDiv.textContent = 'Error al obtener la predicción de rotación.';
+ }
+ });
+
+
+ // --- PERFORMANCE FORM ---
+ const performanceForm = document.getElementById('performance-form');
+ const performanceResultDiv = document.getElementById('result-performance');
+
+
+ performanceForm.addEventListener('submit', async (event) => {
+ event.preventDefault();
+
+
+ const formData = new FormData(performanceForm);
+ const data = Object.fromEntries(formData.entries());
+
+
+ try {
+ const response = await fetch('/api/predict/performance', {
+ method: 'POST',
+ headers: {
+ 'Content-Type': 'application/json'
+ },
+ body: JSON.stringify(data)
+ });
+
+
+ if (!response.ok) {
+ throw new Error(`HTTP error! status: ${response.status}`);
+ }
+
+
+ const result = await response.json();
+ performanceResultDiv.innerHTML = `<p><b>Predicción de Desempeño:</b> ${JSON.stringify(result)}</p>`;
+ } catch (error) {
+ console.error('Error:', error);
+ performanceResultDiv.textContent = 'Error al obtener la predicción de desempeño.';
+ }
+ });
+ </script>
+</body>
+</html>

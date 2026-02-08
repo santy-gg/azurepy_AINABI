@@ -1,0 +1,5 @@
+firebase-service.json
+config_postgres.py
+__pycache__/
+*.pyc
+.env

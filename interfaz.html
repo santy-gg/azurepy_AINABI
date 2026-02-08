@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ainabi Funcionalidades</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #f3f4f6;
+        color: #333;
+        line-height: 1.6;
+        padding: 2rem;
+      }
+      .titulo-descripcion {
+        text-align: center;
+        margin-bottom: 3rem;
+        color: #1a202c;
+      }
+      .titulo-descripcion h1 {
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+      }
+      .titulo-descripcion h2 {
+        font-size: 1.5rem;
+        font-weight: 400;
+        color: #4a5568;
+      }
+      .funcionalidades {
+        display: grid;
+        gap: 2rem;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      section {
+        background-color: #ffffff;
+        padding: 2rem;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+      section h2 {
+        font-size: 1.75rem;
+        font-weight: 600;
+        color: #2d3748;
+        margin-bottom: 1.5rem;
+        border-bottom: 2px solid #edf2f7;
+        padding-bottom: 0.75rem;
+      }
+      .contenedor-entrenamiento,
+      .contenedor-prediccion,
+      .contenedor-kmeans,
+      .contenedor-grafico {
+        margin-top: 1rem;
+      }
+      .contenedor-botones {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        margin-top: 1rem;
+        align-items: center;
+      }
+      button {
+        background-color: #4299e1;
+        color: white;
+        padding: 0.75rem 1.5rem;
+        border-radius: 0.5rem;
+        font-weight: 600;
+        transition: background-color 0.3s ease;
+        cursor: pointer;
+        border: none;
+      }
+      button:hover {
+        background-color: #3182ce;
+      }
+      .text-input,
+      .number-input {
+        padding: 0.5rem;
+        border: 1px solid #cbd5e0;
+        border-radius: 0.25rem;
+        margin-right: 0.5rem;
+      }
+      #reglasContainer {
+        border: 1px dashed #a0aec0;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        margin-top: 1.5rem;
+        width: 100%;
+      }
+      .regla {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        align-items: center;
+        margin-bottom: 1rem;
+      }
+      .regla label {
+        font-weight: 600;
+        color: #4a5568;
+      }
+      .regla input {
+        flex-grow: 1;
+        min-width: 80px;
+      }
+      #addReglaBtn {
+        background-color: #48bb78;
+      }
+      #addReglaBtn:hover {
+        background-color: #38a169;
+      }
+      /* Estilos para el nuevo botón "Aplicar Reglas y Entrenar" */
+      #aplicarReglasEntrenarBtn {
+        background-color: #ecc94b; /* Similar al color de "Generar CSV" */
+        color: #333;
+      }
+      #aplicarReglasEntrenarBtn:hover {
+        background-color: #d69e2e;
+      }
+
+      #customModal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 1000;
+      }
+      #customModal > div {
+        background-color: white;
+        padding: 2rem;
+        border-radius: 0.75rem;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        text-align: center;
+        width: 90%;
+        max-width: 400px;
+      }
+      #customModal button {
+        margin-top: 1.5rem;
+        background-color: #ed8936;
+      }
+      #customModal button:hover {
+        background-color: #dd6b20;
+      }
+      #resultados-prediccion {
+        margin-top: 2rem;
+        padding: 1rem;
+        background-color: #e2e8f0;
+        border-radius: 0.5rem;
+        color: #2d3748;
+        font-weight: 600;
+      }
+      .contenedor-tabla {
+        overflow-x: auto;
+        margin-top: 1.5rem;
+        background-color: #f7fafc;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+      }
+      .contenedor-tabla table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      .contenedor-tabla th,
+      .contenedor-tabla td {
+        padding: 0.75rem;
+        border: 1px solid #edf2f7;
+        text-align: left;
+      }
+      .contenedor-tabla th {
+        background-color: #e2e8f0;
+        font-weight: 700;
+        color: #2d3748;
+      }
+      .contenedor-tabla tr:nth-child(even) {
+        background-color: #f0f4f8;
+      }
+      iframe {
+        border-radius: 0.75rem;
+      }
+      .charts-section {
+        background-color: #ffffff;
+        padding: 2rem;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        margin-top: 2rem;
+      }
+      .charts-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 2rem;
+        margin-top: 1.5rem;
+      }
+      .chart-card {
+        background-color: #f7fafc;
+        padding: 1.5rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+      }
+      .chart-card h3 {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #2d3748;
+        margin-bottom: 1rem;
+        text-align: center;
+      }
+      canvas {
+        max-height: 300px; /* Limita la altura de los gráficos */
+        width: 100% !important; /* Asegura que el canvas ocupe el 100% del ancho del contenedor */
+        height: auto !important; /* Mantiene la proporción al ajustar el ancho */
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="titulo-descripcion">
+      <h1>Bienvenido</h1>
+      <h2>Aquí podrás probar las distintas funcionalidades de Ainabi</h2>
+    </div>
+
+    <div class="funcionalidades">
+      <section class="regresion-lineal">
+        <h2>Regresión Lineal</h2>
+        <div class="contenedor-entrenamiento">
+          <p class="texto-entrenamiento">
+            Aquí podrás entrenar el modelo de regresión lineal, selecciona un
+            archivo CSV:
+          </p>
+          <div class="contenedor-botones">
+            <button class="boton-subir-csv-entrenamiento">
+              <span>Ingresar archivo CSV</span>
+            </button>
+            <div id="reglasContainer">
+              <h3>Agregar Reglas</h3>
+              <div class="regla">
+                <label>Columna:</label>
+                <input type="text" class="columna" placeholder="Ej: puntaje" />
+                <label>Mín:</label>
+                <input type="number" class="minimo" />
+                <label>Máx:</label>
+                <input type="number" class="maximo" />
+              </div>
+            </div>
+            <button id="addReglaBtn">+ Agregar otra regla</button><br /><br />
+            <!-- Botón de "Generar CSV" renombrado y con nueva ID -->
+            <button id="aplicarReglasEntrenarBtn">Aplicar Reglas y Entrenar</button>
+            <!-- El botón "Entrenar Modelo" ya no es necesario como acción separada -->
+            <!-- <button class="boton-entrenar-regresion">
+              <span>Entrenar Modelo</span>
+            </button> -->
+          </div>
+        </div>
+
+        <!-- Sección para reglas previas -->
+        <div class="contenedor-reglas-previas mt-8">
+          <h2>Reglas Previamente Aplicadas</h2>
+          <button id="cargarReglasBtn" class="mb-4">Cargar Reglas Históricas</button>
+          <!-- Botón para usar reglas actuales con nueva funcionalidad -->
+          <button id="usarReglasActualesBtn" class="mb-4 bg-purple-500 hover:bg-purple-700">Utilizar Reglas Ingresadas</button>
+          <div id="historialReglasTabla" class="contenedor-tabla" style="display: none;">
+            <table>
+              <thead>
+                <tr>
+                  <th>ID Regla</th>
+                  <th>Fecha Aplicación</th>
+                  <th>Detalles (Resumen)</th>
+                  <th>Acción</th>
+                </tr>
+              </thead>
+              <tbody id="reglasTablaBody">
+                <!-- Las reglas se insertarán aquí -->
+              </tbody>
+            </table>
+          </div>
+          <p id="reglaSeleccionadaDisplay" class="mt-4 font-semibold" style="display: none;">
+            Regla seleccionada para predicción: <span id="selectedRuleId"></span>
+          </p>
+        </div>
+        <!-- Fin Sección para reglas previas -->
+
+        <div class="contenedor-prediccion">
+          <p class="texto-prediccion">
+            Cargue un archivo CSV para predecir los resultados:
+          </p>
+          <div class="contenedor-botones">
+            <button class="boton-cargar-csv-prediccion">
+              <span>Ingresar archivo CSV de predicción</span>
+            </button>
+            <button class="boton-predecir">
+              <span>Predecir</span>
+            </button>
+            <button class="boton-guardar">
+              <span>Guardar en base de datos</span>
+            </button>
+          </div>
+          <div id="resultados-prediccion">Resultados de la Predicción:</div>
+          <div id="tabla-resultados"></div>
+        </div>
+      </section>
+
+      <section class="kmeans">
+        <h2>K-Means</h2>
+        <div class="contenedor-kmeans">
+          <p class="texto-kmeans">
+            Aquí podrás aplicar el modelo de K-means, selecciona un archivo CSV:
+          </p>
+          <div class="contenedor-botones">
+            <button class="boton-subir-csv-kmeans">
+              <span>Ingresar archivo CSV</span>
+            </button>
+            <button class="boton-aplicar-kmeans">
+              <span>Aplicar K-Means</span>
+            </button>
+          </div>
+        </div>
+      </section>
+
+    <div id="customModal" style="display: none">
+      <div>
+        <p id="modalMessage"></p>
+        <button
+          onclick="document.getElementById('customModal').style.display = 'none'"
+        >
+          Cerrar
+        </button>
+      </div>
+    </div>
+
+    <script>
+      let resultados_regresion = [];
+      let selectedRuleIdForPrediction = null; // Variable para almacenar el ID de la regla seleccionada
+      let currentInputRules = {}; // Para almacenar las reglas ingresadas por el usuario
+
+      // Function to show custom modal messages
+      function showMessage(message) {
+        document.getElementById("modalMessage").textContent = message;
+        document.getElementById("customModal").style.display = "flex"; // Use flex to center
+      }
+
+      // Constantes de elementos de la interfaz
+      const aplicarReglasEntrenarBtn = document.getElementById("aplicarReglasEntrenarBtn"); // Renombrado
+      const botonCargarCsvPrediccion = document.querySelector(".boton-cargar-csv-prediccion");
+      const botonPredecir = document.querySelector(".boton-predecir");
+      const resultadosPrediccionDiv = document.getElementById("resultados-prediccion");
+      const botonGuardarRegresion = document.querySelector(".boton-guardar");
+      const tablaResultadosDiv = document.getElementById("tabla-resultados");
+      const cargarReglasBtn = document.getElementById("cargarReglasBtn");
+      const historialReglasTabla = document.getElementById("historialReglasTabla");
+      const reglasTablaBody = document.getElementById("reglasTablaBody");
+      const reglaSeleccionadaDisplay = document.getElementById("reglaSeleccionadaDisplay");
+      const selectedRuleIdSpan = document.getElementById("selectedRuleId");
+      const usarReglasActualesBtn = document.getElementById("usarReglasActualesBtn");
+
+      // Define la URL base de tu API de Render
+      const API_BASE_URL = "https://azurepy.onrender.com/";
+
+      let csvDataPrediccion = null;
+      // modeloEntrenado ya no se usa directamente en el frontend, el flujo lo asegura
+
+      // Función para agregar un nuevo campo de regla
+      document.getElementById("addReglaBtn").addEventListener("click", () => {
+        const container = document.getElementById("reglasContainer");
+        const div = document.createElement("div");
+        div.classList.add("regla");
+        div.innerHTML = `
+        <label>Columna:</label>
+        <input type="text" class="columna" placeholder="Ej: puntaje">
+        <label>Mín:</label>
+        <input type="number" class="minimo">
+        <label>Máx:</label>
+        <input type="number" class="maximo">
+      `;
+        container.appendChild(div);
+      });
+
+      // Función auxiliar para recolectar las reglas del formulario
+      function collectRulesFromInputs() {
+        const reglas = {};
+        document.querySelectorAll(".regla").forEach((reglaDiv) => {
+          const columna = reglaDiv.querySelector(".columna").value.trim();
+          const minimo = parseFloat(reglaDiv.querySelector(".minimo").value);
+          const maximo = parseFloat(reglaDiv.querySelector(".maximo").value);
+
+          if (!columna || isNaN(minimo) || isNaN(maximo)) return;
+
+          if (!reglas[columna]) reglas[columna] = {};
+          reglas[columna] = {"1":[minimo, maximo]};
+        });
+        return reglas;
+      }
+
+      // === FUNCIÓN CENTRAL: Aplicar reglas, generar CSV y entrenar modelo ===
+      async function applyRulesAndTrainModel(rules, ruleIdForDb = null) {
+        showMessage("Generando CSV de entrenamiento y entrenando modelo...");
+        console.log("Aplicando reglas y entrenando. Reglas:", JSON.stringify(rules, null, 2), "ID para DB:", ruleIdForDb);
+
+        try {
+          // Paso 1: Generar CSV de entrenamiento con las reglas proporcionadas
+          const generateCsvResponse = await fetch(
+            `${API_BASE_URL}api/predict/generar_csv_training`, // Usando la URL base
+            {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json",
+              },
+              body: JSON.stringify(rules),
+            }
+          );
+
+          if (!generateCsvResponse.ok) {
+            const error = await generateCsvResponse.json();
+            throw new Error(error.error || "Error al generar el CSV de entrenamiento.");
+          }
+          const generateCsvData = await generateCsvResponse.json();
+          console.log("CSV de entrenamiento generado:", generateCsvData);
+          showMessage(`✅ CSV de entrenamiento generado. Ahora entrenando el modelo...`);
+
+          // Paso 2: Entrenar el modelo
+          const trainModelResponse = await fetch(
+            `${API_BASE_URL}api/predict/performance_train`, // Usando la URL base
+            {
+              method: "POST", // Este endpoint no necesita un body
+            }
+          );
+
+          if (!trainModelResponse.ok) {
+            const error = await trainModelResponse.json();
+            throw new Error(error.error || "Error al entrenar el modelo.");
+          }
+          const trainModelData = await trainModelResponse.json();
+          console.log("Modelo entrenado:", trainModelData);
+          
+          // Actualizar la variable de la regla seleccionada para la predicción
+          selectedRuleIdForPrediction = ruleIdForDb; 
+          if (ruleIdForDb) {
+            selectedRuleIdSpan.textContent = ruleIdForDb;
+            reglaSeleccionadaDisplay.style.display = "block";
+            showMessage(`✅ Reglas ID ${ruleIdForDb} aplicadas, modelo entrenado. Precisión: ${trainModelData.accuracy}`);
+          } else {
+            selectedRuleIdSpan.textContent = "Últimas ingresadas"; 
+            reglaSeleccionadaDisplay.style.display = "block";
+            showMessage(`✅ Reglas ingresadas aplicadas, modelo entrenado. Precisión: ${trainModelData.accuracy}`);
+          }
+          console.log("selectedRuleIdForPrediction actualizado a:", selectedRuleIdForPrediction);
+
+        } catch (err) {
+          showMessage(`❌ Error en el proceso de aplicación de reglas y entrenamiento: ${err.message}`);
+          console.error("Detalle del error en applyRulesAndTrainModel:", err);
+          // Asegurarse de resetear la selección si falla el proceso
+          selectedRuleIdForPrediction = null;
+          reglaSeleccionadaDisplay.style.display = "none";
+          selectedRuleIdSpan.textContent = "";
+        }
+      }
+      // === FIN FUNCIÓN CENTRAL ===
+
+      // === Event Listeners Actualizados ===
+
+      // Botón "Aplicar Reglas y Entrenar" (antes "Generar CSV")
+      aplicarReglasEntrenarBtn.addEventListener("click", async () => {
+        currentInputRules = collectRulesFromInputs(); // Recolectar las reglas del formulario
+        await applyRulesAndTrainModel(currentInputRules, null); // null para que el backend busque la última ID
+      });
+
+      // Botón "Cargar Reglas Históricas"
+      cargarReglasBtn.addEventListener("click", async () => {
+        try {
+          const response = await fetch(`${API_BASE_URL}api/data/reglas_previas`); // Usando la URL base
+          if (!response.ok) {
+            const error = await response.json();
+            throw new Error(error.error || "Error al cargar reglas históricas.");
+          }
+          const reglas = await response.json();
+          displayReglasHistoricas(reglas);
+        } catch (error) {
+          showMessage("❌ Error: " + error.message);
+          console.error("Error cargando reglas históricas:", error);
+        }
+      });
+
+      // Función para mostrar reglas históricas (se mantiene igual, solo la llama applyRulesAndTrainModel)
+      function displayReglasHistoricas(reglas) {
+        reglasTablaBody.innerHTML = ""; // Limpiar tabla
+        if (reglas.length === 0) {
+          reglasTablaBody.innerHTML = '<tr><td colspan="4" class="text-center">No hay reglas guardadas aún.</td></tr>';
+          historialReglasTabla.style.display = "block";
+          return;
+        }
+
+        reglas.forEach(regla => {
+          const row = reglasTablaBody.insertRow();
+          row.insertCell().textContent = regla.id_regla;
+          row.insertCell().textContent = new Date(regla.fecha_aplicacion).toLocaleString();
+          
+          let detallesResumen = "";
+          try {
+            const detallesObj = regla.detalles_reglas; 
+            detallesResumen = Object.entries(detallesObj)
+              .map(([col, vals]) => {
+                // Manejar el caso de 'desempenio' y 'jerarquia' si tienen subclaves como "0", "1", "2"
+                if (["desempenio", "jerarquia"].includes(col) && typeof vals === 'object' && vals !== null) {
+                    const mappedVals = Object.entries(vals).map(([key, range]) => {
+                         if (Array.isArray(range) && range.length >= 2) {
+                             return `${key}:[${range[0]}-${range[1]}]`;
+                         }
+                         return "";
+                    }).filter(Boolean).join("; ");
+                    return `${col}: {${mappedVals}}`;
+                }
+                const range = vals["1"]; 
+                if (Array.isArray(range) && range.length >= 2) {
+                    return `${col}: [${range[0]}-${range[1]}]`;
+                } else {
+                    return `${col}: Formato inválido`;
+                }
+              })
+              .join(", ");
+          } catch (e) {
+            detallesResumen = "Error al parsear detalles";
+            console.error("Error al parsear detalles de reglas:", e, regla.detalles_reglas);
+          }
+          row.insertCell().textContent = detallesResumen;
+
+          const accionCell = row.insertCell();
+          const selectBtn = document.createElement("button");
+          // CAMBIO AQUI: Renombrar el texto del botón
+          selectBtn.textContent = "Seleccionar y Entrenar"; 
+          selectBtn.classList.add("bg-green-500", "hover:bg-green-700", "text-white", "font-bold", "py-1", "px-2", "rounded", "text-sm");
+          selectBtn.onclick = () => selectRuleForPrediction(regla.id_regla);
+          accionCell.appendChild(selectBtn);
+        });
+        historialReglasTabla.style.display = "block";
+      }
+
+      // Función para seleccionar una regla histórica y entrenar
+      async function selectRuleForPrediction(ruleId) {
+        try {
+            showMessage(`Entrenando modelo con regla histórica ID ${ruleId}...`);
+            console.log("Entrenando con regla histórica ID:", ruleId);
+
+            // Llamar al nuevo endpoint para entrenar con reglas históricas
+            const response = await fetch(`${API_BASE_URL}api/predict/train_with_historical`, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({ rule_id: ruleId }),
+            });
+
+            if (!response.ok) {
+                const error = await response.json();
+                throw new Error(error.error || `Error al entrenar con regla ID ${ruleId}.`);
+            }
+
+            const result = await response.json();
+            console.log("Entrenamiento completado:", result);
+
+            // Actualizar la variable de la regla seleccionada para la predicción
+            selectedRuleIdForPrediction = ruleId;
+            selectedRuleIdSpan.textContent = ruleId;
+            reglaSeleccionadaDisplay.style.display = "block";
+            
+            showMessage(`✅ Modelo entrenado exitosamente con regla ID ${ruleId}. Precisión: ${result.resultado_entrenamiento.accuracy}`);
+            
+        } catch (error) {
+            showMessage(`❌ Error al entrenar con regla histórica: ${error.message}`);
+            console.error("Error en selectRuleForPrediction:", error);
+            // Resetear la selección si falla
+            selectedRuleIdForPrediction = null;
+            reglaSeleccionadaDisplay.style.display = "none";
+            selectedRuleIdSpan.textContent = "";
+        }
+      }
+      // === Fin Event Listeners Actualizados ===
+
+
+      // Botón "Utilizar Reglas Ingresadas" (antes "Utilizar Reglas Actuales")
+      usarReglasActualesBtn.addEventListener("click", async () => {
+        currentInputRules = collectRulesFromInputs(); // Recolectar las reglas del formulario
+        await applyRulesAndTrainModel(currentInputRules, null); // null para que el backend busque la última ID
+      });
+
+
+      // El botón "Entrenar Modelo" ya no tiene un listener directo aquí,
+      // su función está integrada en applyRulesAndTrainModel.
+      // botonEntrenarRegresion.addEventListener("click", ...); // ELIMINADO O COMENTADO
+
+      botonCargarCsvPrediccion.addEventListener("click", () => {
+        const input = document.createElement("input");
+        input.type = "file";
+        input.accept = ".csv";
+        input.onchange = (event) => {
+          const file = event.target.files[0];
+          const reader = new FileReader();
+          reader.onload = (e) => {
+            csvDataPrediccion = e.target.result;
+            showMessage(
+              "Archivo CSV de predicción cargado. Ahora puede predecir."
+            );
+          };
+          reader.readAsText(file);
+        };
+        input.click();
+      });
+
+      botonPredecir.addEventListener("click", () => {
+        if (!csvDataPrediccion) {
+          showMessage(
+            "Por favor, cargue primero un archivo CSV de predicción."
+          );
+          return;
+        }
+
+        const formData = new FormData();
+        formData.append(
+          "file",
+          new Blob([csvDataPrediccion]),
+          "prediction.csv"
+        );
+
+        // Envía selectedRuleIdForPrediction si está definido. Si es null, el backend usará el último ID.
+        if (selectedRuleIdForPrediction !== null) {
+          formData.append("id_regla_seleccionada", selectedRuleIdForPrediction);
+          console.log("Enviando predicción con Regla ID seleccionada:", selectedRuleIdForPrediction);
+        } else {
+          console.log("Enviando predicción sin regla específica seleccionada (se usará la última regla aplicada/entrenada).");
+        }
+
+
+        fetch(`${API_BASE_URL}api/predict/future_performance`, { // Usando la URL base
+          method: "POST",
+          body: formData,
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            console.log("Respuesta de la API:", data);
+            if (data && data.error) {
+              showMessage("Error al realizar la predicción: " + data.error);
+              return;
+            }
+            mostrarResultadosPrediccion(data.resultados);
+          })
+          .catch((error) => {
+            console.error("Error al predecir:", error);
+            showMessage("Error al realizar la predicción.");
+          });
+      });
+
+      botonGuardarRegresion.addEventListener("click", async () => {
+        if (resultados_regresion.length === 0) {
+          showMessage(
+            "⚠️ Primero realizá la predicción con regresión lineal antes de guardar."
+          );
+          return;
+        }
+        showMessage(
+          "La predicción ya guarda los datos en la base de datos automáticamente. No es necesario guardar de nuevo."
+        );
+        return;
+      });
+
+      function mostrarResultadosPrediccion(data) {
+        resultadosPrediccionDiv.style.display = "block";
+        tablaResultadosDiv.innerHTML = "";
+        tablaResultadosDiv.style.display = "none";
+
+        const predicciones = Array.isArray(data) ? data : data.predicciones;
+        resultados_regresion = predicciones;
+
+        if (!Array.isArray(predicciones) || predicciones.length === 0) {
+          resultadosPrediccionDiv.textContent =
+            "No se obtuvieron resultados de la predicción.";
+          return;
+        }
+
+        const columnas = Object.keys(predicciones[0]);
+
+        let tablaHTML = '<div class="contenedor-tabla"><table>';
+        tablaHTML += "<tr>";
+        columnas.forEach((col) => {
+          tablaHTML += `<th>${col}</th>`;
+        });
+        tablaHTML += "</tr>";
+
+        predicciones.forEach((fila) => {
+          tablaHTML += "<tr>";
+          columnas.forEach((col) => {
+            tablaHTML += `<td>${fila[col]}</td>`;
+          });
+          tablaHTML += "</tr>";
+        });
+
+        tablaHTML += "</table></div>";
+
+        tablaResultadosDiv.innerHTML = tablaHTML;
+        tablaResultadosDiv.style.display = "block";
+      }
+
+      const botonSubirCsvKmeans = document.querySelector(
+        ".boton-subir-csv-kmeans"
+      );
+      const botonAplicarKmeans = document.querySelector(
+        ".boton-aplicar-kmeans"
+      );
+
+      botonSubirCsvKmeans.addEventListener("click", () => {
+        showMessage(
+          "Función para subir archivo CSV para K-Means no implementada aún"
+        );
+      });
+
+      botonAplicarKmeans.addEventListener("click", () => {
+        showMessage("Función para aplicar K-Means no implementada aún");
+      });
+
+    </script>
+  </body>
+</html>
